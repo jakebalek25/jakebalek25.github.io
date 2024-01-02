@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jake Balek
+title                    : "Jake Balek"
 title_separator          : "-"
 name                     : &name "Jake Balek"
 description              : &description "personal description"
