@@ -13,6 +13,7 @@ I am currently in my junior year as an undergrad student at Syracuse University.
 I am pursuing a Bachelor of Science degree with a major in Sports Analytics and a minor in Data Analytics.
 
 I have a keen research interest in baseball statistics and how they can be found through predictive modeling.
+ 
   
 
 Experience
