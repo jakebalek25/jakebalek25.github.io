@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Atlanta Braves 2023 Offensive Surge"
+excerpt: "Breakdown of 2023 Atlanta Braves Dominant Offense <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
