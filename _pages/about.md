@@ -14,7 +14,7 @@ I am pursuing a Bachelor of Science degree with a major in Sports Analytics and 
 
 I have a keen research interest in baseball statistics and how they can be found through predictive modeling.
 
-
+###
 
   
 
