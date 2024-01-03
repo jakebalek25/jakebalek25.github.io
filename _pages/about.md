@@ -19,14 +19,14 @@ Experience
 ======
 Outside of my personal research, I have been blessed to work on some unique projects with my peers in which I gained some great experience. 
 
-# Columbus Blue Jackets
+## Columbus Blue Jackets
 During the 2023 fall, I worked with a group of 6 other Syracuse University students to tackle a massive data set provided to us by the Columbus Blue Jackets. This project was confidential, however I can share a few details!
 
 We worked with survey data from the 2022 season and broke down each aspect of the set so it could be easily understood by anyone with a non-analytical background. We were then lucky enough to be able to present our findings to the staff and provided with suggestions for the future on ways to improve. 
 
 It was a great experience because I was able to work with large amounts of raw data and take the project any way that I wanted. Overall, a great experience and my findings came out great!
 
-# Assisting Professor with Predictions
+## Assisting Professor with Predictions
 After the 2023 MLB season, my professor Jeremy Losak, provided a few students at Syracuse University with a set of predictions. These predictions were based on the rule changes set into place during the 2023 season. 
 
 The predictions and findings have been presented to media, so unfortunately I cannot share any exact details quite yet, but I can share some of the process we took to complete the objective!
