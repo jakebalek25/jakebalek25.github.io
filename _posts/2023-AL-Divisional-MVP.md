@@ -1,7 +1,7 @@
 ---
 title: 'AL Divsional Series MVP'
 date: 2023-10-09
-permalink: /posts/2023/08/blog-post-4/
+permalink: /posts/2023/08/2023-AL-Divisional-MVP/
 tags:
   - cool posts
   - category1
