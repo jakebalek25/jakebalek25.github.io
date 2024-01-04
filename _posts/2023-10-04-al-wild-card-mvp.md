@@ -1,7 +1,7 @@
 ---
 title: 'Wild Card Series MVP'
 date: 2023-10-04
-permalink: /posts/2023/10/AL-Wild-Card-MVP/
+permalink: /posts/2023/10/al-wild-card-mvp/
 tags:
   - playoff baseball
   - AL Wild Card
