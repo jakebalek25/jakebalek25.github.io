@@ -24,5 +24,5 @@ This chart constructed in R studio shows the spray of batted balls in play from 
 
 Strike Zone & Batted Ball Display
 ------
-![Illustration of Bryce Harper's 2023 NLDS Batted Ball & Strike Zone Display Chart](images/Bryce_Week_Zone.png)
+![Illustration of Bryce Harper's 2023 NLDS Batted Ball & Strike Zone Display Chart](/images/Bryce_Week_Zone.png)
 This chart shows the strike zone and pitches that Harper made contact with during the NLDS. Compared to the regular season, Harper does a great job staying strict with pitches he makes contact with. These being primarily balls lower in the zone where he can stay down on and do damage.
