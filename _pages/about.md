@@ -18,8 +18,7 @@ My research interests include baseball statistics and their derivation through p
 
 Experience
 ======
-Outside of my personal research, I have been blessed to work on some unique projects with my peers in which I gained some great experience. 
-
+Outside of my personal research, collaboration on unique projects with peers has provided valuable experience and further tools to bring to the workplace.
  
 ## Columbus Blue Jackets
 During the 2023 fall, I worked with a group of 6 other Syracuse University students to tackle a massive data set provided to us by the Columbus Blue Jackets. This project was confidential, however I can share a few details!
