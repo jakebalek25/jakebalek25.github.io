@@ -23,5 +23,5 @@ This chart constructed in R studio shows the spray of each ball put that Alvarez
 
 Strike Zone & Batted Ball Display
 ------
-![Illustration of Yordan Alvarez's 2023 ALDS Batted Ball & Strike Zone Display Chart](images/Yordan_week_Zone.png)
+![Illustration of Yordan Alvarez's 2023 ALDS Batted Ball & Strike Zone Display Chart](/images/Yordan_week_Zone.png)
 This chart shows each pitch that Alvarez put into play during the ALDS and what pitch it was. He has been able to keep a pretty tight strike zone and only contact pitches he can do damage with rather than letting the pitcher dictate what he hits. 
