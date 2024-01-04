@@ -21,8 +21,7 @@ This chart constructed in R studio shows the spray of each base hit that Alvarez
 (/images/Yordan_Spray_week.png)
 This chart constructed in R studio shows the spray of each ball put that Alvarez into play during the division series. This aligns with the regular season spray chart, and nothing looks out of the ordinary meaning he has been able to do a great job keeping the same approach. 
 
-You can have many headings
+Strike Zone & Batted Ball Display
 ------
-
-Aren't headings cool?
-------
+(images/Yordan_week_Zone.png)
+This chart shows each pitch that Alvarez put into play during the ALDS and what pitch it was. He has been able to keep a pretty tight strike zone and only contact pitches he can do damage with rather than letting the pitcher dictate what he hits. 
