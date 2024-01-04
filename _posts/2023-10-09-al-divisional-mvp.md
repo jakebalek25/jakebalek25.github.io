@@ -15,13 +15,13 @@ The player of the week in the ALDS was Yordan Alvarez slugging at a historic rat
 
 Spray Chart Action
 ------
-(/images/Yordan_Season_Spray.png)
+![Illustration of Yordan Alvarez's 2023 Regular Season Spray Chart](/images/Yordan_Season_Spray.png)
 This chart constructed in R studio shows the spray of each base hit that Alvarez had during the entire regular season. It is a great vision of what may be to come the rest of the playoffs, but overall, he hits the ball to all areas of the field making it hard to predict where he may hit the next one. 
 
-(/images/Yordan_Spray_week.png)
+![Illustration of Yordan Alvarez's 2023 ALDS Spray Chart](/images/Yordan_Spray_week.png)
 This chart constructed in R studio shows the spray of each ball put that Alvarez into play during the division series. This aligns with the regular season spray chart, and nothing looks out of the ordinary meaning he has been able to do a great job keeping the same approach. 
 
 Strike Zone & Batted Ball Display
 ------
-(images/Yordan_week_Zone.png)
+![Illustration of Yordan Alvarez's 2023 ALDS Batted Ball & Strike Zone Display Chart](images/Yordan_week_Zone.png)
 This chart shows each pitch that Alvarez put into play during the ALDS and what pitch it was. He has been able to keep a pretty tight strike zone and only contact pitches he can do damage with rather than letting the pitcher dictate what he hits. 
