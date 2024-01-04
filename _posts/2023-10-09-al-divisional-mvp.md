@@ -1,7 +1,7 @@
 ---
 title: 'AL Divsional Series MVP'
 date: 2023-10-09
-permalink: /posts/2023/10/09-A-Divisional-MVP/
+permalink: /posts/2023/10/09-al-divisional-mvp/
 tags:
   - playoff baseball
   - AL Divisional Series
