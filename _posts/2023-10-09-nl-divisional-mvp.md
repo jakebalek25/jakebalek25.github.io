@@ -16,13 +16,13 @@ After game 2 of the series, Orlando Arcia made comments about Harper being doubl
 
 Spray Chart Action
 ------
-(/images/Bryce_Season_Spray.png)
+![Illustration of Bryce Harper's 2023 Regular Season Spray Chart](/images/Bryce_Season_Spray.png)
 This chart constructed in R studio shows the spray of base hits Harper had during the entirety of the 2023 regular season. It shows that he likes to hit the ball to right field for power but can spray the ball to all areas of the park making it very hard to judge where he may hit the next.
 
-(/images/Bryce_Week_spray.png)
+![Illustration of Bryce Harper's 2023 NLDS Spray Chart](/images/Bryce_Week_spray.png)
 This chart constructed in R studio shows the spray of batted balls in play from Harper during the NLDS. It shows how he worked deeper to the right side of the field and had lots of success driving the ball in this area. 
 
 Strike Zone & Batted Ball Display
 ------
-(images/Bryce_Week_Zone.png)
+![Illustration of Bryce Harper's 2023 NLDS Batted Ball & Strike Zone Display Chart](images/Bryce_Week_Zone.png)
 This chart shows the strike zone and pitches that Harper made contact with during the NLDS. Compared to the regular season, Harper does a great job staying strict with pitches he makes contact with. These being primarily balls lower in the zone where he can stay down on and do damage.
