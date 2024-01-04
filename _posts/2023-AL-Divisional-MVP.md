@@ -3,9 +3,9 @@ title: 'AL Divsional Series MVP'
 date: 2023-10-09
 permalink: /posts/2023/08/2023-AL-Divisional-MVP/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - playoff baseball
+  - AL Divisional Series
+  - Yordan Alvarez
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
