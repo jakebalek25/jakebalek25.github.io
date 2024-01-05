@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of Syracuse University campus](/images/cuse_campus.webp){: .align-right width="300px"}
+![Illustration of myself at the Washington Nationals Ballpark](/images/nationals_pic.jpeg){: .align-right width="300px"}
 Currently in my junior year as an undergraduate student at Syracuse University.
 
 Pursuing a Bachelor of Science degree with a major in Sports Analytics and a minor in Data Analytics.
