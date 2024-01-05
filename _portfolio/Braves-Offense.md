@@ -4,4 +4,4 @@ excerpt: "Breakdown of 2023 Atlanta Braves Dominant Offense <br/><img src='/imag
 collection: portfolio
 ---
 
-![Poster showing the Braves success](/images/Braves_Final_Poster.pdf)
+![Poster showing the Braves success](/images/Braves_Final_Poster.png)
