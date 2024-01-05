@@ -5,3 +5,4 @@ collection: portfolio
 ---
 
 ![Poster showing the Braves success](/images/Braves_Final_Poster.png)
+This poster summarizes each statistic that made the Braves offense incredible. 
