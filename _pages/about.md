@@ -16,3 +16,5 @@ Pursuing a Bachelor of Science degree with a major in Sports Analytics and a min
 Previously worked with data across all major sports and their derivation through predictive modeling. 
 
 My favorite sport data is baseball. 
+
+Check out my Portfolio tab for some of the bigger projects I have worked on recently or my Blog tab for some of the smaller ideas I've recently thought about. 
