@@ -7,4 +7,4 @@ collection: portfolio
 
 ![Poster showing the Braves success](/images/Braves_Final_Poster.png)
 
-The poster shown was created for the purpose of completing my IST 421 course. 
+The poster shown was created for the purpose of completing my IST 421 course. The poster showcases the statistics in which the 2023 Atlanta Braves were very dominant in compared to the rest of the league. I used different visualization skills learned in 421 to complete this poster such as utilising different packages in R studio and Adobe Illustrator. 
