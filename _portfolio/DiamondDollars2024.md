@@ -9,9 +9,7 @@ collection: portfolio
 The link to the slideshow can be found by clicking on the image. 
 
 I also created a basic shiny app to display our results in a more interactive way!
-<a href="https://jjbalek.shinyapps.io/Case_Comp_Shiny_App/">
-    <img src="BasicShinyApp.png" alt="Homescreen of Shiny App">
-</a>
+[<img src="/images/BasicShinyApp.png" alt="Homescreen of Shiny App">](https://jjbalek.shinyapps.io/Case_Comp_Shiny_App/)
 Reminder: There was only one week to complete the case competition and the shiny app was the least of priority on the last days so it is quite basic!
 
 The
