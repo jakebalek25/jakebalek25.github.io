@@ -10,7 +10,7 @@ The link to the slideshow can be found by clicking on the image.
 
 I also created a personal shiny app to display our results in a more interactive way!
 <a href="https://jjbalek.shinyapps.io/Case_Comp_Shiny_App/">
-    <img src="image.jpg" alt="Homescreen of Shiny App">
+    <img src="BasicShinyApp.png" alt="Homescreen of Shiny App">
 </a>
 
 The
