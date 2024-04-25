@@ -14,6 +14,6 @@ We then decided we wanted to create a different metric for both hitters and pitc
 
 Our metric aimed to reward batters for fouling off pitches with a higher probability of being called a strike and punish batters for fouling off pitches with a lower probability of being called a strike. 
 
-I created a basic shiny app to display our results in a more interactive way!
+I created a basic shiny app to display our results in a more interactive way. Click on the image for more!
 [<img src="/images/BasicShinyApp.png" alt="Homescreen of Shiny App">](https://jjbalek.shinyapps.io/Case_Comp_Shiny_App/)
 Reminder: There was only one week to complete the case competition and the shiny app was the least of priority on the last days so it is quite basic!
