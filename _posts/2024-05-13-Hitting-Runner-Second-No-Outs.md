@@ -11,7 +11,7 @@ tags:
 
 Yesterday, watching the Chicago Cubs play the Pittsburgh Pirates, I couldn't help but think about how hitters approach situations when there is a runner on second base with no outs. Is it different in extra innings
 versus during the regularly scheduled 9 innings? What counts do hitters attack in? Do hitters bunt or do they swing for the fences and what is the success rate of either scoring or moving a runner over?
-![Illustration of Corbin Carroll's Success](/images/corbincarroll_post_image.png)
+![Illustration of Cubs vs. Pirates](images/Cubs-Pirates-Baseball-33-1687355326.jpg)
 
 
 Win Probability Added
