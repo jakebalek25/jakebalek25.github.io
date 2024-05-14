@@ -34,7 +34,9 @@ Lets dive a little deeper by looking at how each opportunity affects the delta h
 
 The delta home win expectancy tells us the change in percent chance that the home team will win based on the score, inning, outs, runners on base and other situational factors that could affect the score. In this situation, we only hace the change in the home win expectancy. So, when the delta home win expectancy is positive in the bottom half of an inning, we can conclude that it is a good at-bat. The opposite goes for the away team. When the delta home win expectancy is negative in the top half of an inning, we can conclude that the result is a good at-bat for the away team. 
 
-![Table showing the distribution of events for within a good or bad at bat](/images/deltahomewinreg.png)
+![Table showing the distribution of events for within a good or bad at bat](/images/deltahomewinreg.png){: width="75%"}
+
+
 
 Extra Innings
 ------
@@ -42,7 +44,7 @@ The rule of a runner starting on second base was implimented in the 2020 shorten
 
 ![Table showing the distribution of events for the at-bat following in extra innings](/images/secondbasecountextras1.png){: width="75%"}
 
-![Table showing the distribution of events for within a good or bad at bat](/images/deltahomewinreg.png)
+![Table showing the distribution of events for within a good or bad at bat](/images/deltahomewinreg.png){: width="75%"}
 
 
 
