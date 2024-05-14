@@ -32,6 +32,9 @@ We see that teams tend to allow their hitters swing away in this situation as sa
 
 Lets dive a little deeper by looking at how each opportunity affects the delta home win expectancy!
 
+The delta home win expectancy tells us the change in percent chance that the home team will win based on the score, inning, outs, runners on base and other situational factors that could affect the score. In this situation, we only hace the change in the home win expectancy. So, when the delta home win expectancy is positive in the bottom half of an inning, we can conclude that it is a good at-bat. The opposite goes for the away team. When the delta home win expectancy is negative in the top half of an inning, we can conclude that the result is a good at-bat for the away team. 
+
+![Table showing the distribution of events for within a good or bad at bat](/images/deltahomewinreg.png)
 
 Extra Innings
 ------
@@ -39,12 +42,16 @@ The rule of a runner starting on second base was implimented in the 2020 shorten
 
 ![Table showing the distribution of events for the at-bat following in extra innings](/images/secondbasecountextras1.png){: width="75%"}
 
+![Table showing the distribution of events for within a good or bad at bat](/images/deltahomewinreg.png)
+
+
 
 Comparing Both Situations
 ------
 We can look at both pie charts to determine when hitters may be trying to hit the ball differently.
 reg
 ![Table showing the distribution of events for the at-bat following in regular innings](/images/secondbasecount.png){: width="90%"}
+
 extra
 ![Table showing the distribution of events for the at-bat following in extra innings](/images/secondbasecountextras.png){: width="90%"}
 We can also look into how teams are much more likely to attempt a sacrifice bunt by comparing the distribution of events during extra innings and regular innings.
