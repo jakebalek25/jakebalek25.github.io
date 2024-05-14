@@ -47,7 +47,11 @@ Extra Innings
 ------
 The rule of a runner starting on second base was implimented in the 2020 shortened season and fully adopted later. The importance of scoring the runner at 2nd is crucial because it is hard to stop once on defense. A strikeout is the worst possible scenario that can occur in the leadoff spot during an extra inning because the ball isn't put into play meaning the runner has a 0% chance of either scoring or advancing a base. Runs are much more valuable in extra innings because it is a tie game so taking the lead by one can be all a team needs to win the game. By starting the inning with a "good" at-bat, teams are much more likely to raise the delta win expectancy. 
 
-![Table showing the distribution of events for the at-bat following in extra innings](/images/secondbasecountextras1.png){: width="75%"}
+
+<figure style="width: 75%; margin: 0 auto; text-align: center;">
+  <img src="/images/secondbasecountextras1.png" alt="Table showing the distribution of events for the at-bat following in extra innings" style="width: 100%;">
+  <figcaption style="margin-top: 10px;">The "other" column incorporates a catcher interference, fielding error, hit by pitch, a triple play or a stolen 3rd base. These events were either very rare or out of the hitter's control.</figcaption>
+</figure>
 
 ![Table showing the distribution of events for within a good or bad at bat](/images/deltahomewinreg.png){: width="75%"}
 
