@@ -26,7 +26,7 @@ The goal of any team during the regular 9 innings during a typical baseball game
 
 ![Table showing the distribution of events for the at-bat following in regular innings](/images/secondbasecount1.png){: width="75%"}
 ![Table showing the distribution of events for the at-bat following in regular innings](/images/secondbasecount.png){: width="90%"}
-
+-- The other column incorporates a catcher interference, fielding error, hit by pitch, or a triple play. These events were either very rare or out of the hitter's control.
 
 Extra Innings
 ------
