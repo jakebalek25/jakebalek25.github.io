@@ -53,8 +53,10 @@ The rule of a runner starting on second base was implimented in the 2020 shorten
   <figcaption style="margin-top: 10px;">The "other" column incorporates a catcher interference, fielding error, hit by pitch, a triple play or a stolen 3rd base. These events were either very rare or out of the hitter's control.</figcaption>
 </figure>
 
-![Table showing the distribution of events for within a good or bad at bat](/images/deltahomewinreg.png){: width="75%"}
 
+<figure style="width: 75%; margin: 0 auto; text-align: center;">
+  <img src="/images/deltahomewinextras.png" alt="Table showing the distribution of events for within a good or bad at bat" style="width: 100%;">
+</figure>
 
 
 Comparing Both Situations
