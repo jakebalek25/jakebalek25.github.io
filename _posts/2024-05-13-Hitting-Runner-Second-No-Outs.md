@@ -26,7 +26,7 @@ The goal of any team during the regular 9 innings during a typical baseball game
 
 ![Table showing the distribution of events for the at-bat following in regular innings](/images/secondbasecount1.png){: width="75%"}
 
-The "other" column incorporates a catcher interference, fielding error, hit by pitch, or a triple play. These events were either very rare or out of the hitter's control.
+--- The "other" column incorporates a catcher interference, fielding error, hit by pitch, or a triple play. These events were either very rare or out of the hitter's control.
 
 We see that teams tend to allow their hitters swing away in this situation as sacrifice bunts only account for roughly 4% of our total population. However, 30% of the time, hitters extend the inning just as they are asked to do by either recording a single, double, triple, home run or walk. In other words, a hitter will score the runner from 2nd around 20% of the time which is a pretty good rate. So is hitting a sacrifice fly or even sacrifice bunting it in this situation worth it?
 
@@ -36,11 +36,11 @@ The delta home win expectancy tells us the change in percent chance that the hom
 
 ![Table showing the distribution of events for within a good or bad at bat](/images/deltahomewinreg.png){: width="75%"}
 
-
+The table shows that by adding win expectancy as a result of a single at-bat, it is considered a good at-bat. Generally, getting on base is the best for delta home win expectancy. However, it must be noted that sac bunt and sac fly are also considered a good at-bat during regular innings in this situation despite recording an out. 
 
 Extra Innings
 ------
-The rule of a runner starting on second base was implimented in the 2020 shortened season and ultimately fully adopted later. 
+The rule of a runner starting on second base was implimented in the 2020 shortened season and fully adopted later. The importance of scoring the runner at 2nd is crucial because it is hard to stop once on defense. A strikeout is the worst possible scenario that can occur in the leadoff spot during an extra inning because the ball isn't put into play meaning the runner has a 0% chance of either scoring or advancing a base. Runs are much more valuable in extra innings because it is a tie game so taking the lead by one can be all a team needs to win the game. By starting the inning with a "good" at-bat, teams are much more likely to raise the delta win expectancy. 
 
 ![Table showing the distribution of events for the at-bat following in extra innings](/images/secondbasecountextras1.png){: width="75%"}
 
@@ -50,6 +50,7 @@ The rule of a runner starting on second base was implimented in the 2020 shorten
 
 Comparing Both Situations
 ------
+
 We can look at both pie charts to determine when hitters may be trying to hit the ball differently.
 reg
 ![Table showing the distribution of events for the at-bat following in regular innings](/images/secondbasecount.png){: width="90%"}
@@ -57,3 +58,6 @@ reg
 extra
 ![Table showing the distribution of events for the at-bat following in extra innings](/images/secondbasecountextras.png){: width="90%"}
 We can also look into how teams are much more likely to attempt a sacrifice bunt by comparing the distribution of events during extra innings and regular innings.
+
+Whats interesting is that, according to delta home win expectancy, there are many more "good" at-bats during extra innings with a runner on 2nd and no one out. During regular innings, only 33.6% of at-bats result in a "good" at-bat. In extra innings, 47.4% of at-bats result in "good" at-bats. This could be because within the last inning of a game a single run is much more crucial than in the first few innings of a game. So, by sacrificing a runner to third, it would be worth more delta home win expectancy. Overall, teams should look into trying to sacrifice the runner to third more often than allowing a hitter to swing away in late-game situations. A runner at third with one out is more valuable than a runner at second with no outs in a late game situation. 
+
