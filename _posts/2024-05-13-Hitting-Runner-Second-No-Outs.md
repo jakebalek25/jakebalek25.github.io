@@ -24,24 +24,9 @@ Regular Innings
 ------
 The goal of any team during the regular 9 innings during a typical baseball game is to extend an inning as long as they can in order to score more runs. It may almost seem as though sacrificing a runner to third by bunt is a waste of an out so many teams decide not to put this play into action. Therefore, hitters are called upon to produce a successful at-bat and either score the runner or hit the runner to third base while trying to reach base. 
 
-<div style="text-align:center;">
 ![Table showing the distribution of events for the at-bat following in regular innings](/images/secondbasecount1.png){: width="75%"}
 ![Table showing the distribution of events for the at-bat following in regular innings](/images/secondbasecount.png){: width="90%"}
-</div>
-<h2> The "other" column incorporates a catcher interference, fielding error, hit by pitch, or a triple play. These events were either very rare or out of the hitter's control.</h2>
-
-
-
-<h2>Regular Innings</h2>
-<hr>
-<p>The goal of any team during the regular 9 innings during a typical baseball game is to extend an inning as long as they can in order to score more runs. It may almost seem as though sacrificing a runner to third by bunt is a waste of an out so many teams decide not to put this play into action. Therefore, hitters are called upon to produce a successful at-bat and either score the runner or hit the runner to third base while trying to reach base.</p>
-
-<div style="text-align:center;">
-  <img src="/images/secondbasecount1.png" alt="Table showing the distribution of events for the at-bat following in regular innings" width="75%">
-  <img src="/images/secondbasecount.png" alt="Table showing the distribution of events for the at-bat following in regular innings" width="90%">
-</div>
-
-<h2>The "other" column incorporates a catcher interference, fielding error, hit by pitch, or a triple play. These events were either very rare or out of the hitter's control.</h2>
+The "other" column incorporates a catcher interference, fielding error, hit by pitch, or a triple play. These events were either very rare or out of the hitter's control.
 
 
 Extra Innings
