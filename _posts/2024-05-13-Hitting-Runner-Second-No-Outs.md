@@ -10,22 +10,24 @@ tags:
 ---
 
 Yesterday, while watching the Chicago Cubs play the Pittsburgh Pirates, I couldn't help but think about how hitters approach situations when there is a runner on second base with no outs. Is it different in extra innings
-versus during the regularly scheduled 9 innings? What counts do hitters attack in? Do hitters bunt or do they swing for the fences and what is the success rate of either scoring or moving a runner over?
+versus during the regularly scheduled 9 innings? Do teams elect to sacrifice the runner over more often in extra innings? Do hitters try to hit the ball to the outfield or on the ground more often? How often are hitters successful?
 
 ![Illustration of Cubs vs. Pirates](/images/Cubs-Pirates-Baseball-33-1687355326.png)
+
+Using play-by-play Baseball Savant data spanning from 2020-2023, I was able to prepare some visuals to better understand how hitters have performed in this situation. 
 
 
 Regular Innings
 ------
-The rule of a runner starting on second base was implimented in the 2020 shortened season and ultimately fully adopted later. For research purposes, I decided to eliminate the year of 
-2020 from the dataset in order to better learn about team's success once they understood how to use the free base runner a full year after it was input. 
-Using pitch-by-pitch level data from Baseball Savant from 2021-2023, I looked was able to determine how successful teams were in these types of situations. The 
-Contact Zone 
-![Table showing the distribution of events for the at-bat following](/images/secondbasecount.png)
+
+![Table showing the distribution of events for the at-bat following in regular innings](/images/secondbasecount.png)
+
 
 Extra Innings
 ------
-In the middle chart, you can see each of the pitches Carroll put into play during the Wild Card Series. This includes field outs as well as the 4 hits he accumulated. They are categorized by the pitch type in which he put the ball into fair territory. He has had a pretty good command of the strike zone and only hits pitches he can do damage with. This being pitches lower in the zone.
+The rule of a runner starting on second base was implimented in the 2020 shortened season and ultimately fully adopted later. 
+
+![Table showing the distribution of events for the at-bat following in extra innings](/images/secondbasecountextras.png)
 
 Comparing Both Situations
 ------
