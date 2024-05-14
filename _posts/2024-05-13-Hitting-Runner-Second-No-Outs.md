@@ -36,7 +36,7 @@ The goal of any team during the regular 9 innings during a typical baseball game
 
 We see that teams tend to allow their hitters swing away in this situation as sacrifice bunts only account for roughly 4% of our total population. However, 30% of the time, hitters extend the inning just as they are asked to do by either recording a single, double, triple, home run or walk. In other words, a hitter will score the runner from 2nd around 20% of the time which is a pretty good rate. So is hitting a sacrifice fly or even sacrifice bunting it in this situation worth it?
 
-Lets dive a little deeper by looking at how each opportunity affects the delta home win expectancy!
+Lets dive deeper by looking at how each event affects the delta home win expectancy!
 
 The delta home win expectancy tells us the change in percent chance that the home team will win based on the score, inning, outs, runners on base and other situational factors that could affect the score. In this situation, we only hace the change in the home win expectancy. So, when the delta home win expectancy is positive in the bottom half of an inning, we can conclude that it is a good at-bat. The opposite goes for the away team. When the delta home win expectancy is negative in the top half of an inning, we can conclude that the result is a good at-bat for the away team. 
 
