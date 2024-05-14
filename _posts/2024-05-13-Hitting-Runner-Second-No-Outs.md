@@ -21,14 +21,14 @@ Using play-by-play Baseball Savant data spanning from 2020-2023, I was able to p
 Regular Innings
 ------
 The goal of any team during the regular 9 innings during a typical baseball game is to extend an inning as long as they can in order to score more runs. It may almost seem as though sacrificing a runner to third by bunt is a waste of an out so many teams decide not to put this play into action. Therefore, hitters are called upon to produce a successful at-bat and either score the runner or hit the runner to third base while trying to reach base. 
-
+![Table showing the distribution of events for the at-bat following in regular innings](/images/secondbasecount1.png)
 ![Table showing the distribution of events for the at-bat following in regular innings](/images/secondbasecount.png)
 
 
 Extra Innings
 ------
 The rule of a runner starting on second base was implimented in the 2020 shortened season and ultimately fully adopted later. 
-
+![Table showing the distribution of events for the at-bat following in extra innings](/images/secondbasecountextras1.png)
 ![Table showing the distribution of events for the at-bat following in extra innings](/images/secondbasecountextras.png)
 
 Comparing Both Situations
