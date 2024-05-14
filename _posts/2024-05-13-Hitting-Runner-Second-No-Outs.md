@@ -24,9 +24,10 @@ Regular Innings
 ------
 The goal of any team during the regular 9 innings during a typical baseball game is to extend an inning as long as they can in order to score more runs. It may almost seem as though sacrificing a runner to third by bunt is a waste of an out so many teams decide not to put this play into action. Therefore, hitters are called upon to produce a successful at-bat and either score the runner or hit the runner to third base while trying to reach base. 
 
-![Table showing the distribution of events for the at-bat following in regular innings](/images/secondbasecount1.png){: width="75%"}
-
---- The "other" column incorporates a catcher interference, fielding error, hit by pitch, or a triple play. These events were either very rare or out of the hitter's control.
+<figure>
+  <img src="/images/secondbasecount1.png" alt="able showing the distribution of events for the at-bat following in regular innings" width="75%">
+  <figcaption>The "other" column incorporates a catcher interference, fielding error, hit by pitch, or a triple play. These events were either very rare or out of the hitter's control.</figcaption>
+</figure>
 
 We see that teams tend to allow their hitters swing away in this situation as sacrifice bunts only account for roughly 4% of our total population. However, 30% of the time, hitters extend the inning just as they are asked to do by either recording a single, double, triple, home run or walk. In other words, a hitter will score the runner from 2nd around 20% of the time which is a pretty good rate. So is hitting a sacrifice fly or even sacrifice bunting it in this situation worth it?
 
