@@ -14,7 +14,9 @@ This week, while watching the Chicago Cubs play the Pittsburgh Pirates, I couldn
 - When not sacrificing, do hitters try to hit the ball to the outfield or on the ground more often?
 - How often are hitters successful in this situation?
 
-![Illustration of Cubs vs. Pirates](/images/Cubs-Pirates-Baseball-33-1687355326.png)
+<div style="text-align:center;">
+  <img src="/images/Cubs-Pirates-Baseball-33-1687355326.png" alt="Illustration of Cubs vs. Pirates" width="50%">
+</div>
 
 Using play-by-play Baseball Savant data spanning from 2020-2023, I was able to prepare some visuals to better understand how hitters have performed in this situation. This study only examines situations in which there is a runner solely on 2nd base with 0 outs to mimmick the start of an extra inning. The goal is to determine how teams and hitters decide to play the situation differently in extra innings versus a regular inning. 
 
