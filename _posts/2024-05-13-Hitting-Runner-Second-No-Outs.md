@@ -34,10 +34,8 @@ Extra Innings
 ------
 The rule of a runner starting on second base was implimented in the 2020 shortened season and ultimately fully adopted later. 
 
-<div style="text-align:center;">
 ![Table showing the distribution of events for the at-bat following in extra innings](/images/secondbasecountextras1.png){: width="75%"}
 ![Table showing the distribution of events for the at-bat following in extra innings](/images/secondbasecountextras.png){: width="90%"}
-</div>
 
 
 Comparing Both Situations
