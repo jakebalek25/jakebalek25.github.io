@@ -15,15 +15,18 @@ versus during the regularly scheduled 9 innings? What counts do hitters attack i
 ![Illustration of Cubs vs. Pirates](/images/Cubs-Pirates-Baseball-33-1687355326.png)
 
 
-Win Probability Added
+Regular Innings
 ------
 The rule of a runner starting on second base was implimented in the 2020 shortened season and ultimately fully adopted later. For research purposes, I decided to eliminate the year of 
 2020 from the dataset in order to better learn about team's success once they understood how to use the free base runner a full year after it was input. 
 Using pitch-by-pitch level data from Baseball Savant from 2021-2023, I looked was able to determine how successful teams were in these types of situations. The 
-Contact Zone
+Contact Zone 
+![Table showing the distribution of events for the at-bat following](/images/secondbasecount.png)
+
+Extra Innings
 ------
 In the middle chart, you can see each of the pitches Carroll put into play during the Wild Card Series. This includes field outs as well as the 4 hits he accumulated. They are categorized by the pitch type in which he put the ball into fair territory. He has had a pretty good command of the strike zone and only hits pitches he can do damage with. This being pitches lower in the zone.
 
-Spray Chart Action
+Comparing Both Situations
 ------
 The top left chart displays every hit Corbin Carroll had during the 2023 regular season. It sh
