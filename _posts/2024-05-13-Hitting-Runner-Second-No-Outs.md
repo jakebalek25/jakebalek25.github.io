@@ -30,7 +30,9 @@ The goal of any team during the regular 9 innings during a typical baseball game
   <figcaption style="margin-top: 10px;">The "other" column incorporates a catcher interference, fielding error, hit by pitch, or a triple play. These events were either very rare or out of the hitter's control.</figcaption>
 </figure>
 
-![Table showing the distribution of events for the at-bat following in regular innings](/images/secondbasecount.png){: width="90%"} 
+<figure style="width: 90%; margin: 0 auto; text-align: center;">
+  <img src="/images/secondbasecount.png" alt="Table showing the distribution of events for the at-bat following in regular innings" style="width: 100%;">
+</figure>
 
 We see that teams tend to allow their hitters swing away in this situation as sacrifice bunts only account for roughly 4% of our total population. However, 30% of the time, hitters extend the inning just as they are asked to do by either recording a single, double, triple, home run or walk. In other words, a hitter will score the runner from 2nd around 20% of the time which is a pretty good rate. So is hitting a sacrifice fly or even sacrifice bunting it in this situation worth it?
 
@@ -54,7 +56,9 @@ The rule of a runner starting on second base was implimented in the 2020 shorten
   <figcaption style="margin-top: 10px;">The "other" column incorporates a catcher interference, fielding error, hit by pitch, a triple play or a stolen 3rd base. These events were either very rare or out of the hitter's control.</figcaption>
 </figure>
 
-![Table showing the distribution of events for the at-bat following in extra innings](/images/secondbasecountextras.png){: width="90%"}
+<figure style="width: 90%; margin: 0 auto; text-align: center;">
+  <img src="/images/secondbasecountextras.png" alt="Table showing the distribution of events for the at-bat following in extra innings" style="width: 100%;">
+</figure>
 
 
 
