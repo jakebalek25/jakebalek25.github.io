@@ -37,7 +37,9 @@ Lets dive a little deeper by looking at how each opportunity affects the delta h
 
 The delta home win expectancy tells us the change in percent chance that the home team will win based on the score, inning, outs, runners on base and other situational factors that could affect the score. In this situation, we only hace the change in the home win expectancy. So, when the delta home win expectancy is positive in the bottom half of an inning, we can conclude that it is a good at-bat. The opposite goes for the away team. When the delta home win expectancy is negative in the top half of an inning, we can conclude that the result is a good at-bat for the away team. 
 
-![Table showing the distribution of events for within a good or bad at bat](/images/deltahomewinreg.png){: width="75%"}
+<figure style="width: 75%; margin: 0 auto; text-align: center;">
+  <img src="/images/deltahomewinreg.png" alt="Table showing the distribution of events for within a good or bad at bat" style="width: 100%;">
+</figure>
 
 The table shows that by adding win expectancy as a result of a single at-bat, it is considered a good at-bat. Generally, getting on base is the best for delta home win expectancy. However, it must be noted that sac bunt and sac fly are also considered a good at-bat during regular innings in this situation despite recording an out. 
 
