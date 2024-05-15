@@ -71,6 +71,13 @@ This is quite possibly the most interesting piece of information in the study! T
 
 Comparing Both Situations
 ------
+<figure style="width: 75%; margin: 0 auto; text-align: center;">
+  <img src="/images/hittypesreg.png" alt="Pie chart showing the distribution of hit types when an out is recorded on a ball in play during regular innings" style="width: 100%;">
+</figure>
+
+<figure style="width: 75%; margin: 0 auto; text-align: center;">
+  <img src="/images/hittypesextras.png" alt="Pie chart showing the distribution of hit types when an out is recorded on a ball in play during extras innings" style="width: 100%;">
+</figure>
 
 We can look at both pie charts to determine when hitters may be trying to hit the ball differently.
 
