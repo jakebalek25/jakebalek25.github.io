@@ -71,7 +71,7 @@ This is quite possibly the most interesting piece of information in the study! T
 
 Comparing Both Situations
 ------
-<div style="width: 75%; margin: 0 auto; display: flex; justify-content: space-between;">
+<div style="width: 95%; margin: 0 auto; display: flex; justify-content: space-between;">
   <figure>
     <img src="/images/hittypesreg.png" alt="Pie chart showing the distribution of hit types when an out is recorded on a ball in play during regular innings" style="width: 100%;">
     <figcaption>Regular Innings</figcaption>
