@@ -1,5 +1,5 @@
 ---
-title: 'Wild Card Series MVP'
+title: '2023 Wild Card Series MVP'
 date: 2023-10-04
 permalink: /posts/2023/10/al-wild-card-mvp/
 tags:
