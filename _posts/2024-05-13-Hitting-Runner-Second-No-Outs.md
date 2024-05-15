@@ -83,15 +83,13 @@ Comparing Both Situations
   </figure>
 </div>
 
-The pie charts show each batted ball during both regular innings and extra innings. This displays trends among how hitters tend to try and hit the ball depending on what inning the game may be in. 
+The pie charts show each batted ball during both regular innings and extra innings with a runner on solely 2nd and no outs. This displays trends among how hitters tend to try and hit the ball depending on what inning the game may be in. We can see that in extra innings, hitters tend to try and keep the ball on the ground more than in regular innings. This is likely to try and advance the go ahead runner to either third or home rather than hitting the ball in the air and lessening the chance the runner can advance. 
 
-We can also look into how teams are much more likely to attempt a sacrifice bunt by comparing the distribution of events during extra innings and regular innings.
-
-Whats interesting is that, according to delta home win expectancy, there are many more "good" at-bats during extra innings with a runner on 2nd and no one out. During regular innings, only 33.6% of at-bats result in a "good" at-bat. In extra innings, 47.4% of at-bats result in "good" at-bats. This could be because within the last inning of a game a single run is much more crucial than in the first few innings of a game. So, by sacrificing a runner to third, it would be worth more delta home win expectancy. 
+On another note, according to delta home win expectancy, there are many more "good" at-bats during extra innings with a runner on 2nd and no one out. During regular innings, only 33.6% of at-bats result in a "good" at-bat. In extra innings, 47.4% of at-bats result in "good" at-bats. This could be because within the last inning of a game a single run is much more crucial than in the first few innings of a game. So, by sacrificing a runner to third, it would be worth more delta home win expectancy. 
 
 Conclusion
 ------
-Overall, teams should look into trying to sacrifice the runner to third more often than allowing a hitter to swing away in late-game situations. A runner at third with one out is more valuable than a runner at second with no outs in a late game situation. 
+Overall, teams should look into trying to sacrifice the runner to third more often than allowing a hitter to swing away in late-game situations. A runner at third with one out is more valuable than a runner at second with no outs in a late game situation. In extra innings, a run is much more important than an out as opposed to earlier in the game. 
 
 Other ideas: 
   - Take a look at how hitters may respond depending on the score.
