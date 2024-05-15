@@ -1,5 +1,5 @@
 ---
-title: 'AL Divsional Series MVP'
+title: '2023 AL Divsional Series MVP'
 date: 2023-10-09
 permalink: /posts/2023/10/al-divisional-mvp/
 tags:
