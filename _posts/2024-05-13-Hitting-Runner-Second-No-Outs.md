@@ -60,11 +60,14 @@ The rule of a runner starting on second base was implimented in the 2020 shorten
   <img src="/images/secondbasecountextras.png" alt="Table showing the distribution of events for the at-bat following in extra innings" style="width: 100%;">
 </figure>
 
-
+In extra innings, a hitter safely reaches base by single, double, triple, home run, or walk over 28% of the time. By recording a base hit, the runner will likely score which accounts for 21% of the data. However, what is interacting is that hitters tend to sac bunt 9.5% of the time. Teams elect to attempt to sacrifice the runner to third in attempt to score the go ahead run in extra innings. This is 5% higher than in regular innings which means that teams value a runner at third with one out more than a runner at 2nd with 0 outs. Another interesting note is that the strikeout rate dropped 1.5% as teams are telling their hitters the ball must be in play because a strikeout in this situation could lose the game rather than trying to hit a ball to the right side with 2 strikes. 
 
 <figure style="width: 75%; margin: 0 auto; text-align: center;">
   <img src="/images/deltahomewinextras.png" alt="Table showing the distribution of events for within a good or bad at bat" style="width: 100%;">
 </figure>
+
+This is quite possibly the most interesting piece of information in the study! The number of "good" at-bats during extra innings in this situation is much higher. 
+This could be because every at-bat has a lot more weight in terms of delta win expectancy. Without the raw delta win expectancy numbers, we cannot determine whehter or not htis is true. 
 
 
 Comparing Both Situations
