@@ -9,7 +9,7 @@ tags:
   - Chicago Cubs
 ---
 
-This week, while watching the Chicago Cubs play the Pittsburgh Pirates, I couldn't help but think about how hitters and teams approach different situations. The situation on my mind is a runner located on second base with zero outs. Throughout the series the Cubs had little success during the regular 9 innings. However, in extras they were able to score quite easily. I had a couple ideas and questions about the situation. 
+This week, while watching the Chicago Cubs take on the Pittsburgh Pirates, a particular situation caught my attention: a runner positioned on 2nd base with zero outs. Despite the Cubs struggles throughout the regular 9 innings, their performance notably improved during their long opportunity in extra innings as they demonstrated a newfound ability to score with ease in this situation. This observation prompted me to think about several inquiries regarding teams and hitters strategy in these pivotal moments. 
 - In extra innings, teams are more focused on scoring the runner on second rather than extending an inning. Does this change how teams approach the situation such as electing to sacrifice the runner over more often? 
 - When not sacrificing, do hitters try to hit the ball to the outfield or on the ground more often?
 - How often are hitters successful in this situation?
@@ -18,7 +18,7 @@ This week, while watching the Chicago Cubs play the Pittsburgh Pirates, I couldn
   <img src="/images/Cubs-Pirates-Baseball-33-1687355326.png" alt="Illustration of Cubs vs. Pirates">
 </div>
 
-Using play-by-play Baseball Savant data spanning from 2020-2023, I was able to prepare some visuals to better understand how hitters have performed in this situation. This study only examines situations in which there is a runner solely on 2nd base with 0 outs to mimmick the start of an extra inning. The goal is to determine how teams and hitters decide to play the situation differently in extra innings versus a regular inning. 
+Utilizing play-by-play data from Baseball Savant covering the years 2020-2023, I conducted an analysis to gain insights into hitters and teams performance/strategy in this situation. The study focuses specifically on situations where a runner occupies 2nd base and there are zero outs in the inning, resembling the beginning of an extra inning. By examining this scenario, the goal is to discern how teams and hitters adapt their strategies when faced with the unique dynamics of extra innings compared to regular gameplay. 
 
 
 Regular Innings
@@ -38,7 +38,7 @@ We see that teams tend to allow their hitters swing away in this situation as sa
 
 Lets dive deeper by looking at how each event affects the delta home win expectancy!
 
-The delta home win expectancy tells us the change in percent chance that the home team will win based on the score, inning, outs, runners on base and other situational factors that could affect the score. In this situation, we only hace the change in the home win expectancy. So, when the delta home win expectancy is positive in the bottom half of an inning, we can conclude that it is a good at-bat. The opposite goes for the away team. When the delta home win expectancy is negative in the top half of an inning, we can conclude that the result is a good at-bat for the away team. 
+The delta home win expectancy tells us the change in percent chance that the home team will win based on the score, inning, outs, runners on base and other situational factors that could affect the score. In this situation, we only have the change in the home win expectancy. So, when the delta home win expectancy is positive in the bottom half of an inning, we can conclude that it is a good at-bat. The opposite goes for the away team. When the delta home win expectancy is negative in the top half of an inning, we can conclude that the result is a good at-bat for the away team. 
 
 <figure style="width: 75%; margin: 0 auto; text-align: center;">
   <img src="/images/deltahomewinreg.png" alt="Table showing the distribution of events for within a good or bad at bat" style="width: 100%;">
