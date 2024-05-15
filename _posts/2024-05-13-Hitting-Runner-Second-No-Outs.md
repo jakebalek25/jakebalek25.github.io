@@ -66,8 +66,7 @@ In extra innings, a hitter safely reaches base by single, double, triple, home r
   <img src="/images/deltahomewinextras.png" alt="Table showing the distribution of events for within a good or bad at bat" style="width: 100%;">
 </figure>
 
-This is quite possibly the most interesting piece of information in the study! The number of "good" at-bats during extra innings in this situation is much higher. 
-This could be because every at-bat has a lot more weight in terms of delta win expectancy. Without the raw delta win expectancy numbers, we cannot determine whehter or not htis is true. 
+This is quite possibly the most interesting piece of information in the study! The number of "good" at-bats during extra innings in this situation is much higher at 47.5% when in the specific situation. This could be because every at-bat has a lot more weight in terms of delta win expectancy. Scoring a run to take the lead late in the game means more than scoring a run to take the lead in an early inning however, the chart wasn't weighted to measure that. It was simply made to measure the counts of when a "good" or "bad" at-bat was recorded. 
 
 
 Comparing Both Situations
