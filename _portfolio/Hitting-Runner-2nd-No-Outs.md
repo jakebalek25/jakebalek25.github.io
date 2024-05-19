@@ -1,6 +1,6 @@
 ---
 title: "Hitting With Runner on 2nd & No Outs"
-excerpt: "Valuing the Runner at 2nd Base with Zero Outs"
+excerpt: "Valuing the Runner at 2nd Base with Zero Outs <br/><img src='/images/runner_2nd.png'>"
 date: 2024-05-13
 collection: portfolio
 ---
