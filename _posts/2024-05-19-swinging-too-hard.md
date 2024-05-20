@@ -9,6 +9,7 @@ tags:
 ---
 
 This year, the MLB has implimented new bat-tracking technology using a Hawk-Eye system which features 12 cameras positioned around each MLB stadium capturing publicly available data. It offers very unique insight into why some hitters may be better than others from bat speed to other parts of a hitter such as a sweet spot contact. 
+
 Something that I found to be intriguing recently was the bat speed statistic alongside each batters correlated strikeout and whiff numbers. There seem to be lots of positive trends among the new Hawk-Eye statistics and the outcomes of many at-bats.
 
 ![Illustration of 2024 Swing Speed Leaderboard](/images/savant_leaderboard.png)
