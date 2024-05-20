@@ -19,3 +19,9 @@ All of the names near the top of the list are players you would expect to have s
 Determining What Swing Speed Affects
 ------
 Among the qualified 166 hitters during the beginning of the 2024 season, multiple trends were found relating to swing speed affecting strikeout numbers. 
+
+![Illustration of 2024 Swing Speed Leaderboard](/images/swingspeed_kpct.png)
+
+![Illustration of 2024 Swing Speed Leaderboard](/images/swingspeed_whiffpct.png)
+
+![Illustration of 2024 Swing Speed Leaderboard](/images/hardswing_kpct.png)
