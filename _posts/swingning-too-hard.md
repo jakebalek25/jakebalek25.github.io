@@ -1,6 +1,6 @@
 ---
 title: 'Swinging Too Hard?'
-date: 2023-05-19
+date: 2024-05-19
 permalink: /posts/2024/05/swinging-too-hard/
 tags:
   - baseball
