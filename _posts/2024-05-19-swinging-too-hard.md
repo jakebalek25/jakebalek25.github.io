@@ -16,6 +16,6 @@ Something that I found to be intriguing recently was the bat speed statistic alo
 
 All of the names near the top of the list are players you would expect to have some of the highest exit velocities because of how hard they swing the bat. However, there are some other trends that are starting to stick out among these hitters. 
 
-Determining Wich Areas Swing Speed Affects
+Determining What Swing Speed Affects
 ------
 Among the qualified 166 hitters during the beginning of the 2024 season, multiple trends were found relating to swing speed affecting strikeout numbers. 
