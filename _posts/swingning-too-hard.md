@@ -13,6 +13,7 @@ This year, as you take a look at some of the strikeout numbers across the league
 Ronal Acuna or even Giancarlo Stanton. What's interesting however, is that when you compare the swing speed to the strikeout leaders across the league, they seem to 
 have lots in common which begs the question: do the two have any correlation?
 
+![Illustration of 2024 Swing Speed Leaderboard](/images/savant_leaderboard.png)
 
 Comparing the two in Previous Years
 ------
