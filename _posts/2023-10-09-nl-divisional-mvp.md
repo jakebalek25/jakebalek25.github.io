@@ -8,7 +8,7 @@ tags:
   - Bryce Harper
 ---
 
-The player of the week in the NLDS was Bryce Harper of the Philadelphia Phillies. Many would argue Nick Castellanos, but the confidence and momentum Bryce provided throughout proved to be too much for the Braves to handle. 
+The player of the week in the NLDS was Bryce Harper of the Philadelphia Phillies. Many would argue Nick Castellanos, but the confidence and momentum Bryce provided throughout proved to be too much for the Braves to handle.  
 After game 2 of the series, Orlando Arcia made comments about Harper being doubled up at first base to end the game. During game 3 with the series tied at one apiece, Harper hit 2 home runs and made sure to let Arcia know by staring him down and letting him hear it. After this, the Phillies never looked back with massive amounts of momentum playing behind a hostile home crowd and taking the series 3-1. Harper finished the series 6-13 at the plate with another 5 walks. He scored 5 times and added 5 RBI. Three of each of those came from a home run.
 
 ![Illustration of Bryce Harper](/images/Bryce_Harper_image.png)
