@@ -11,9 +11,9 @@ tags:
 He may only be a rookie, but he hasn't been rattled by the bright lights of the playoffs. This week, Corbin Carroll proved to be the most impactful player for his team in the Wild Card round. He batted 4-7 with a double, a homer, and another 2 walks.
 
 <div style="text-align:center;">
-  <figure>
-    <img src="/images/corbincarroll_post_image.png" alt="Illustration of Corbin Carroll's Success">
-    <figcaption>This visualization was created using R Studio and Adobe Illustrator to show Corbin Carroll's recent success.</figcaption>
+  <figure style="display:inline-block;">
+    <img src="/images/corbincarroll_post_image.png" style="width:75%;" alt="Illustration of Corbin Carroll's Success">
+    <figcaption style="text-align:center;">This visualization was created using R Studio and Adobe Illustrator to show Corbin Carroll's recent success.</figcaption>
   </figure>
 </div>
 
