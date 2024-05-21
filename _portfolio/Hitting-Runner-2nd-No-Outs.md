@@ -12,7 +12,9 @@ This week, while watching the Chicago Cubs take on the Pittsburgh Pirates, a par
 
 <div style="text-align:center;">
   <img src="/images/Cubs-Pirates-Baseball-33-1687355326.png" alt="Illustration of Cubs vs. Pirates">
+  <p style="text-align:center; font-size: smaller;">Image comes from Yahoo Sports News.</p>
 </div>
+
 
 Utilizing play-by-play data from Baseball Savant covering the years 2020-2023, I conducted an analysis to gain insights into hitters and teams' performance/strategy in this situation. The study focuses specifically on situations where a runner occupies 2nd base and there are zero outs in the inning, resembling the beginning of an extra inning. By examining this scenario, the goal is to discern how teams and hitters adapt their strategies when faced with the unique dynamics of extra innings compared to regular gameplay. 
 
@@ -92,3 +94,8 @@ Other ideas:
   - Take a look at which batter counts generate higher delta win expectancy changes in this scenario.
   - Take a look at other situations rather than just runner on second with no outs where teams produce different strategies.
   - What other situations require lots of strategy in terms of running a play or sacrificing?
+
+Citations
+------ 
+- Passan, J. (2024, May 13). Takeaways from New Statcast MLB Bat-Tracking Data. ESPN. https://www.espn.com/mlb/story/_/id/40120458/mlb-statcast-bat-tracking-data-        giancarlo-stanton-luis-arraez
+- Puskar, G. J. (2024). Cubs Celebrate. Yahoo Sports. photograph. Retrieved from https://sports.yahoo.com/patrick-wisdom-homers-10th-lifting-211542534.html?              guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHeUMtaWxwcCqP93sWd08-uuZqRDKoQRtR0LpCMnI-X_L0WO9Za4P1yGXUYBGQCyJtMXvq43oVARjsRXqchy0YfORVQp6uQJ1zBGLNQB_tzx0G957barEHNaysY8cTPM0FHkvVs6s97lUW-ee2SgvlBhCLax7pXX_YSIB-VnsFpX. 
