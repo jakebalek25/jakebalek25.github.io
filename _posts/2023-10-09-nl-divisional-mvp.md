@@ -44,7 +44,7 @@ Strike Zone & Batted Ball Display
 <div style="text-align:center;">
   <figure style="display:inline-block;">
     <img src="/images/Bryce_Week_Zone.png" alt="Illustration of Bryce Harper's 2023 NLDS Batted Ball & Strike Zone Display Chart">
-    <figcaption style="text-align:center;">Illustration was created in R Studio using custom ggplot measurements.</figcaption>
+    <figcaption style="text-align:center;">Illustration was created in R Studio using custom ggplot2 measurements.</figcaption>
   </figure>
 </div>
 
