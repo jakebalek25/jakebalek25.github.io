@@ -45,7 +45,7 @@ Strike Zone & Batted Ball Display
 <div style="text-align:center;">
   <figure style="display:inline-block;">
     <img src="/images/Yordan_week_Zone.png" alt="Illustration of Yordan Alvarez's 2023 ALDS Batted Ball & Strike Zone Display Chart">
-    <figcaption style="text-align:center;">Illustration was created in R Studio using custom ggplot measurements.</figcaption>
+    <figcaption style="text-align:center;">Illustration was created in R Studio using custom ggplot2 measurements.</figcaption>
   </figure>
 </div>
 
