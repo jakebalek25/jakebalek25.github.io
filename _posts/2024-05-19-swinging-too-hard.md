@@ -34,9 +34,11 @@ Next, we see the relationship between average swing speed and whiff percentage. 
 
 ![Illustration of 2024 Swing Speed Leaderboard](/images/hardswing_kpct.png)
 
-Finally, a smaller incline, however still a positive trend, we can see that when batter's record a hard swing based on Hawk-Eye's measurements, they tend to strikeout more often. 
+Finally, although the incline is smaller, there is still a positive trend: batters who record hard swings, as measured by Hawk-Eye, tend to strike out more often. This could be player's bats are moving through the zone quicker. When in the zone for less time it is harder to not only hit the ball but also control the bat. 
+
 
 Conclusion
 ------
+Overall, hitters who swing harder show a higher likelieness to strikeout more often. They are likely power hitter archetypes so this would make sense as this player usually has a good amount of strikeouts to go with their home runs and hard hit balls. 
 
 This makes me wonder, will Hawk-Eye and bat speed statistics be the new change in the MLB over the next few years just as Statcast was with exit velocity?
