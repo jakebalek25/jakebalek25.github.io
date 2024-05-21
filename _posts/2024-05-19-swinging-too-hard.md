@@ -10,18 +10,29 @@ tags:
 
 This year, the MLB has implimented new bat-tracking technology using a Hawk-Eye system which features 12 cameras positioned around each MLB stadium capturing publicly available data. It offers very unique insight into why some hitters may be better than others from bat speed to other parts of a hitter such as a sweet spot contact. 
 
-Something that I found to be intriguing recently was the bat speed statistic alongside each batters correlated strikeout and whiff numbers. There seem to be lots of positive trends among the new Hawk-Eye statistics and the outcomes of many at-bats.
+Something that I found to be intriguing recently was that the leaderboard for bat speed reminded me a lot of players who had high strikeout numbers to begin the 2024 season. With this in mind I bagan to breakdown the list and realize that other than a few outliers, most of the players have had high strikeout numbers in years past. 
 
-![Illustration of 2024 Swing Speed Leaderboard](/images/savant_leaderboard.png)
+<div style="text-align:center;">
+  <img src="/images/savant_leaderboard.png" style="width:75%;" alt="Illustration of 2024 Swing Speed Leaderboard">
+</div>
 
 All of the names near the top of the list are players you would expect to have some of the highest exit velocities because of how hard they swing the bat. However, there are some other trends that are starting to stick out among these hitters. 
 
-Determining What Swing Speed Affects
+Determining Statistical Trends Based on Swing Speed
 ------
-Among the qualified 166 hitters during the beginning of the 2024 season, multiple trends were found relating to swing speed affecting strikeout numbers. 
+Among the qualified 166 hitters during the beginning of the 2024 season, multiple trends were found relating to swing speed affecting swing and miss numbers. I decided to make some simple scatterplot graphs to visualize the distribution of data across the league to see whether or not this was an actual issue. 
 
 ![Illustration of 2024 Swing Speed Leaderboard](/images/swingspeed_kpct.png)
+
+The first chart shows the relationship between the new data of average swing speed and each batters corresponding strikeout percent. The trend line shows a positive slope as we move from left to right. This means that across the league, as a batter's average swing speed increases, so does their strikeout percentage. 
+
+We can see some outliers such as Giancarlo Stanton on the far right who is also known for his extreme power while we see Luis Arraez on the opposite side. He is typically known for his contact hitting and lower exit velocities.
 
 ![Illustration of 2024 Swing Speed Leaderboard](/images/swingspeed_whiffpct.png)
 
 ![Illustration of 2024 Swing Speed Leaderboard](/images/hardswing_kpct.png)
+
+Conclusion
+------
+
+This makes me wonder, will Hawk-Eye and bat speed statistics be the new change in the MLB over the next few years just as Statcast was with exit velocity?
