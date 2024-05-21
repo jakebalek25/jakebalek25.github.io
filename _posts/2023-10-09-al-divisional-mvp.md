@@ -17,6 +17,7 @@ The player of the week in the ALDS was Yordan Alvarez slugging at a historic rat
   </figure>
 </div>
 
+This image displays Alvarez blasting another deep ball with an unamused face as he's been there before.
 
 Spray Chart Action
 ------
