@@ -14,7 +14,7 @@ Something that I found to be intriguing recently was that the leaderboard for ba
 
 <div style="text-align:center;">
   <img src="/images/savant_leaderboard.png" style="width:83%;" alt="Illustration of 2024 Swing Speed Leaderboard">
-  <p style="text-align:center; font-size: smaller">Illustration of 2024 Swing Speed Leaderboard from Baseball Savant.</p>
+  <p style="text-align:center;">Illustration of 2024 Swing Speed Leaderboard from Baseball Savant.</p>
 </div>
 
 
