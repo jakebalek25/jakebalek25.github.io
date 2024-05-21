@@ -17,6 +17,7 @@ Something that I found to be intriguing recently was that the leaderboard for ba
   <p style="text-align:center;">Illustration of 2024 Swing Speed Leaderboard from Baseball Savant.</p>
 </div>
 
+
 All of the names near the top of the list are players you would expect to have some of the highest exit velocities because of how hard they swing the bat. However, there are some other trends that are starting to stick out among these hitters. 
 
 Determining Statistical Trends Based on Swing Speed
