@@ -30,7 +30,11 @@ We can see some outliers such as Giancarlo Stanton on the far right who is also 
 
 ![Illustration of 2024 Swing Speed Leaderboard](/images/swingspeed_whiffpct.png)
 
+Next, we see the relationship between average swing speed and whiff percentage. Once again, the higher the average swing speed is, the higher the whiff percentage that transpires. This could mean that hitters in these situations may swing out of their shoes too much trying to crush the ball rather than keeping their swing short and staying through the ball.
+
 ![Illustration of 2024 Swing Speed Leaderboard](/images/hardswing_kpct.png)
+
+Finally, a smaller incline, however still a positive trend, we can see that when batter's record a hard swing based on Hawk-Eye's measurements, they tend to strikeout more often. 
 
 Conclusion
 ------
