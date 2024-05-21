@@ -8,7 +8,7 @@ tags:
   - strikeout
 ---
 
-This year, the MLB has implimented new bat-tracking technology using a Hawk-Eye system which features 12 cameras positioned around each MLB stadium capturing publicly available data. It offers very unique insight into why some hitters may be better than others from bat speed to other parts of a hitter such as a sweet spot contact. 
+This year, the MLB has implimented new bat-tracking technology using a Hawk-Eye system which utlizes 12 cameras positioned around each MLB stadium that capture publicly available data. It offers very unique insight into why some hitters may be better than others including bat speed to the sweet spot at contact. 
 
 Something that I found to be intriguing recently was that the leaderboard for bat speed reminded me a lot of players who had high strikeout numbers to begin the 2024 season. With this in mind I bagan to breakdown the list and realize that other than a few outliers, most of the players have had high strikeout numbers in years past. 
 
