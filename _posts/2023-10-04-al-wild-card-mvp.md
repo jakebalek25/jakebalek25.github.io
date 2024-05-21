@@ -12,7 +12,7 @@ He may only be a rookie, but he hasn't been rattled by the bright lights of the 
 
 <div style="text-align:center;">
   <figure style="display:inline-block;">
-    <img src="/images/corbincarroll_post_image.png" style="width:75%;" alt="Illustration of Corbin Carroll's Success">
+    <img src="/images/corbincarroll_post_image.png" alt="Illustration of Corbin Carroll's Success">
     <figcaption style="text-align:center;">This visualization was created using R Studio and Adobe Illustrator to show Corbin Carroll's recent success.</figcaption>
   </figure>
 </div>
