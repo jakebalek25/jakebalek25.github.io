@@ -8,9 +8,9 @@ tags:
   - strikeout
 ---
 
-This year, the MLB has implimented new bat-tracking technology using a Hawk-Eye system which utlizes 12 cameras positioned around each MLB stadium that capture publicly available data. It offers very unique insight into why some hitters may be better than others including bat speed to the sweet spot at contact. 
+This year, the MLB has implemented new bat-tracking technology using a Hawk-Eye system which utilizes 12 cameras positioned around each MLB stadium that capture publicly available data. It offers unique insight into why some hitters may be better than others including bat speed to the sweet spot at contact. 
 
-Something that I found to be intriguing recently was that the leaderboard for bat speed reminded me a lot of players who had high strikeout numbers to begin the 2024 season. With this in mind I bagan to breakdown the list and realize that other than a few outliers, most of the players have had high strikeout numbers in years past. 
+Something that I found to be intriguing recently was that the leaderboard for bat speed reminded me a lot of players who had high strikeout numbers to begin the 2024 season. With this in mind, I began to breakdown the list and realize that other than a few outliers, most of the players have had high strikeout numbers in years past. 
 
 <div style="text-align:center;">
   <img src="/images/savant_leaderboard.png" style="width:83%;" alt="Illustration of 2024 Swing Speed Leaderboard">
@@ -18,11 +18,11 @@ Something that I found to be intriguing recently was that the leaderboard for ba
 </div>
 
 
-All of the names near the top of the list are players you would expect to have some of the highest exit velocities because of how hard they swing the bat. However, there are some other trends that are starting to stick out among these hitters. 
+All the names near the top of the list are players you would expect to have some of the highest exit velocities because of how hard they swing the bat. However, there are some other trends that are starting to stick out among these hitters. 
 
 Determining Statistical Trends Based on Swing Speed
 ------
-Among the qualified 166 hitters during the beginning of the 2024 season, multiple trends were found relating to swing speed affecting swing and miss numbers. I decided to make some simple scatterplot graphs to visualize the distribution of data across the league to see whether or not this was an actual issue. 
+Among the qualified 166 hitters during the beginning of the 2024 season, multiple trends were found relating to swing speed affecting swing and miss numbers. I decided to make some simple scatterplot graphs to visualize the distribution of data across the league to determine whether or not this was a real trend. 
 
 <div style="text-align:center;">
   <img src="/images/swingspeed_kpct.png" alt="Illustration of 2024 Swing Speed vs. Strikeout Percentage">
@@ -45,11 +45,11 @@ Next, we see the relationship between average swing speed and whiff percentage. 
   <p style="text-align:center;">Illustration created using R Studio ggplot2 package.</p>
 </div>
 
-Finally, although the incline is smaller, there is still a positive trend: batters who record hard swings, as measured by Hawk-Eye, tend to strike out more often. This could be player's bats are moving through the zone quicker. When in the zone for less time it is harder to not only hit the ball but also control the bat. 
+Finally, although the incline is smaller, there is still a positive trend: batters who record hard swings, as measured by Hawk-Eye, tend to strike out more often. This could be because the player's bats are moving through the zone quicker. When in the zone for less time it is harder to not only hit the ball but also control the bat. 
 
 
 Conclusion
 ------
-Overall, hitters who swing harder show a higher likelieness to strikeout more often. They are likely power hitter archetypes so this would make sense as this player usually has a good amount of strikeouts to go with their home runs and hard hit balls. 
+Overall, hitters who swing harder show a higher likeliness to strikeout more often. They are likely power hitter archetypes so this would make sense as this player usually has a good number of strikeouts to go with their home runs and hard hit balls. 
 
 This makes me wonder, will Hawk-Eye and bat speed statistics be the new change in the MLB over the next few years just as Statcast was with exit velocity?
