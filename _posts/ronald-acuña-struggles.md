@@ -18,6 +18,6 @@ made me dive a little deeper into whether this was a true issue or not and I am 
 the fastball which is causing him to miss off-speed pitches as a result. 
 
 <div style="text-align:center;">
-  <img src="/images/savant_leaderboard.png" style="width:83%;" alt="Illustration of 2024 Swing Speed Leaderboard">
-  <p style="text-align:center;">Illustration of 2024 Swing Speed Leaderboard from Baseball Savant.</p>
+  <img src="/images/acuna_strikeout.png" style="width:83%;" alt="Illustration of Acuña's recent struggles">
+  <p style="text-align:center;">Illustration courtesy of Brett Davis from USA Today.</p>
 </div>
