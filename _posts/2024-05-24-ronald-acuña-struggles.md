@@ -21,3 +21,22 @@ the fastball which is causing him to miss off-speed pitches as a result.
   <img src="/images/acuna_strikeout.png" style="width:83%;" alt="Illustration of Acuña's recent struggles">
   <p style="text-align:center;">Illustration courtesy of Brett Davis from USA Today.</p>
 </div>
+
+Comparing Seasons
+------
+During last season when Acuña won MVP, his statistics were out of this world and extremely better in most categories than every year previous within his career. 
+
+<div style="text-align:center;">
+  <img src="/images/mlb_n_graphic.png" style="width:83%;" alt="Illustration of Acuña's recent fastball struggles">
+  <p style="text-align:center;">Illustration courtesy of MLB Network from Statcast.</p>
+</div>
+
+
+Graphic showing he's getting more fastballs
+
+Graphic showing that his value per 100 pitches on striclty fastball is the worst it has ever been. 
+
+Sources
+------
+Link to the mlb video talking ab topic
+Link to image of acuna
