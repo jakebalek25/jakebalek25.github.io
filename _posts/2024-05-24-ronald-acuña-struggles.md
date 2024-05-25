@@ -21,17 +21,25 @@ Earlier this week I caught Anthony Recker, of MLB Network, breaking down one asp
 
 Comparing Seasons
 ------
-During last season when Acuña won MVP, his statistics were out of this world and extremely better in most categories than every year previous within his career. 
+During last season when Acuña won MVP, his statistics were out of this world and extremely better in most categories than every year previous within his career. He had career highs in Home Runs, Runs Scored, Runs Batted In, Stolen Bases, Batting Average, On Base Percentage and Slugging Percentage to name a few. This can be somewhat attributed to his swing timing. He was never late on a fastball which generated lots of power and ultimately home runs to both sides of the field. This year however, he has had trouble with the timing of fastballs which is causing him to swing through more fastballs than he would like. 
 
 <div style="text-align:center;">
   <img src="/images/mlb_n_graphic.png" style="width:83%;" alt="Illustration of Acuña's recent fastball struggles">
   <p style="text-align:center;">Illustration courtesy of MLB Network from Statcast.</p>
 </div>
 
+When Acuña misses a fastball, he is then forcing himself to hit offspeed when behind in the count. Hitters tend to struggle more often than in early fastball counts including him. He ultimately has been finding himself guessing on which pitch may be coming and is then late again on a fastball should he see another late in the count. 
+
+Graphic showing that his value per 100 pitches on striclty fastball is the worst it has ever been. 
+
+As a result, he is seeing many more fastballs this year than he did in the past at 6% more than 2023 because pitchers are beginning to see that they can use this against him. 
 
 Graphic showing he's getting more fastballs
 
-Graphic showing that his value per 100 pitches on striclty fastball is the worst it has ever been. 
+
+So, why is Acuña struggling? What might it be attributed to? 
+
+Well, Acuña returned late to spring training, just 2 weeks before Opening Day, this year because he had felt slight soreness in his surgically repaired right knee. Could he simply be off to a slow start because he isn't seeing the ball well or is he worried about maybe reinjuring his knee? We will only see how this plays out with time. However, Acuña needs to get his fastball timing back or he is going to continue to struggle at even higher rates as more pitchers and teams across the league begin to learn how to take advantage of him. 
 
 Sources
 ------
