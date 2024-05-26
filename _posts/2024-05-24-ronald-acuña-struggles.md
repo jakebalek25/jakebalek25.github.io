@@ -5,23 +5,22 @@ permalink: /posts/2024/05/ronald-acuña-struggles/
 tags:
   - baseball
   - mvp
-  - strikeout
   - ronald acuña jr.
 ---
 
-As a fantasy owner of Ronald Acuña Jr. for 2 of the last 3 seasons, I must say it has been qutie fun. However, when I selected Acuña with the 1.1 pick in the draft this year, I had thought I would be recieving a top 10 player at worst. With all of his recent struggles, I have pondered trading him. Today, we will dive into what he has been struggling with and how he can return to the MVP player he was a season ago.
+As a fantasy owner of Ronald Acuña Jr. for 2 of the last 3 seasons, I must say it has been qutie fun. However, when I selected Acuña with the 1.1 pick in the draft this year, I thought I would be receiving a top 10 player at worst. So far, he has been around the 100 ranking as he struggles to return to superstar form. With all of his recent struggles, I have pondered trading him. Today, we will dive into what he has been struggling with and how he can return to the MVP player he was a season ago.
 
 <div style="text-align:center;">
   <img src="/images/acuna_strikeout.png" style="width:83%;" alt="Illustration of Acuña's recent struggles">
   <p style="text-align:center;">Illustration courtesy of Brett Davis from USA Today.</p>
 </div>
 
-Earlier this week I caught Anthony Recker, of MLB Network, breaking down one aspect relating to some of the struggles that Acuña has delt with to begin the year. The concept made me dive a little deeper into whether this was a true issue or not and I am quite surprised to say the least. This year, Acuña simply has not been on time for the fastball which is causing him to miss off-speed pitches as a result. 
+Earlier this week I caught Anthony Recker, of MLB Network, breaking down one aspect relating to some of the struggles that Acuña has delt with to begin the year.  This year, Acuña simply has not been on time for the fastball which is causing him to miss off-speed pitches as a result. The concept made me dive a little deeper into whether this was a true issue or not and I am quite surprised to say the least.
 
 
-Comparing Seasons
+Fastball Struggles
 ------
-During last season when Acuña won MVP, his statistics were out of this world and extremely better in most categories than every year previous within his career. He had career highs in Home Runs, Runs Scored, Runs Batted In, Stolen Bases, Batting Average, On Base Percentage and Slugging Percentage to name a few. This can be somewhat attributed to his swing timing. He was never late on a fastball which generated lots of power and ultimately home runs to both sides of the field. This year however, he has had trouble with the timing of fastballs which is causing him to swing through more fastballs than he would like. 
+During last season when Acuña won MVP, his statistics were out of this world and extremely better in most categories than every year previous within his career. He had career highs in Home Runs, Runs Scored, Runs Batted In, Stolen Bases, Batting Average, On Base Percentage and Slugging Percentage to name a few. This can be somewhat attributed to his swing timing and confidence. He was never late on a fastball which generated lots of power and ultimately home runs to both sides of the field. This year however, he has had trouble with the timing of fastballs which is causing him to guess on pitches later in at-bats that he wouldn't normally be seeing had he hit the fastball. 
 
 <div style="text-align:center;">
   <img src="/images/mlb_n_graphic.png" style="width:83%;" alt="Illustration of Acuña's recent fastball struggles">
