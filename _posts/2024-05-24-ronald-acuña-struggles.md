@@ -9,7 +9,7 @@ tags:
   - ronald acuña jr.
 ---
 
-As a fantasy owner of Ronald Acuña Jr. for 2 of the last 3 seasons, I must say it has been qutie fun. However, when I selected Acuña with the 1.1 pick in the draft this year, I had thought I would be recieving a top 10 player at worst. However, he has hovered around just outside top 100 fantasy players within my league and I am quite disappointed that I took him with the first overall pick.
+As a fantasy owner of Ronald Acuña Jr. for 2 of the last 3 seasons, I must say it has been qutie fun. However, when I selected Acuña with the 1.1 pick in the draft this year, I had thought I would be recieving a top 10 player at worst. With all of his recent struggles, I have pondered trading him. Today, we will dive into what he has been struggling with and how he can return to the MVP player he was a season ago.
 
 <div style="text-align:center;">
   <img src="/images/acuna_strikeout.png" style="width:83%;" alt="Illustration of Acuña's recent struggles">
@@ -58,6 +58,8 @@ Well, Acuña returned late to spring training, just 2 weeks before Opening Day, 
 So far this season his stats are very similar to previous years of his career. The two that stick out are his strikeout percentage and slugging percentage. His strikeout tendencies are extremely similar to the year before he won MVP. However, he is currently at a career low slugging percentage roughly a third of the way through the season.
 
 Hopefully last year wasn't simply a fluke as Acuña has too much talent for this to be true. We will only see how this plays out with time. However, Acuña needs to get his fastball timing back or he is going to continue to struggle at even higher rates as more pitchers and teams across the league begin to learn how to take advantage of him at the plate. 
+
+I believe that if Acuña can get his confidence back, which will come with time after reaggrivating the knee, he will begin to be on time with the fastball. Once he is on time with the fastball we wlil see Acuña not only hit this pitch all over the park, but he will be ready for the offspeed that pitchers try to trick him with.
 
 
 Sources
