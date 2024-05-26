@@ -40,8 +40,10 @@ In the illustration, you notice the metric wFA per 100. The metric measures the 
 
 As a result, he is seeing many more fastballs this year than he did in the past at 6% more than 2023 because pitchers are beginning to see that they can use this against him. 
 
-Graphic showing he's getting more fastballs
-
+<div style="text-align:center;">
+  <img src="/images/acuna_moreFB.png" style="width:83%;" alt="Illustration of more fastballs">
+  <p style="text-align:center;">Illustration courtesy of Fangraphs.</p>
+</div>
 
 So, why is Acuña struggling? What might it be attributed to? 
 ------
