@@ -1,15 +1,15 @@
 ---
-title: "Ronald Acuña's Recent Strggles"
+title: "Ronald Acuña Jr.'s Recent Strggles"
 date: 2024-05-24
 permalink: /posts/2024/05/ronald-acuña-struggles/
 tags:
   - baseball
   - mvp
   - strikeout
-  - ronald acuña
+  - ronald acuña jr.
 ---
 
-As a fantasy owner of Ronald Acuña including 2 of the last 3 seasons, I must say it has been qutie fun. However, when I selected Acuña with the 1.1 pick in the draft this year, I had thought I would be recieving a top 10 player at worst. However, he has hovered around just outside top 100 fantasy players within my league and I am quite disappointed that I took him with the first overall pick.
+As a fantasy owner of Ronald Acuña Jr. for 2 of the last 3 seasons, I must say it has been qutie fun. However, when I selected Acuña with the 1.1 pick in the draft this year, I had thought I would be recieving a top 10 player at worst. However, he has hovered around just outside top 100 fantasy players within my league and I am quite disappointed that I took him with the first overall pick.
 
 <div style="text-align:center;">
   <img src="/images/acuna_strikeout.png" style="width:83%;" alt="Illustration of Acuña's recent struggles">
@@ -45,7 +45,7 @@ As a result, he is seeing many more fastballs this year than he did in the past 
   <p style="text-align:center;">Illustration courtesy of Fangraphs.</p>
 </div>
 
-So, why is Acuña struggling? What might it be attributed to? 
+Why is Acuña struggling?
 ------
 
 Well, Acuña returned late to spring training, just 2 weeks before Opening Day, this year because he had felt slight soreness in his surgically repaired right knee. Could he simply be off to a slow start because he isn't seeing the ball well or is he worried about maybe reinjuring his knee? We will only see how this plays out with time. However, Acuña needs to get his fastball timing back or he is going to continue to struggle at even higher rates as more pitchers and teams across the league begin to learn how to take advantage of him. 
