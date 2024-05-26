@@ -55,7 +55,9 @@ Well, Acuña returned late to spring training, just 2 weeks before Opening Day, 
   <p style="text-align:center;">Illustration courtesy of Fangraphs.</p>
 </div>
 
-So far this season his stats are very similar to previous years of his career. Hopefully last year wasn't simply a fluke as Acuña has too much talent for this to be true. We will only see how this plays out with time. However, Acuña needs to get his fastball timing back or he is going to continue to struggle at even higher rates as more pitchers and teams across the league begin to learn how to take advantage of him at the plate. 
+So far this season his stats are very similar to previous years of his career. The two that stick out are his strikeout percentage and slugging percentage. His strikeout tendencies are extremely similar to the year before he won MVP. However, he is currently at a career low slugging percentage roughly a third of the way through the season.
+
+Hopefully last year wasn't simply a fluke as Acuña has too much talent for this to be true. We will only see how this plays out with time. However, Acuña needs to get his fastball timing back or he is going to continue to struggle at even higher rates as more pitchers and teams across the league begin to learn how to take advantage of him at the plate. 
 
 
 Sources
