@@ -62,4 +62,4 @@ Sources
 ------
 Link to the mlb video talking ab topic
 Link to image of acuna
-Link to acuna fangraphs chart: https://www.fangraphs.com/players/ronald-acuna-jr/18401/graphs?statArr=50,228,35&legend=1,2,3&split=base&time=season&ymin=&ymax=&dStatArray= 
+Link to acuna fangraphs: https://www.fangraphs.com/players/ronald-acuna-jr/18401/stats?position=OF
