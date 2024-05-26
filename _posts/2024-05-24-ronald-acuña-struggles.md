@@ -20,14 +20,14 @@ Earlier this week I caught Anthony Recker, of MLB Network, breaking down one asp
 
 Fastball Struggles
 ------
-During last season when Acuña won MVP, his statistics were out of this world and extremely better in most categories than every year previous within his career. He had career highs in Home Runs, Runs Scored, Runs Batted In, Stolen Bases, Batting Average, On Base Percentage and Slugging Percentage to name a few. This can be somewhat attributed to his swing timing and confidence. He was never late on a fastball which generated lots of power and ultimately home runs to both sides of the field. This year however, he has had trouble with the timing of fastballs which is causing him to guess on pitches later in at-bats that he wouldn't normally be seeing had he hit the fastball. 
+During last season when Acuña won MVP, his statistics were out of this world and extremely better in most categories than every year previous within his career. He had career highs in Home Runs, Runs Scored, Runs Batted In, Stolen Bases, Batting Average, On Base Percentage and Slugging Percentage to name a few. This can be somewhat attributed to his swing timing and confidence. He was never late on a fastball which generated lots of power and ultimately home runs to both sides of the field. This year however, he has had trouble with the timing of fastballs which is causing him to guess on what pitch may be next. 
 
 <div style="text-align:center;">
   <img src="/images/mlb_n_graphic.png" style="width:83%;" alt="Illustration of Acuña's recent fastball struggles">
   <p style="text-align:center;">Illustration courtesy of MLB Network from Statcast.</p>
 </div>
 
-When Acuña misses a fastball, he is then forcing himself to hit offspeed when behind in the count. Hitters tend to struggle more often than in early fastball counts including him. He has been guessing on which pitch may be coming and is off on timing because he cannot properly adjust to offspeed. 
+The graphic above depicts Acuña swinging and missing at fastballs nearly two times more often than he did last year. When Acuña misses a fastball, he is then falling behind in the count as he has missed the best pitch to hit. This forces him to hit offspeed when behind in the count. Hitters tend to struggle more often deeper in counts when pitchers break out their best offspeed pitches. He has been guessing on which pitch may be coming and is off on timing because he cannot properly adjust to offspeed. By being on time for the fastball, it is much easier for the hitter to adjust when thrown an offspeed pitch.
 
 
 <div style="text-align:center;">
