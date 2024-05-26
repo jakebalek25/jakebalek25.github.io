@@ -28,9 +28,15 @@ During last season when Acuña won MVP, his statistics were out of this world an
   <p style="text-align:center;">Illustration courtesy of MLB Network from Statcast.</p>
 </div>
 
-When Acuña misses a fastball, he is then forcing himself to hit offspeed when behind in the count. Hitters tend to struggle more often than in early fastball counts including him. He ultimately has been finding himself guessing on which pitch may be coming and is then late again on a fastball should he see another late in the count. 
+When Acuña misses a fastball, he is then forcing himself to hit offspeed when behind in the count. Hitters tend to struggle more often than in early fastball counts including him. He has been guessing on which pitch may be coming and is off on timing because he cannot properly adjust to offspeed. 
 
-Graphic showing that his value per 100 pitches on striclty fastball is the worst it has ever been. 
+
+<div style="text-align:center;">
+  <img src="/images/acuna_wFA.png" style="width:83%;" alt="Illustration of Acuña's year to year wFA">
+  <p style="text-align:center;">Illustration created with R Studio ggplot2 package.</p>
+</div>
+
+In the illustration, you notice the metric wFA per 100. The metric measures the batter's average amount of runs produced against 100 fastballs thrown. The number 0 being average as it takes into account change in run expectancy per fastball thrown to the hitter. In this scenario, Acuña has never had a season in which he wasn't above average. We can see his value per 100 fastballs last year was extremely high resulting in a career high in total wFA throughout the year. This year however, Acuña is much below average and is nearing a value of negative 2 putting him near the bottom of the league. 
 
 As a result, he is seeing many more fastballs this year than he did in the past at 6% more than 2023 because pitchers are beginning to see that they can use this against him. 
 
