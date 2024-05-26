@@ -38,6 +38,7 @@ Graphic showing he's getting more fastballs
 
 
 So, why is Acuña struggling? What might it be attributed to? 
+------
 
 Well, Acuña returned late to spring training, just 2 weeks before Opening Day, this year because he had felt slight soreness in his surgically repaired right knee. Could he simply be off to a slow start because he isn't seeing the ball well or is he worried about maybe reinjuring his knee? We will only see how this plays out with time. However, Acuña needs to get his fastball timing back or he is going to continue to struggle at even higher rates as more pitchers and teams across the league begin to learn how to take advantage of him. 
 
@@ -46,7 +47,11 @@ Well, Acuña returned late to spring training, just 2 weeks before Opening Day, 
   <p style="text-align:center;">Illustration courtesy of Fangraphs.</p>
 </div>
 
+So far this season his stats are very similar to previous years of his career. Hopefully last year wasn't simply a fluke as Acuña has too much talent for this to be true. We will only see how this plays out with time. However, Acuña needs to get his fastball timing back or he is going to continue to struggle at even higher rates as more pitchers and teams across the league begin to learn how to take advantage of him at the plate. 
+
+
 Sources
 ------
 Link to the mlb video talking ab topic
 Link to image of acuna
+Link to acuna fangraphs chart: https://www.fangraphs.com/players/ronald-acuna-jr/18401/graphs?statArr=50,228,35&legend=1,2,3&split=base&time=season&ymin=&ymax=&dStatArray= 
