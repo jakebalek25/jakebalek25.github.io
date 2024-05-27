@@ -8,7 +8,7 @@ tags:
   - ronald acuña jr.
 ---
 
-As a fantasy owner of Ronald Acuña Jr. for 2 of the last 3 seasons, I must say it has been qutie fun. However, when I selected Acuña with the 1.1 pick in the draft this year, I thought I would be receiving a top 10 player at worst. So far, he has been around the 100 ranking as he struggles to return to superstar form. With all of his recent struggles, I have pondered trading him. Today, we will dive into what he has been struggling with and how he can return to the MVP player he was a season ago.
+As a fantasy owner of Ronald Acuña Jr. for 2 of the last 3 seasons, I must say it has been quite fun. However, when I selected Acuña with the 1.1 pick in the draft this year, I thought I would be receiving a top 10 player at worst. So far, he has been around the 100 ranking as he struggles to return to superstar form. With all of his recent struggles, I have pondered trading him. Today, we will dive into what he has been struggling with and how he can return to the MVP player he was a season ago.
 
 <div style="text-align:center;">
   <img src="/images/acuna_strikeout.png" style="width:83%;" alt="Illustration of Acuña's recent struggles">
@@ -27,7 +27,7 @@ During last season when Acuña won MVP, his statistics were out of this world an
   <p style="text-align:center;">Illustration courtesy of MLB Network from Statcast.</p>
 </div>
 
-The graphic above depicts Acuña swinging and missing at fastballs nearly two times more often than he did last year. When Acuña misses a fastball, he is then falling behind in the count as he has missed the best pitch to hit. This forces him to hit offspeed when behind in the count. Hitters tend to struggle more often deeper in counts when pitchers break out their best offspeed pitches. He has been guessing on which pitch may be coming and is off on timing because he cannot properly adjust to offspeed. By being on time for the fastball, it is much easier for the hitter to adjust when thrown an offspeed pitch.
+The graphic above depicts Acuña swinging and missing fastballs nearly two times more often than he did last year. When Acuña misses a fastball, he then falls behind in the count forcing him to hit off-speed. Hitters tend to struggle more often deeper in counts when pitchers break out their best off-speed pitches. In his situation, he has been guessing on which pitch may be coming and is off on the timing. By being on time for the fastball, it is much easier for the hitter to adjust when thrown an off-speed pitch.
 
 
 <div style="text-align:center;">
@@ -35,10 +35,9 @@ The graphic above depicts Acuña swinging and missing at fastballs nearly two ti
   <p style="text-align:center;">Illustration created with R Studio ggplot2 package.</p>
 </div>
 
-In the illustration, you notice the metric wFA per 100. The metric measures the batter's average amount of runs produced against 100 fastballs thrown. The number 0 being average as it takes into account change in run expectancy per fastball thrown to the hitter. In this scenario, Acuña has never had a season in which he wasn't above average. We can see his value per 100 fastballs last year was extremely high resulting in a career high in total wFA throughout the year. This year however, Acuña is much below average and is nearing a value of negative 2 putting him near the bottom of the league. 
+In the illustration, you notice the metric wFA per 100. The metric measures the batter's average amount of runs produced against 100 fastballs thrown. The number 0 being average as it considers change in run expectancy per fastball thrown to the hitter. In this scenario, Acuña has never had a season in which he wasn't above average. We can see his value per 100 fastballs last year was extremely high resulting in a career high in total wFA throughout the year. This year, however, Acuña is much below average and is nearing a value of negative 2 putting him near the bottom of the league. 
 
-As a result, he is seeing many more fastballs this year than he did in the past at 6% more than 2023 because pitchers are beginning to see that they can use this against him. 
-talk about below
+As a result, he is seeing many more four seam fastballs this year than he did in the past. The incline from 2023 to 2024 sits at 6% more because pitchers are beginning to learn he is struggling to keep up. As can be seen below, the average MLB hitter sees a four seamer about 30% of the time across all their at-bats. This season, Acuña is seeing four seamers at a rate of nearly 8% more than league average which is a pretty wild rate considering he is still one of the most "feared" hitters in the league.
 
 <div style="text-align:center;">
   <img src="/images/acuna_moreFB.png" style="width:83%;" alt="Illustration of more fastballs">
@@ -59,7 +58,7 @@ So far this season his stats are very similar to previous years of his career. T
 
 Hopefully last year wasn't simply a fluke as Acuña has too much talent for this to be true. We will only see how this plays out with time. However, Acuña needs to get his fastball timing back or he is going to continue to struggle at even higher rates as more pitchers and teams across the league begin to learn how to take advantage of him at the plate. 
 
-I believe that if Acuña can get his confidence back, which will come with time after reaggrivating the knee, he will begin to be on time with the fastball. Once he is on time with the fastball we wlil see Acuña not only hit this pitch all over the park, but he will be ready for the offspeed that pitchers try to trick him with.
+I believe that if Acuña can get his confidence back, which will come with time after reaggravating the knee, he will begin to be on time with the fastball. Once he is on time with the fastball, we will see Acuña not only hit this pitch all over the park, but he will be ready for the off-speed that pitchers try to trick him with.
 
 
 Sources
