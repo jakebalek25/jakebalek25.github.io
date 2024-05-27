@@ -1,5 +1,5 @@
 ---
-title: "Ronald Acuña Jr.'s Recent Strggles"
+title: "Ronald Acuña Jr.'s Recent Strggles Explained"
 date: 2024-05-24
 permalink: /posts/2024/05/ronald-acuña-struggles/
 tags:
