@@ -63,6 +63,6 @@ I believe that if Acuña can get his confidence back, which will come with time 
 
 Sources
 ------
-Link to the mlb video talking ab topic
-Link to image of acuna
-Link to acuna fangraphs: https://www.fangraphs.com/players/ronald-acuna-jr/18401/stats?position=OF
+-   Davis, B. (n.d.). Acuña offensive drop-off. Battery Power. USA Today. Retrieved from https://www.batterypower.com/2022/10/31/23430902/ronald-acuna-offensive-            drop-off-atlanta-braves. 
+-   Fangraphs. (n.d.). Ronald Acuña Jr.. Ronald Acuña Jr. - Stats - Batting . https://www.fangraphs.com/players/ronald-acuna-jr/18401/stats?position=OF 
+-   Recker, A. (2024, May 23). Ronald Acuña Jr.’s struggles at the plate: Anthony Recker details Ronald Acuña Jr.’s struggles at the plate this season and how he            can return to his historic 2023 form.: By MLB Networkfacebook. Facebook. https://www.facebook.com/watch/?v=1203495837334729 
