@@ -12,7 +12,7 @@ As a fantasy owner of Ronald Acuña Jr. for 2 of the last 3 seasons, I must say 
 
 <div style="text-align:center;">
   <img src="/images/acuna_strikeout.png" style="width:83%;" alt="Illustration of Acuña's recent struggles">
-  <p style="text-align:center; font-size:90%;">Illustration courtesy of Brett Davis from USA Today.</p>
+  <p style="text-align:center; font-size:85%;">Illustration courtesy of Brett Davis from USA Today.</p>
 </div>
 
 Earlier this week I caught Anthony Recker, of MLB Network, breaking down one aspect relating to some of the struggles that Acuña has delt with to begin the year.  This year, Acuña simply has not been on time for the fastball which is causing him to miss off-speed pitches as a result. The concept made me dive a little deeper into whether this was a true issue or not and I am quite surprised to say the least.
@@ -24,7 +24,7 @@ During last season when Acuña won MVP, his statistics were out of this world an
 
 <div style="text-align:center;">
   <img src="/images/mlb_n_graphic.png" style="width:83%;" alt="Illustration of Acuña's recent fastball struggles">
-  <p style="text-align:center;">Illustration courtesy of MLB Network from Statcast.</p>
+  <p style="text-align:center; font-size:85%;">Illustration courtesy of MLB Network from Statcast.</p>
 </div>
 
 The graphic above depicts Acuña swinging and missing fastballs nearly two times more often than he did last year. When Acuña misses a fastball, he then falls behind in the count forcing him to hit off-speed. Hitters tend to struggle more often deeper in counts when pitchers break out their best off-speed pitches. In his situation, he has been guessing on which pitch may be coming and is off on the timing. By being on time for the fastball, it is much easier for the hitter to adjust when thrown an off-speed pitch.
@@ -32,7 +32,7 @@ The graphic above depicts Acuña swinging and missing fastballs nearly two times
 
 <div style="text-align:center;">
   <img src="/images/acuna_wFA.png" style="width:83%;" alt="Illustration of Acuña's year to year wFA">
-  <p style="text-align:center;">Illustration created with R Studio ggplot2 package.</p>
+  <p style="text-align:center; font-size:85%;">Illustration created with R Studio ggplot2 package.</p>
 </div>
 
 In the illustration, you notice the metric wFA per 100. The metric measures the batter's average amount of runs produced against 100 fastballs thrown. The number 0 being average as it considers change in run expectancy per fastball thrown to the hitter. In this scenario, Acuña has never had a season in which he wasn't above average. We can see his value per 100 fastballs last year was extremely high resulting in a career high in total wFA throughout the year. This year, however, Acuña is much below average and is nearing a value of negative 2 putting him near the bottom of the league. 
@@ -41,7 +41,7 @@ As a result, he is seeing many more four seam fastballs this year than he did in
 
 <div style="text-align:center;">
   <img src="/images/acuna_moreFB.png" style="width:83%;" alt="Illustration of more fastballs">
-  <p style="text-align:center;">Illustration courtesy of Fangraphs.</p>
+  <p style="text-align:center; font-size:85%;">Illustration courtesy of Fangraphs.</p>
 </div>
 
 Why is Acuña struggling?
@@ -51,7 +51,7 @@ Well, Acuña returned late to spring training, just 2 weeks before Opening Day, 
 
 <div style="text-align:center;">
   <img src="/images/acuna_fangraphs_yearbyyear.png" style="width:83%;" alt="Illustration of Acuña's year to year comparison">
-  <p style="text-align:center;">Illustration courtesy of Fangraphs.</p>
+  <p style="text-align:center; font-size:85%;">Illustration courtesy of Fangraphs.</p>
 </div>
 
 So far this season his stats are very similar to previous years of his career. The two that stick out are his strikeout percentage and slugging percentage. His strikeout tendencies are extremely similar to the year before he won MVP. However, he is currently at a career low slugging percentage roughly a third of the way through the season.
