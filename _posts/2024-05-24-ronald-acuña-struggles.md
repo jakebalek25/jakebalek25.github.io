@@ -38,6 +38,7 @@ The graphic above depicts Acuña swinging and missing at fastballs nearly two ti
 In the illustration, you notice the metric wFA per 100. The metric measures the batter's average amount of runs produced against 100 fastballs thrown. The number 0 being average as it takes into account change in run expectancy per fastball thrown to the hitter. In this scenario, Acuña has never had a season in which he wasn't above average. We can see his value per 100 fastballs last year was extremely high resulting in a career high in total wFA throughout the year. This year however, Acuña is much below average and is nearing a value of negative 2 putting him near the bottom of the league. 
 
 As a result, he is seeing many more fastballs this year than he did in the past at 6% more than 2023 because pitchers are beginning to see that they can use this against him. 
+talk about below
 
 <div style="text-align:center;">
   <img src="/images/acuna_moreFB.png" style="width:83%;" alt="Illustration of more fastballs">
