@@ -58,7 +58,7 @@ So far this season his stats are very similar to previous years of his career. T
 
 Hopefully last year wasn't simply a fluke as Acuña has too much talent for this to be true. We will only see how this plays out with time. However, Acuña needs to get his fastball timing back or he is going to continue to struggle at even higher rates as more pitchers and teams across the league begin to learn how to take advantage of him at the plate. 
 
-I believe that if Acuña can get his confidence back, which will come with time after reaggravating the knee, he will begin to be on time with the fastball. Once he is on time with the fastball, we will see Acuña not only hit this pitch all over the park, but he will be ready for the off-speed that pitchers try to trick him with.
+I believe that if Acuña can get his confidence back, which will come with time after reaggravating the knee not so long ago, he will begin to be on time with the fastball. Once he is on time with the fastball, we will see Acuña not only hit this pitch all over the park, but he will be ready for the off-speed that pitchers try to trick him with.
 
 
 Sources
