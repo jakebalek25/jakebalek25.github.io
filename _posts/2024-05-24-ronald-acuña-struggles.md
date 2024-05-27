@@ -12,7 +12,7 @@ As a fantasy owner of Ronald Acuña Jr. for 2 of the last 3 seasons, I must say 
 
 <div style="text-align:center;">
   <img src="/images/acuna_strikeout.png" style="width:83%;" alt="Illustration of Acuña's recent struggles">
-  <p style="text-align:center;">Illustration courtesy of Brett Davis from USA Today.</p>
+  <p style="text-align:center; font-size:90%;">Illustration courtesy of Brett Davis from USA Today.</p>
 </div>
 
 Earlier this week I caught Anthony Recker, of MLB Network, breaking down one aspect relating to some of the struggles that Acuña has delt with to begin the year.  This year, Acuña simply has not been on time for the fastball which is causing him to miss off-speed pitches as a result. The concept made me dive a little deeper into whether this was a true issue or not and I am quite surprised to say the least.
