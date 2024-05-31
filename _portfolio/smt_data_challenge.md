@@ -1,7 +1,7 @@
 ---
 title: "SMT 2024 Data Challenge"
 excerpt: "Coming Soon! <br/><img src='/images/smt_data_images.png'>"
-date: "2024-04-22"
+date: "2024-09"
 collection: portfolio
 ---
 
