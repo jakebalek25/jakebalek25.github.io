@@ -16,7 +16,7 @@ During the offseason prior to the 2024 season, the Cleveland Guardians decided t
     <p style="text-align: center; font-size: 80%;">Illustration courtesy of Cleveland Guardians.</p>
   </div>
   <div style="flex: 1; margin-left: 10px;">
-    <img src="/images/newright.png" style="width: 105%;" alt="Illustration of new right field">
+    <img src="/images/newright.png" style="width: 115%;" alt="Illustration of new right field">
     <p style="text-align: center; font-size: 80%;">Illustration courtesy of David Petkiewicz, cleveland.com.</p>
   </div>
 </div> 
