@@ -12,7 +12,7 @@ During the offseason prior to the 2024 season, the Cleveland Guardians decided t
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; margin-right: 10px;">
-    <img src="/images/oldright.jpg" style="width: 100%;" alt="Illustration of old right field">
+    <img src="/images/oldright.png" style="width: 100%;" alt="Illustration of old right field">
     <p style="text-align: center; font-size: 80%;">Illustration courtesy of Cleveland Guardians.</p>
   </div>
   <div style="flex: 1; margin-left: 10px;">
