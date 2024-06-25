@@ -1,5 +1,5 @@
 ---
-title: "Has Cleveland Created A 'Wind-Powered' Haven for the Long Ball?"
+title: "Has Cleveland Created A 'Wind-Powered' Haven With Recent Renovations?"
 date: 2024-06-24
 permalink: /posts/2024/06/cleveland-wind-tunnel/
 tags:
@@ -32,7 +32,7 @@ Pitching Numbers
 ------
 Defense is another story in Cleveland. They have had great pitching, however some of the numbers suggest that 
 
-Breaking Down the Ballpark
+Expectd Distance vs. Actual Distance
 ------
 
 
