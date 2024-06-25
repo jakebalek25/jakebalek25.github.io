@@ -12,10 +12,12 @@ During the offseason prior to the 2024 season, the Cleveland Guardians decided t
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <h3 style="text-align: center;">Old</h3>
     <img src="/images/oldright.png" style="width: 100%; height: auto; display: block;" alt="Illustration of old right field">
     <p style="text-align: center; font-size: 80%;">Illustration courtesy of Cleveland Guardians.</p>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <h3 style="text-align: center;">New</h3>
     <img src="/images/newright.png" style="width: 100%; height: auto; display: block;" alt="Illustration of new right field">
     <p style="text-align: center; font-size: 80%;">Illustration courtesy of David Petkiewicz, cleveland.com.</p>
   </div>
