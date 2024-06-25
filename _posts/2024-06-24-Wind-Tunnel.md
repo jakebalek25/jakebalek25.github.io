@@ -11,12 +11,12 @@ tags:
 During the offseason prior to the 2024 season, the Cleveland Guardians decided to put forward a series of renovations accross the stadium. One included their upper deck of seats in right field being revamped to create a new group outing space. This removed an old series of walls and seats, switching to a more open and social look with more access to concession stands. 
 
 <div style="display: flex; justify-content: center;">
-  <div style="flex: 1; margin-right: 10px;">
-    <img src="/images/oldright.png" style="width: 100%;" alt="Illustration of old right field">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/oldright.png" style="width: 100%; height: auto; display: block;" alt="Illustration of old right field">
     <p style="text-align: center; font-size: 80%;">Illustration courtesy of Cleveland Guardians.</p>
   </div>
-  <div style="flex: 1; margin-left: 10px;">
-    <img src="/images/newright.png" style="width: 100%;" alt="Illustration of new right field">
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/newright.png" style="width: 100%; height: auto; display: block;" alt="Illustration of new right field">
     <p style="text-align: center; font-size: 80%;">Illustration courtesy of David Petkiewicz, cleveland.com.</p>
   </div>
-</div> 
+</div>
