@@ -39,10 +39,7 @@ This year at home, Cleveland is hitting 1.4 home runs per game as opposed to 0.6
 Cleveland's most impressive statistic is their Slugging percentage at home during the 2024 season. They rank 9th best in the MLB at home with a 0.422 SLG. This is an increase in 0.045 from 2023!
 They generate this high SLG with mainly home runs as they are last in the MLB at recording 3B and 1B. According to Statcast, the Guardians are in the bottom 2 rankings for both barrel percentage and hard hit percentage across the MLB. 
 
-
-Pitching Numbers
-------
-Defense is another story in Cleveland. They have had great pitching, however some of the numbers suggest that 
+So, let's take a look at all balls hit in Progressive field throughout this season and the 2023 season for both the Guardians and the opposing teams. This way, we can determine any physical differences in the batted ball distribution before and after the renovations.
 
 Expectd Distance vs. Actual Distance
 ------
