@@ -29,6 +29,11 @@ This year, Cleveland has clearly been more effective when hitting for power comp
 
 This year at home, Cleveland is hitting 1.4 home runs per game as opposed to 0.67 home runs in 2023. On the road, they are hitting 0.975 home runs per game in 2024 as opposed to 0.86 in 2023 so we do see another small increase however this doesn't stand out nearly as much as the increase in home runs per game at home. 
 
+<div style="text-align:center;">
+  <img src="/images/j_ram_hr.png" style="width:83%;" alt="Image of Jose Ramirez hitting a home run and celebrating.">
+  <p style="text-align:center; font-size:85%;">Illustration courtesy of Stephanie Scarbrough from the Herald-Star.</p>
+</div>
+
 Cleveland's most impressive statistic is their Slugging percentage at home during the 2024 season. They rank 9th best in the MLB at home with a 0.422 SLG. This is an increase in 0.045 from 2023!
 They generate this high SLG with mainly home runs as they are last in the MLB at recording 3B and 1B. According to Statcast, the Guardians are in the bottom 2 rankings for both barrel percentage and hard hit percentage across the MLB. 
 
@@ -51,3 +56,4 @@ Conclusion
 Sources
 New Image: https://www.cleveland.com/guardians/2024/06/im-at-war-with-progressive-field-wind-tunnel-theory-guards-are-good-period-terry-pluto.html 
 Old Image: https://www.perfuzion.com/ballpark-review-progressive-field-cleveland-guardians/ 
+Jram: https://www.heraldstaronline.com/sports/local-sports/2024/06/ramirezs-tiebreaking-homer-lifts-guardians/
