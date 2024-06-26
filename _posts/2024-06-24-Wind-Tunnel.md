@@ -43,10 +43,23 @@ So, let's take a look at all balls hit in Progressive field throughout this seas
 
 Expectd Distance vs. Actual Distance
 ------
+Recently, I read over an article published by Jim Albert and Alan Nathan on this subject to determine whether or not it truly is plausible that a wind tunnel could be creating an offensive explosion in Cleveland. They built a model to determine the probability of a home run for every given batted ball. They then compared the results of this years batted balls to previous years. As I work on my own model and interactive chart, I thought I would share some of their results that I found quite interesting. 
+
+First, we have a basic scatter plot showing the home runs per balls-in-play for Cleveland versus all MLB parks. This being the data from the start of the season through June 15. We can see that in the year of 2024, Cleveland has jumped from the bottom of the league to above the average. This is quite interesting because this doesn't only display the Cleveland offense which means that the balls are flying out at a more extreme rate this year. This is however a small sample size, so it isn't completely decisive. 
+
+<div style="text-align:center;">
+  <img src="/images/hr_rate_1.png" style="width:83%;" alt="Image of CLE Home Run Rate">
+  <p style="text-align:center; font-size:85%;">Illustration courtesy of Jim Albert and Alan Nathan.</p>
+</div>
+
+Next, we are shown predicted and actual home run rates for Progressive Field. This is based on a generalized additive model fitted to data from the other MLB parks that was created by Albert and Nathan. I will be attempting to recreate something similar on a wider scale. 
+
 <div style="text-align:center;">
   <img src="/images/hr_rate.png" style="width:83%;" alt="Image of CLE Home Run Rate">
   <p style="text-align:center; font-size:85%;">Illustration courtesy of Jim Albert and Alan Nathan.</p>
 </div>
+
+We can clearly see that fly balls are traveling further than expected as more home runs are being recorded than predicted. Although, without a large sample size it is not plausible to draw any conclusions this early about any wind tunnels as it could still be related to randomness in the ballpark and different spin variations across the league that hasn't been accounted for in the modeling. 
 
 More Personalized & Interactive Chart Coming Soon
 ------
