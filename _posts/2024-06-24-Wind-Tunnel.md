@@ -43,11 +43,13 @@ So, let's take a look at all balls hit in Progressive field throughout this seas
 
 Expectd Distance vs. Actual Distance
 ------
+<div style="text-align:center;">
+  <img src="/images/hr_rate.png" style="width:83%;" alt="Image of CLE Home Run Rate">
+  <p style="text-align:center; font-size:85%;">Illustration courtesy of Jim Albert and Alan Nathan.</p>
+</div>
 
-
-Conclusion
+More Personalized & Interactive Chart Coming Soon
 ------
-
 
 
 
