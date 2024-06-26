@@ -1,5 +1,5 @@
 ---
-title: "Has Cleveland Created A 'Wind-Powered' Long Ball Haven With Recent Renovations?"
+title: "Has Cleveland Created A 'Wind-Powered' Long Ball Haven With Their Recent Stadium Renovations?"
 date: 2024-06-24
 permalink: /posts/2024/06/cleveland-wind-tunnel/
 tags:
