@@ -60,7 +60,7 @@ Next, we examine the predicted and actual home run rates specifically for Progre
 
 It's evident that fly balls are traveling farther than anticipated, resulting in more home runs than predicted. However, drawing conclusions about the presence of wind tunnels at this stage is not plausible due to the limited sample size. Factors such as randomness in ballpark conditions and varying spin rates across the league, which may not have been fully accounted for in the modeling, could also contribute to these observations.
 
-More Personalized & Interactive Chart Coming Soon
+!! More Personalized & Interactive Chart Coming Soon !!
 ------
 
 
