@@ -70,8 +70,10 @@ Sources
 ------
 The Herald Star. (2024, June 25). Ramírez’s tiebreaking homer lifts guardians. heraldstaronline.com. https://www.heraldstaronline.com/sports/local- 
     sports/2024/06/ramirezs-tiebreaking-homer-lifts-guardians/ 
+    
 Perdue, S. (2023, June 18). Ballpark Review: Progressive field (cleveland guardians). Perfuzion. https://www.perfuzion.com/ballpark-review-progressive-field- 
     cleveland-guardians/ 
+    
 Pluto, T. (2024, June 15). I’m at war with the Progressive Field “wind tunnel” theory. the Guardians are good, period! – Terry Pluto. cleveland.com. 
     https://www.cleveland.com/guardians/2024/06/im-at-war-with-progressive-field-wind-tunnel-theory-guards-are-good-period-terry-pluto.html 
     
