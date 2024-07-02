@@ -1,10 +1,11 @@
 ---
 title: "Selecting the Starting 18 MLB All-stars based on First-half Statistics"
 date: 2024-07-02
-permalink: /posts/2024/07/allstar-game-2024/
+permalink: /posts/2024/07/allstar-game-starters-2024/
 tags:
   - baseball
   - All Star
+  - All Star Starters
 ---
 
 
