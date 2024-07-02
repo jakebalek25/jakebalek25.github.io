@@ -12,3 +12,9 @@ Next, I used the model's findings to predict hit distances within Progressive Fi
 Graph showing Predicted Distances
 
 Within our findings, we saw that Progressive Field did indeed see
+
+
+
+Sources
+------
+Cover image : https://guardians.fanportal-mlb.com/renovations/
