@@ -15,7 +15,6 @@ Each year, MLB fans vote across multiple weeks to determine who should be starti
 
 Along with years past, this format of allowing fans to vote for players has led a popularity contest. Today, I want to highlight who the starters should be based on WAR and multiple other statistics rather than fan voting. We will then compare them to who has been selected as a finalist for phase 2. 
 
-Below is the list of players who have qualified for phase 2 of the voting according to MLB.com.
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
     <h3 style="text-align: center;">American League</h3>
@@ -28,6 +27,11 @@ Below is the list of players who have qualified for phase 2 of the voting accord
     <p style="text-align: center; font-size: 80%;">Illustration courtesy of MLB.com.</p>
   </div>
 </div>
+Above, the images contain players who have qualified for phase 2 of the voting according to MLB.com.
+
+
+
+
 
 Statistics
 ------
