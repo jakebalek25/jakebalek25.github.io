@@ -60,6 +60,9 @@ Next, I examined the predicted and actual home run rates specifically for Progre
 
 It's evident that fly balls are traveling farther than anticipated, resulting in more home runs than predicted. However, drawing conclusions about the presence of wind tunnels at this stage is not plausible due to the limited sample size. Factors such as randomness in ballpark conditions and varying spin rates across the league, which may not have been fully accounted for in the modeling, could also contribute to these observations.
 
+
+
+
 !! More Personalized & Interactive Chart Coming Soon !!
 ------
 After reading multiple articles related to predicting the distance of a batted baseball by Alan Nathan, Jim Albert and another by Cameron Grove, I decided to try and replicate some of their ideas. I used similar play by play data from the 2024 season that I scraped using baseballr. With the data I filtered out only instances in which the ball was hit to the right side of the field, was considered to be a fly ball and traveled more than 120 feet. This ensured that the data relating to Progressive Field and all other ballparks could display the effects of strictly right field's 'Wind-Tunnel'. First, I trained a GAM predictive model on all of the play by play data on fly balls to right field throughout the 29 other ballparks in the MLB during the 2024 season after filtering out all data from within Progressive Field. The model's independent variables consisted of Launch Angle and Launch Speed. These variables were most commonly used among other researchers studies so I wanted to recreate a similar model. 
