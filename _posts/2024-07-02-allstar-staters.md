@@ -173,7 +173,7 @@ New York Yankees #22
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
-    <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Juan Soto">
+    <img src="/images/soto_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Juan Soto">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
       <li>HT/WT: 6' 2", 224 lbs</li>
       <li>BIRTHDATE: 10/25/1998 (25)</li>
@@ -182,7 +182,7 @@ New York Yankees #22
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
-    <img src="/images/gunnar_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Juan Soto Batting Ranks">
+    <img src="/images/soto_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Juan Soto Batting Ranks">
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
   </div>
 </div>
@@ -193,7 +193,7 @@ Cleveland Guardians #38
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
-    <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Steven Kwan">
+    <img src="/images/kwan_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Steven Kwan">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
       <li>HT/WT: 5' 9", 170 lbs</li>
       <li>BIRTHDATE: 9/5/1997 (26)</li>
@@ -202,7 +202,7 @@ Cleveland Guardians #38
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
-    <img src="/images/gunnar_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Steven Kwan Batting Ranks">
+    <img src="/images/kwan_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Steven Kwan Batting Ranks">
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
   </div>
 </div>
@@ -329,7 +329,7 @@ San Diego Padres #10
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
-    <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Jurickson Profar">
+    <img src="/images/profar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Jurickson Profar">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
       <li>HT/WT: 6' 0", 184 lbs</li>
       <li>BIRTHDATE: 2/20/1993 (31)</li>
@@ -338,7 +338,7 @@ San Diego Padres #10
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
-    <img src="/images/gunnar_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Jurickson Profar Batting Ranks">
+    <img src="/images/profar_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Jurickson Profar Batting Ranks">
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
   </div>
 </div>
@@ -349,7 +349,7 @@ Milwaukee Brewers #22
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
-    <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Christian Yelich">
+    <img src="/images/yelich_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Christian Yelich">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
       <li>HT/WT: 6' 3", 206 lbs</li>
       <li>BIRTHDATE: 12/5/1991 (32)</li>
@@ -358,7 +358,7 @@ Milwaukee Brewers #22
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
-    <img src="/images/gunnar_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Christian Yelich Batting Ranks">
+    <img src="/images/yelich_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Christian Yelich Batting Ranks">
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
   </div>
 </div>
@@ -369,7 +369,7 @@ San Diego Padres #23
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
-    <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Fernando Tatis Jr.">
+    <img src="/images/tatis_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Fernando Tatis Jr.">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
       <li>HT/WT: 6' 3", 217 lbs</li>
       <li>BIRTHDATE: 1/2/1999 (25)</li>
@@ -378,7 +378,7 @@ San Diego Padres #23
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
-    <img src="/images/gunnar_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Fernando Tatis Jr. Batting Ranks">
+    <img src="/images/tatis_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Fernando Tatis Jr. Batting Ranks">
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
   </div>
 </div>
