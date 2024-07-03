@@ -59,10 +59,19 @@ National League Players
 ------
 National League Starting Lineup: C, 1B, 2B, 3B, SS, OF, OF, OF, DH
 
-Catcher
+Catcher - William Contreras
 ---
-William Contreras
+Milwaukee Brewers #24
 
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/william_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of William Contreras">
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/william_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of William Contreras Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 10 other qualified catchers in at-bats.</p>
+  </div>
+</div>
 
 
 
