@@ -85,12 +85,27 @@ Milwaukee Brewers  #24
   </div>
 </div>
 
-
 William has had an offensive explosion in the first half of the season. He leads all of the qualified catchers in On Base Percentage and Batting Average. He is top 3 in both Wins Above Replacement and weighted Runs Created Plus. Contreras has helped the Brewers young pitching staff have one of the best starts in the league. There is lots of argument to have Will Smith above Contreras in this postition because Will Smith slightly edges Contreras in WAR by just under 0.005 due to a much better start to the year on the defensive side. However, this spot belongs to Contreras who has had the much better offensive start and all-around year so far.
 
-First Baseman
+First Baseman - Bryce Harper
 ---
+Philadelphia Phillies #3
 
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/bryce_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Bryce Harper">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 6' 3", 210 lbs</li>
+      <li>BIRTHDATE: 10/16/1992 (31)</li>
+      <li>BAT/THR: Left/Right</li>
+      <li>BIRTHPLACE: Las Vegas, NV</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/bryce_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of William Contreras Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 26 other qualified first basemen in at-bats.</p>
+  </div>
+</div>
 
 
 
