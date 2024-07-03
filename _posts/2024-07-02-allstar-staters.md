@@ -13,7 +13,7 @@ Voting
 ------
 Each year, MLB fans vote across multiple weeks to determine who should be starting in the allstar game. This year, the voting process occurs through 2 phases. The first phase allows fans to vote on every position including designated hitters. The top overall vote reciever in both leagues is granted an automatic starting spot at their postion. The rest of the positions advance to the final phase as fans are allowed to vote on the top 2 players at each position to secure a starting spot in the all star game. The same goes for outfielders however there are 3 spots and 6 players advance to phase 2. 
 
-Along with years past, this format of allowing fans to vote for players has led a popularity contest. Today, I want to highlight who the starters should be based on WAR and multiple other statistics rather than fan voting. We will then compare them to who has been selected as a finalist for phase 2. 
+Along with years past, this format of allowing fans to vote for players has led a popularity contest. Today, I want to highlight who the batter starters should be based on WAR and multiple other statistics rather than fan voting. 
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
@@ -32,9 +32,34 @@ Above, the images contain players who have qualified for phase 2 of the voting a
 
 
 
-
-Statistics
+American League Players
 ------
+American League Startting Lineup: C, 1B, 2B, 3B, SS, OF, OF, OF, DH
+
+Catcher - Adley Rutschman
+---
+Baltimore Orioles #35
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/adley_image.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Adley Rutschman">
+    <p style="text-align: center; font-size: 80%;">Illustration courtesy of ESPN.com</p>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/adley_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Adley Rutschman Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">League hitting rankings among 10 other qualified catchers in at-bats.</p>
+  </div>
+</div>
+
+National League Players
+------
+National League Starting Lineup: C, 1B, 2B, 3B, SS, OF, OF, OF, DH
+
+Catcher
+---
+name
+
+
 
 
 
