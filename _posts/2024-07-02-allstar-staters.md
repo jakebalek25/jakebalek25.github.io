@@ -43,6 +43,12 @@ Baltimore Orioles #35
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
     <img src="/images/adley_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Adley Rutschman">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 6' 2", 230 lbs</li>
+      <li>BIRTHDATE: 2/6/1998 (26)</li>
+      <li>BAT/THR: Both/Right</li>
+      <li>BIRTHPLACE: Portland, OR</li>
+    </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
     <img src="/images/adley_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Adley Rutschman Batting Ranks">
