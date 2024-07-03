@@ -50,7 +50,7 @@ Baltimore Orioles #35
   </div>
 </div>
 
-Among the 85 catchers who have recorded an official at-bat in the MLB this year, there are only 10 qualified players at this postion. No one is more qualified to be the starter for the AL team as he leads WAR over all other catchers, edging the next closest AL catcher by 0.9 WAR. Among the qualified catchers, he ranks top 3 in Batting Average, weighted Runs Created Plus, Slugging Percentage and On Base Percentage to name a few. Although Salvador Perez is having a great season, no catcher in the AL is having a good enough season to be put into the same conversation as Rutschman. 
+Among the 85 catchers who have recorded an official at-bat in the MLB this year, there are only 10 qualified players at this postion. No one is more qualified to be the starter for the AL team as he leads Wins Above Replacement over all other catchers, edging the next closest AL catcher by 0.9 WAR. Among the qualified catchers, he ranks top 3 in Batting Average, weighted Runs Created Plus, Slugging Percentage and On Base Percentage to name a few. Although Salvador Perez is having a great season, no catcher in the AL is having a good enough season to be put into the same conversation as Rutschman. 
 
 First Baseman
 ---
@@ -73,6 +73,9 @@ Milwaukee Brewers #24
   </div>
 </div>
 
+William has had an offensive explosion in the first half of the season. He leads all of the qualified catchers in On Base Percentage and Batting Average. He is top 3 in both Wins Above Replacement and weighted Runs Created Plus. Contreras has helped the Brewers young pitching staff have one of the best starts in the league. There is lots of argument to have Will Smith above Contreras in this postition because Will Smith slightly edges Contreras in WAR by just under 0.005 due to a much better start to the year on the defensive side. However, this spot belongs to Contreras who has had the much better offensive start and all-around year so far.
 
+First Baseman
+---
 
 
