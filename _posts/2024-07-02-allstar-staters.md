@@ -64,7 +64,7 @@ Toronto Blue Jays #27
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
-    <img src="/images/vlad_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Adley Rutschman">
+    <img src="/images/vlad_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Vladimir Guerrero Jr.">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
       <li>HT/WT: 6' 2", 245 lbs</li>
       <li>BIRTHDATE: 3/16/1999 (25)</li>
@@ -73,8 +73,8 @@ Toronto Blue Jays #27
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
-    <img src="/images/vlad_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Adley Rutschman Batting Ranks">
-    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 10 other qualified catchers in at-bats.</p>
+    <img src="/images/vlad_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Vladimir Guerrero Jr. Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 10 other qualified first basemen in at-bats.</p>
   </div>
 </div>
 
@@ -122,14 +122,34 @@ Philadelphia Phillies #3
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
-    <img src="/images/bryce_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of William Contreras Batting Ranks">
+    <img src="/images/bryce_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Bryce Harper Batting Ranks">
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 26 other qualified first basemen in at-bats.</p>
   </div>
 </div>
 
 Bryce Harper is a clear cut all-star stater after the season he has gotten off to. He earned his place as a starter early after phase 1 and it was well deserved as he leads all other qualified first basemen in Batting Average, On Base Percentage, Slugging Percentage, weighted Runs Created Plus and Wins Above Replacement. He has been the best at his postion across the league and has helped lead the Phillies to the top spot in the NL throught the first half of the season. The only even remotely close is Freddie Freeman who ranks 2nd in most of the statistics listed above however, due to Bryce Harper's recent time on the IL, Freeman will likely replace Harper as a starter in the all-star game. 
 
+Second Baseman - Ketel Marte
+------
+Arizona Diamondbacks #4
 
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/ketel_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Ketel Marte">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 6' 1", 210 lbs</li>
+      <li>BIRTHDATE: 10/12/1993 (30)</li>
+      <li>BAT/THR: Both/Right</li>
+      <li>BIRTHPLACE: Nizao, Dominican Republic</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/ketel_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Ketel Marte Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 26 other qualified second basemen in at-bats.</p>
+  </div>
+</div>
+
+The selection of Ketel Marte was an easy one as he is leading all other second basemen in WAR by more than a full point! the next closest NL second baseman is Brice Turang a full 1.2 WAR behind. Marte is having an extrodrordinary season at second base as he leads all others in Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average and Home Runs! He has helped provide the Diamondbacks with an offensive explosion that no one at second base can compare to this season. 
 
 
 Sources
