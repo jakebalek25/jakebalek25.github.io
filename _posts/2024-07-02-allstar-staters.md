@@ -66,12 +66,11 @@ Milwaukee Brewers  #24
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
     <img src="/images/william_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of William Contreras">
-    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
-      <li>5' 11"</li>
-      <li>212 lbs</li>
-      <li>12/24/1997 (26)</li>
+    <ul style="list-style-type: none; padding: 0; text-align: left; font-size: 80%;">
+      <li>HT/WT: 5' 11", 212 lbs</li>
+      <li>BIRTHDATE: 12/24/1997 (26)</li>
       <li>BAT/THR: Right/Right</li>
-      <li>Puerto Cabello, Venezuela</li>
+      <li>BIRTHPLACE: Puerto Cabello, Venezuela</li>
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
