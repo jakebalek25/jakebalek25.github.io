@@ -101,6 +101,8 @@ Houston Astros #27
   </div>
 </div>
 
+The choice of Altuve in this situation was extremely difficult and likely the closest race among all of the other positions. Jordan Westburg slightly outranks Altuve in 4 of our main categories so he should be the starter correct? While he should be an all-star, I believe that Altuve should be the starter due to Altuve being the all around better hitter. Altuve has a much higher batting average and on base percentage than Westburg and has more steals to go with this. Altuve has been the perfect man for the Astros this year while adding some power. He has reached base safely at such a high rate that he has scored the third most runs among second basemen despite the Astros early struggles this season. Altuve shows more discipline at the plate than Westburg by walking more and striking out less than Westburg according to their walk and strikeout rates. Again, this was a tough choice however, I believe Altuve has done a better job in his leadoff role to keep the Astros in the thick of the playoff race. This is no knock to Westburg who has also done his job by driving in guys from the top of the order. 
+
 
 National League Players
 ------
