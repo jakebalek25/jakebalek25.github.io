@@ -64,7 +64,7 @@ Toronto Blue Jays #27
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
-    <img src="/images/adley_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Adley Rutschman">
+    <img src="/images/vlad_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Adley Rutschman">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
       <li>HT/WT: 6' 2", 245 lbs</li>
       <li>BIRTHDATE: 3/16/1999 (25)</li>
@@ -73,7 +73,7 @@ Toronto Blue Jays #27
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
-    <img src="/images/adley_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Adley Rutschman Batting Ranks">
+    <img src="/images/vlad_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Adley Rutschman Batting Ranks">
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 10 other qualified catchers in at-bats.</p>
   </div>
 </div>
