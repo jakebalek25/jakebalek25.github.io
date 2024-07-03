@@ -61,7 +61,11 @@ National League Starting Lineup: C, 1B, 2B, 3B, SS, OF, OF, OF, DH
 
 Catcher - William Contreras
 ---
-Milwaukee Brewers #24
+Milwaukee Brewers  #24
+HT/WT: 5' 11", 212 lbs
+BIRTHDATE: 12/24/1997 (26)
+BAT/THR: Right/Right
+BIRTHPLACE: Puerto Cabello, Venezuela
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
@@ -79,3 +83,11 @@ First Baseman
 ---
 
 
+
+
+
+
+
+Sources
+------
+All bio notes and images curteosy of ESPN.com
