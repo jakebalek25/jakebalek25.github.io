@@ -266,4 +266,4 @@ Mookie Betts started the year on an absolute tear, torching the league by hittin
 
 Sources
 ------
-All bio notes and images curteosy of ESPN.com
+All bio notes and images courtesy of ESPN.com
