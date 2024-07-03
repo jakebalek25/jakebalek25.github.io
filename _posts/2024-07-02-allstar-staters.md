@@ -155,14 +155,14 @@ New York Yankees #99
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
     <img src="/images/judge_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Aaron Judge">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
-      <li>HT/WT: 6' 3", 220 lbs</li>
-      <li>BIRTHDATE: 6/29/2001 (23)</li>
-      <li>BAT/THR: Left/Right</li>
-      <li>BIRTHPLACE: Montgomery, AL</li>
+      <li>HT/WT: 6' 7", 282 lbs</li>
+      <li>BIRTHDATE: 4/26/1992 (32)</li>
+      <li>BAT/THR: Right/Right</li>
+      <li>BIRTHPLACE: Linden, CA</li>
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
-    <img src="/images/gunnar_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Aaron Judge Batting Ranks">
+    <img src="/images/judge_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Aaron Judge Batting Ranks">
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
   </div>
 </div>
@@ -175,10 +175,10 @@ New York Yankees #22
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
     <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Juan Soto">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
-      <li>HT/WT: 6' 3", 220 lbs</li>
-      <li>BIRTHDATE: 6/29/2001 (23)</li>
-      <li>BAT/THR: Left/Right</li>
-      <li>BIRTHPLACE: Montgomery, AL</li>
+      <li>HT/WT: 6' 2", 224 lbs</li>
+      <li>BIRTHDATE: 10/25/1998 (25)</li>
+      <li>BAT/THR: Left/Left</li>
+      <li>BIRTHPLACE: Santo Domingo, Dominican Republic</li>
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
@@ -195,10 +195,10 @@ Cleveland Guardians #38
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
     <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Steven Kwan">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
-      <li>HT/WT: 6' 3", 220 lbs</li>
-      <li>BIRTHDATE: 6/29/2001 (23)</li>
-      <li>BAT/THR: Left/Right</li>
-      <li>BIRTHPLACE: Montgomery, AL</li>
+      <li>HT/WT: 5' 9", 170 lbs</li>
+      <li>BIRTHDATE: 9/5/1997 (26)</li>
+      <li>BAT/THR: Left/Left</li>
+      <li>BIRTHPLACE: Los Gatos, CA</li>
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
@@ -331,10 +331,10 @@ San Diego Padres #10
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
     <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Jurickson Profar">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
-      <li>HT/WT: 6' 3", 220 lbs</li>
-      <li>BIRTHDATE: 6/29/2001 (23)</li>
-      <li>BAT/THR: Left/Right</li>
-      <li>BIRTHPLACE: Montgomery, AL</li>
+      <li>HT/WT: 6' 0", 184 lbs</li>
+      <li>BIRTHDATE: 2/20/1993 (31)</li>
+      <li>BAT/THR: Both/Right</li>
+      <li>BIRTHPLACE: Willemstad, Curacao</li>
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
@@ -351,10 +351,10 @@ Milwaukee Brewers #22
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
     <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Christian Yelich">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
-      <li>HT/WT: 6' 3", 220 lbs</li>
-      <li>BIRTHDATE: 6/29/2001 (23)</li>
+      <li>HT/WT: 6' 3", 206 lbs</li>
+      <li>BIRTHDATE: 12/5/1991 (32)</li>
       <li>BAT/THR: Left/Right</li>
-      <li>BIRTHPLACE: Montgomery, AL</li>
+      <li>BIRTHPLACE: Thousand Oaks, CA</li>
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
@@ -365,16 +365,16 @@ Milwaukee Brewers #22
 
 Outfielder #3 - Fernando Tatis Jr. 
 ---
-San Diego Padres #22
+San Diego Padres #23
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
     <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Fernando Tatis Jr.">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
-      <li>HT/WT: 6' 3", 220 lbs</li>
-      <li>BIRTHDATE: 6/29/2001 (23)</li>
-      <li>BAT/THR: Left/Right</li>
-      <li>BIRTHPLACE: Montgomery, AL</li>
+      <li>HT/WT: 6' 3", 217 lbs</li>
+      <li>BIRTHDATE: 1/2/1999 (25)</li>
+      <li>BAT/THR: Right/Right</li>
+      <li>BIRTHPLACE: San Pedro de Macoris, Dominican Republic</li>
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
