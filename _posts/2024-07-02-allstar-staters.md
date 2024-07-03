@@ -32,6 +32,7 @@ Above, the images contain players who have qualified for phase 2 of the voting a
 Next, we will get into who I believe should be the all-star starter for each position between the 2 leagues. I made judgements based simply on raw numbers from fangraphs and statcast. The data was then manipulated to determine the rank for each qualified player at the respected postions. The statistics being studied consist of Batting Average (AVG), Stolen Bases (SB), Home Runs (HR), weighted On Base Average (wOBA), Wins Above Replacement (WAR), weighted Runs Created Plus (wRC+), Slugging Percentage (SLG) and On Base Percentage (OBP).
 
 
+
 American League Players
 ------
 American League Startting Lineup: C, 1B, 2B, 3B, SS, OF, OF, OF, DH
@@ -79,6 +80,26 @@ Toronto Blue Jays #27
 </div>
 
 Despite the Blue Jays offensive struggles, Valdimir Guerrero Jr. has quietly had a great start to the year. He is top 3 among first baseman in Batting Average, On Base Percentage and weighted Runs Created Plus. He has seen a slight drop in power however, he has made up for it by getting on base at a career best rate of 0.377 OBP. He ranks 5th among first basemen in WAR behind only Salvador Perez in the AL by a small margin. However, Guerrero has done a much better job getting on base and helping his team create a much higher number of runs than Perez. 
+
+Second Baseman - Jose Altuve
+------
+Houston Astros #27
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/jose_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Jose Altuve">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 5' 6", 167 lbs</li>
+      <li>BIRTHDATE: 	5/6/1990 (34)</li>
+      <li>BAT/THR: Right/Right</li>
+      <li>BIRTHPLACE: Maracay, Venezuela</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/jose_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Jose Altuve Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 21 other qualified second basemen in at-bats.</p>
+  </div>
+</div>
 
 
 National League Players
@@ -145,7 +166,7 @@ Arizona Diamondbacks #4
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
     <img src="/images/ketel_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Ketel Marte Batting Ranks">
-    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 26 other qualified second basemen in at-bats.</p>
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 21 other qualified second basemen in at-bats.</p>
   </div>
 </div>
 
