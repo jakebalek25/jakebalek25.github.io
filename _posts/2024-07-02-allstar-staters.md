@@ -107,7 +107,7 @@ Philadelphia Phillies #3
   </div>
 </div>
 
-
+Bryce Harper is a clear cut all-star stater after the season he has gotten off to. He earned his place as a starter early after phase 1 and it was well deserved as he leads all other qualified first basemen in Batting Average, On Base Percentage, Slugging Percentage, weighted Runs Created Plus and Wins Above Replacement. He has been the best at his postion across the league and has helped lead the Phillies to the top spot in the NL throught the first half of the season. The only even remotely close is Freddie Freeman who ranks 2nd in most of the statistics listed above however, due to Bryce Harper's recent time on the IL, Freeman will likely replace Harper as a starter in the all-star game. 
 
 
 
