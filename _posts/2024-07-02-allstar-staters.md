@@ -58,8 +58,27 @@ Baltimore Orioles #35
 
 Among the 85 catchers who have recorded an official at-bat in the MLB this year, there are only 10 qualified players at this postion. No one is more qualified to be the starter for the AL team as he leads Wins Above Replacement over all other catchers, edging the next closest AL catcher by 0.9 WAR. Among the qualified catchers, he ranks top 3 in Batting Average, weighted Runs Created Plus, Slugging Percentage and On Base Percentage to name a few. Although Salvador Perez is having a great season, no catcher in the AL is having a good enough season to be put into the same conversation as Rutschman. 
 
-First Baseman
+First Baseman - Vladimir Guerrero Jr.
 ---
+Toronto Blue Jays #27
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/adley_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Adley Rutschman">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 6' 2", 245 lbs</li>
+      <li>BIRTHDATE: 3/16/1999 (25)</li>
+      <li>BAT/THR: Right/Right</li>
+      <li>BIRTHPLACE: Montreal, PQ</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/adley_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Adley Rutschman Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 10 other qualified catchers in at-bats.</p>
+  </div>
+</div>
+
+
 
 National League Players
 ------
