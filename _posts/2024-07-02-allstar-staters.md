@@ -78,6 +78,7 @@ Toronto Blue Jays #27
   </div>
 </div>
 
+Despite the Blue Jays offensive struggles, Valdimir Guerrero Jr. has quietly had a great start to the year. He is top 3 among first baseman in Batting Average, On Base Percentage and weighted Runs Created Plus. He has seen a slight drop in power however, he has made up for it by getting on base at a career best rate of 0.377 OBP. He ranks 5th among first basemen in WAR behind only Salvador Perez in the AL by a small margin. However, Guerrero has done a much better job getting on base and helping his team create a much higher number of runs than Perez. 
 
 
 National League Players
