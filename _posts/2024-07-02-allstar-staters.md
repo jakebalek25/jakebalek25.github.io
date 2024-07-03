@@ -13,7 +13,7 @@ Voting
 ------
 Each year, MLB fans vote across multiple weeks to determine who should be starting in the allstar game. This year, the voting process occurs through 2 phases. The first phase allows fans to vote on every position including designated hitters. The top overall vote reciever in both leagues is granted an automatic starting spot at their postion. The rest of the positions advance to the final phase as fans are allowed to vote on the top 2 players at each position to secure a starting spot in the all star game. The same goes for outfielders however there are 3 spots and 6 players advance to phase 2. 
 
-Along with years past, this format of allowing fans to vote for players has led a popularity contest. Today, I want to highlight who the batting starters should be based on WAR and multiple basic/advanced statistics rather than fan voting. 
+Along with years past, this format of allowing fans to vote for players has led a popularity contest. Today, I want to highlight who the batting starters should be based on WAR and multiple basic/advanced statistics rather than fan voting. Each position was determined based solely on qualified hitters who meet the minimum PA threshold besides the OF position which was set at 250 AB minimum.
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
@@ -147,6 +147,66 @@ Baltimore Orioles #2
 
 The race for starting shortstop in the AL has been very close between the two best shortstops in the MLB so far this season between Gunnar Henderson and Bobby Witt Jr. Gunnar has had the better overall season so far, trailing only in batting average and stealing numbers. Gunnar leads all qualified shortstops in Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average and Home Runs among our selected statistics. Gunnar has held the position strong despite newcomer Jackson Holliday giving him a run for his money. Gunnar leads Bobby Witt Jr. by over a point in WAR and all other shortstops by over 2 full points! 
 
+Outfielder #1 - Aaron Judge
+---
+New York Yankees #99
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/judge_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Aaron Judge">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 6' 3", 220 lbs</li>
+      <li>BIRTHDATE: 6/29/2001 (23)</li>
+      <li>BAT/THR: Left/Right</li>
+      <li>BIRTHPLACE: Montgomery, AL</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/gunnar_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Aaron Judge Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
+  </div>
+</div>
+
+Outfielder #2 - Juan Soto
+---
+New York Yankees #22
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Juan Soto">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 6' 3", 220 lbs</li>
+      <li>BIRTHDATE: 6/29/2001 (23)</li>
+      <li>BAT/THR: Left/Right</li>
+      <li>BIRTHPLACE: Montgomery, AL</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/gunnar_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Juan Soto Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
+  </div>
+</div>
+
+Outfielder #3 - Steven Kwan
+---
+Cleveland Guardians #38
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Steven Kwan">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 6' 3", 220 lbs</li>
+      <li>BIRTHDATE: 6/29/2001 (23)</li>
+      <li>BAT/THR: Left/Right</li>
+      <li>BIRTHPLACE: Montgomery, AL</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/gunnar_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Steven Kwan Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
+  </div>
+</div>
+
 
 
 National League Players
@@ -243,7 +303,7 @@ This year, there hasn't been a star third baseman in the NL like there has the A
 
 Shortstop - Mookie Betts
 ---
-Los Angeles Dodgers #13
+Los Angeles Dodgers #50
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
@@ -262,6 +322,66 @@ Los Angeles Dodgers #13
 </div>
 
 Mookie Betts started the year on an absolute tear, torching the league by hitting home runs every other night. He has since slightly cooled off however is still one of the top shortstops in the league so far. His competition resides in Trea Turner however, Turner is not considered to be a qualified hitter due to his time with injury. So, choosing Mookie Betts makes sense as Mookie has doubled Turner in most categories outside of batting average. Mookie has shown great numbers across the board and leads the NL in On Base Percentage which is exactly what the Dodgers have asked for out of their leadoff man. Mookie should be chosen the starter however, due to his recent hand fracture, Turner will likely end up starting the game. 
+
+Outfielder #1 - Jurickson Profar
+---
+San Diego Padres #10
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Jurickson Profar">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 6' 3", 220 lbs</li>
+      <li>BIRTHDATE: 6/29/2001 (23)</li>
+      <li>BAT/THR: Left/Right</li>
+      <li>BIRTHPLACE: Montgomery, AL</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/gunnar_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Jurickson Profar Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
+  </div>
+</div>
+
+Outfielder #2 - Christian Yelich
+---
+Milwaukee Brewers #22
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Christian Yelich">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 6' 3", 220 lbs</li>
+      <li>BIRTHDATE: 6/29/2001 (23)</li>
+      <li>BAT/THR: Left/Right</li>
+      <li>BIRTHPLACE: Montgomery, AL</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/gunnar_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Christian Yelich Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
+  </div>
+</div>
+
+Outfielder #3 - Fernando Tatis Jr. 
+---
+San Diego Padres #22
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Fernando Tatis Jr.">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 6' 3", 220 lbs</li>
+      <li>BIRTHDATE: 6/29/2001 (23)</li>
+      <li>BAT/THR: Left/Right</li>
+      <li>BIRTHPLACE: Montgomery, AL</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/gunnar_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Fernando Tatis Jr. Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
+  </div>
+</div>
 
 
 Sources
