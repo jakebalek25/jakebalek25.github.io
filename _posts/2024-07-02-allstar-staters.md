@@ -47,9 +47,14 @@ Baltimore Orioles #35
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
     <img src="/images/adley_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Adley Rutschman Batting Ranks">
-    <p style="text-align: center; font-size: 80%;">League hitting rankings among 10 other qualified catchers in at-bats.</p>
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 10 other qualified catchers in at-bats.</p>
   </div>
 </div>
+
+Among the 85 catchers who have recorded an official at-bat in the MLB this year, there are only 10 qualified players at this postion. No one is more qualified to be the starter for the AL team as he leads WAR over all other catchers, edging the next closest AL catcher by 0.9 WAR. Among the qualified catchers, he ranks top 3 in Batting Average, weighted Runs Created Plus, Slugging Percentage and On Base Percentage to name a few. Although Salvador Perez is having a great season, no catcher in the AL is having a good enough season to be put into the same conversation as Rutschman. 
+
+First Baseman
+---
 
 National League Players
 ------
@@ -57,7 +62,7 @@ National League Starting Lineup: C, 1B, 2B, 3B, SS, OF, OF, OF, DH
 
 Catcher
 ---
-name
+William Contreras
 
 
 
