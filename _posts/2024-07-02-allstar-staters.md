@@ -13,7 +13,7 @@ Voting
 ------
 Each year, MLB fans vote across multiple weeks to determine who should be starting in the allstar game. This year, the voting process occurs through 2 phases. The first phase allows fans to vote on every position including designated hitters. The top overall vote reciever in both leagues is granted an automatic starting spot at their postion. The rest of the positions advance to the final phase as fans are allowed to vote on the top 2 players at each position to secure a starting spot in the all star game. The same goes for outfielders however there are 3 spots and 6 players advance to phase 2. 
 
-Along with years past, this format of allowing fans to vote for players has led a popularity contest. Today, I want to highlight who the batter starters should be based on WAR and multiple other statistics rather than fan voting. 
+Along with years past, this format of allowing fans to vote for players has led a popularity contest. Today, I want to highlight who the batting starters should be based on WAR and multiple basic/advanced statistics rather than fan voting. 
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
@@ -125,6 +125,29 @@ Cleveland Guardians #11
 
 The selection of the starting AL third baseman is a tricky one. We could likely see 3 AL third basemen make the all-star team between José Ramírez, Jordan Westburg and Rafael Devers. All 3 have had phenomenal starts to the season however, José Ramírez and Rafael Devers stick out to me as the tier 1 players despite Devers not making the final phase of voting. You really cannot go wrong as to who is picked between these two despite the lack of media around the two players so far this season. For the purpose of selecting a starter, we will stick with José Ramírez due to his lead in WAR by just under half a point and his raw offensive numbers topping Devers. His high number of hits and RBI's have led Cleveland to one of the best offenses in baseball. This along with a stellar bullpen, has guided Cleveland to the best record across the MLB through the first half of the season. 
 
+Shortstop - Gunnar Henderson
+---
+Baltimore Orioles #2
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/gunnar_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Gunnar Henderson">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 6' 3", 220 lbs</li>
+      <li>BIRTHDATE: 6/29/2001 (23)</li>
+      <li>BAT/THR: Left/Right</li>
+      <li>BIRTHPLACE: Montgomery, AL</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/gunnar_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Gunnar Henderson Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 23 other qualified shortstops in at-bats.</p>
+  </div>
+</div>
+
+The race for starting shortstop in the AL has been very close between the two best shortstops in the MLB so far this season between Gunnar Henderson and Bobby Witt Jr. Gunnar has had the better overall season so far, trailing only in batting average and stealing numbers. Gunnar leads all qualified shortstops in Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average and Home Runs among our selected statistics. Gunnar has held the position strong despite newcomer Jackson Holliday giving him a run for his money. Gunnar leads Bobby Witt Jr. by over a point in WAR and all other shortstops by over 2 full points! 
+
+
 
 National League Players
 ------
@@ -217,6 +240,29 @@ Philadelphia Phillies #28
 </div>
 
 This year, there hasn't been a star third baseman in the NL like there has the AL. The two final nominees in Alec Bohm and Manny Machado are... interesting. Machado ranks near the middle or bottom of all qualified third basemen in our offensive categories. Bohm is the best NL third baseman by quite a wide margin. Bohm is top 5 among all third basemen in Batting Average, On Base Percentage and Slugging Percentage. He ranks 6th in WAR as he has locked down the hot corner for the Phillies to begin the year and has the highest Offensive rating so far among all NL third basemen by quite a wide margin. He is very deserving as there is no one else who should really be in the conversation with him. 
+
+Shortstop - Mookie Betts
+---
+Los Angeles Dodgers #13
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/mookie_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Mookie Betts">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 5' 9", 180 lbs</li>
+      <li>BIRTHDATE: 10/7/1992 (31)</li>
+      <li>BAT/THR: Right/Right</li>
+      <li>BIRTHPLACE: Nashville, TN</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/mookie_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Mookie Betts Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 23 other qualified shortstops in at-bats.</p>
+  </div>
+</div>
+
+Mookie Betts started the year on an absolute tear, torching the league by hitting home runs every other night. He has since slightly cooled off however is still one of the top shortstops in the league so far. His competition resides in Trea Turner however, Turner is not considered to be a qualified hitter due to his time with injury. So, choosing Mookie Betts makes sense as Mookie has doubled Turner in most categories outside of batting average. Mookie has shown great numbers across the board and leads the NL in On Base Percentage which is exactly what the Dodgers have asked for out of their leadoff man. Mookie should be chosen the starter however, due to his recent hand fracture, Turner will likely end up starting the game. 
+
 
 Sources
 ------
