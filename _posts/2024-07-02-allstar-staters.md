@@ -103,6 +103,28 @@ Houston Astros #27
 
 The choice of Altuve in this situation was extremely difficult and likely the closest race among all of the other positions. Jordan Westburg slightly outranks Altuve in 4 of our main categories so he should be the starter correct? While he should be an all-star, I believe that Altuve should be the starter due to Altuve being the all around better hitter. Altuve has a much higher batting average and on base percentage than Westburg and has more steals to go with this. Altuve has been the perfect man for the Astros this year while adding some power. He has reached base safely at such a high rate that he has scored the third most runs among second basemen despite the Astros early struggles this season. Altuve shows more discipline at the plate than Westburg by walking more and striking out less than Westburg according to their walk and strikeout rates. Again, this was a tough choice however, I believe Altuve has done a better job in his leadoff role to keep the Astros in the thick of the playoff race. This is no knock to Westburg who has also done his job by driving in guys from the top of the order. 
 
+Third Baseman - José Ramírez
+---
+Cleveland Guardians #11
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/jram_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of José Ramírez.">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 5' 9", 190 lbs</li>
+      <li>BIRTHDATE: 9/17/1992 (31)</li>
+      <li>BAT/THR: Both/Right</li>
+      <li>BIRTHPLACE: Bani, Dominican Republic</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/jram_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of José Ramírez Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 10 other qualified first basemen in at-bats.</p>
+  </div>
+</div>
+
+The selection of the starting AL third baseman is a tricky one. We could likely see 3 AL third basemen make the all-star team between José Ramírez, Jordan Westburg and Rafael Devers. All 3 have had phenomenal starts to the season however, José Ramírez and Rafael Devers stick out to me as the tier 1 players despite Devers not making the final phase of voting. You really cannot go wrong as to who is picked between these two despite the lack of media around the two players so far this season. For the purpose of selecting a starter, we will stick with José Ramírez due to his lead in WAR by just under half a point and his raw offensive numbers topping Devers. His high number of hits and RBI's have led Cleveland to one of the best offenses in baseball. This along with a stellar bullpen, has guided Cleveland to the best record across the MLB through the first half of the season. 
+
 
 National League Players
 ------
@@ -174,6 +196,27 @@ Arizona Diamondbacks #4
 
 The selection of Ketel Marte was an easy one as he is leading all other second basemen in WAR by more than a full point! the next closest NL second baseman is Brice Turang a full 1.2 WAR behind. Marte is having an extrodrordinary season at second base as he leads all others in Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average and Home Runs! He has helped provide the Diamondbacks with an offensive explosion that no one at second base can compare to this season. 
 
+Third Baseman - Alec Bohm
+---
+Philadelphia Phillies #28
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/alec_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Alec Bohm">
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 6' 5", 218 lbs</li>
+      <li>BIRTHDATE: 8/3/1996 (27)</li>
+      <li>BAT/THR: Right/Right</li>
+      <li>BIRTHPLACE: Omaha, NE</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/alec_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Alec Bohm Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 20 other qualified third basemen in at-bats.</p>
+  </div>
+</div>
+
+This year, there hasn't been a star third baseman in the NL like there has the AL. The two final nominees in Alec Bohm and Manny Machado are... interesting. Machado ranks near the middle or bottom of all qualified third basemen in our offensive categories. Bohm is the best NL third baseman by quite a wide margin. Bohm is top 5 among all third basemen in Batting Average, On Base Percentage and Slugging Percentage. He ranks 6th in WAR as he has locked down the hot corner for the Phillies to begin the year and has the highest Offensive rating so far among all NL third basemen by quite a wide margin. He is very deserving as there is no one else who should really be in the conversation with him. 
 
 Sources
 ------
