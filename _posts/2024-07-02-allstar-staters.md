@@ -29,7 +29,7 @@ Along with years past, this format of allowing fans to vote for players has led 
 </div>
 Above, the images contain players who have qualified for phase 2 of the voting according to MLB.com.
 
-
+Next, we will get into who I believe should be the all-star starter for each position between the 2 leagues. I made judgements based simply on raw numbers from fangraphs and statcast. The data was then manipulated to determine the rank for each qualified player at the respected postions. The statistics being studied consist of Batting Average (AVG), Stolen Bases (SB), Home Runs (HR), weighted On Base Average (wOBA), Wins Above Replacement (WAR), weighted Runs Created Plus (wRC+), Slugging Percentage (SLG) and On Base Percentage (OBP).
 
 
 American League Players
