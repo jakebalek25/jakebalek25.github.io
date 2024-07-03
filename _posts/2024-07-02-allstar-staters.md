@@ -87,7 +87,7 @@ Houston Astros #27
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
-    <img src="/images/jose_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Jose Altuve">
+    <img src="/images/altuve_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Jose Altuve">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
       <li>HT/WT: 5' 6", 167 lbs</li>
       <li>BIRTHDATE: 	5/6/1990 (34)</li>
@@ -96,7 +96,7 @@ Houston Astros #27
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
-    <img src="/images/jose_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Jose Altuve Batting Ranks">
+    <img src="/images/altuve_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Jose Altuve Batting Ranks">
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 21 other qualified second basemen in at-bats.</p>
   </div>
 </div>
