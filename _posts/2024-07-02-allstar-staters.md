@@ -1,6 +1,6 @@
 ---
 title: "Selecting MLB All-Stars Based on First-Half Stats"
-date: 2024-07-02
+date: 2024-07-03
 permalink: /posts/2024/07/allstar-game-starters-2024/
 tags:
   - baseball
@@ -145,7 +145,7 @@ Baltimore Orioles #2
   </div>
 </div>
 
-The race for starting shortstop in the AL has been very close between the two best shortstops in the MLB so far this season between Gunnar Henderson and Bobby Witt Jr. Gunnar has had the better overall season so far, trailing only in batting average and stealing numbers. Gunnar leads all qualified shortstops in Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average and Home Runs among our selected statistics. Gunnar has held the position strong despite newcomer Jackson Holliday giving him a run for his money. Gunnar leads Bobby Witt Jr. by over a point in WAR and all other shortstops by over 2 full points! 
+The race for starting shortstop in the AL has been very close between the two best shortstops in the MLB so far this season between Gunnar Henderson and Bobby Witt Jr. Gunnar has had the better overall season so far, trailing only in batting average and stealing numbers. Gunnar leads all qualified shortstops in Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average and Home Runs among our selected statistics. Gunnar has held the position strong despite newcomer Jackson Holliday giving him a run for his money. Gunnar leads Bobby Witt Jr. by over a point in WAR and all other shortstops by over 2 full points! This is good enough to be 2nd in the league just behind Aaron Judge.
 
 Outfielder #1 - Aaron Judge
 ---
@@ -167,6 +167,8 @@ New York Yankees #99
   </div>
 </div>
 
+Aaron Judge is having another season similar to his MVP season in 2022. Despite his slow start, he leads all qualified outfielders in On Base Percentage, Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average and Home Runs out of our selected stats. He leads the entire MLB in WAR and is third among the outfielders in batting average at .321. He has completely electrified the Yankees offense alongside Juan Soto. There is nothing more that needs to be said about the best player in the league so far this year. He deserves to start the all-star game as he chases another MVP season and he was rightfully voted to start after phase 1. 
+
 Outfielder #2 - Juan Soto
 ---
 New York Yankees #22
@@ -186,6 +188,8 @@ New York Yankees #22
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
   </div>
 </div>
+
+Similar to Aaron Judge, Juan Soto has been Mr. Consistent for the Yankees this season by hammering the ball to all parks of the park. At the beginning of the year when the Yankees offense was cold, Soto carried the offense on his back to jumpstart the team. Soto ranks 2nd among qualifying outfielders in On Base Percentage, weighted Runs Created Plus, Wins Above Replacement and weighted On Base Average. He ranks top 5 in Batting Average and Slugging Percentage among qualified outfielders as well. He and Judge have completely torn the cover off the ball and deserve to start side-by-side in the all-star game. 
 
 Outfielder #3 - Steven Kwan
 ---
@@ -207,6 +211,7 @@ Cleveland Guardians #38
   </div>
 </div>
 
+Steven Kwan season has been a bit of a surprise as to the magnitude of success he has had at the plate. Despite missing some time with injury, Kwan leads the league in batting average at .362 as of after yesterday. He ranks top 5 among all qualified outfielders in On Base Percentage, Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement and weighted On Base Average. He is doing everything that Cleveland is asking of him in the leadoff spot by getting on base for the heart of the order. Alongside José Ramírez, Kwan has been a vital piece in acheiving first place in the MLB after the halfway mark this season. 
 
 
 National League Players
