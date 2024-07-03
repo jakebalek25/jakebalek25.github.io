@@ -43,7 +43,6 @@ Baltimore Orioles #35
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
     <img src="/images/adley_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Adley Rutschman">
-    <p style="text-align: center; font-size: 80%;">Illustration courtesy of ESPN.com</p>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
     <img src="/images/adley_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Adley Rutschman Batting Ranks">
