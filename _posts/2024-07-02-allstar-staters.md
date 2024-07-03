@@ -69,6 +69,11 @@ BIRTHPLACE: Puerto Cabello, Venezuela
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <h3 style="text-align: left;">Milwaukee Brewers  #24
+HT/WT: 5' 11", 212 lbs
+BIRTHDATE: 12/24/1997 (26)
+BAT/THR: Right/Right
+BIRTHPLACE: Puerto Cabello, Venezuela</h3>
     <img src="/images/william_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of William Contreras">
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
