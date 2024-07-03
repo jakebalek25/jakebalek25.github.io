@@ -66,13 +66,20 @@ Milwaukee Brewers  #24
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
     <img src="/images/william_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of William Contreras">
-    <p style="text-align: center; font-size: 80%;">5' 11", 212 lbs   12/24/1997 (26)   BAT/THR: Right/Right   Puerto Cabello, Venezuela</p>
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>5' 11"</li>
+      <li>212 lbs</li>
+      <li>12/24/1997 (26)</li>
+      <li>BAT/THR: Right/Right</li>
+      <li>Puerto Cabello, Venezuela</li>
+    </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
     <img src="/images/william_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of William Contreras Batting Ranks">
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 10 other qualified catchers in at-bats.</p>
   </div>
 </div>
+
 
 William has had an offensive explosion in the first half of the season. He leads all of the qualified catchers in On Base Percentage and Batting Average. He is top 3 in both Wins Above Replacement and weighted Runs Created Plus. Contreras has helped the Brewers young pitching staff have one of the best starts in the league. There is lots of argument to have Will Smith above Contreras in this postition because Will Smith slightly edges Contreras in WAR by just under 0.005 due to a much better start to the year on the defensive side. However, this spot belongs to Contreras who has had the much better offensive start and all-around year so far.
 
