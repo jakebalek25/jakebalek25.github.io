@@ -439,4 +439,4 @@ Without having to worry about pitching or playing the field this year, Shohei Oh
 
 # Sources
 ------
-All bio notes and images courtesy of ESPN.com
+All bio notes and player headshot images courtesy of ESPN.com
