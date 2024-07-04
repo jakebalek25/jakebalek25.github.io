@@ -213,6 +213,26 @@ Cleveland Guardians #38
 
 Steven Kwan season has been a bit of a surprise as to the magnitude of success he has had at the plate. Despite missing some time with injury, Kwan leads the league in batting average at .362 as of after yesterday. He ranks top 5 among all qualified outfielders in On Base Percentage, Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement and weighted On Base Average. He is doing everything that Cleveland is asking of him in the leadoff spot by getting on base for the heart of the order. Alongside José Ramírez, Kwan has been a vital piece in acheiving first place in the MLB after the halfway mark this season. 
 
+Designated Hitter - Yordan Alvarez 
+---
+Houston Astros #17
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/yordan_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Yordan Alvarez>
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 6' 5", 237 lbs</li>
+      <li>BIRTHDATE: 6/27/1997 (27)</li>
+      <li>BAT/THR: Left/Right</li>
+      <li>BIRTHPLACE: Las Tunas, Cuba</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/yordan_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Yordan Alvarez Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 20 other qualified designated hitters in at-bats.</p>
+  </div>
+</div>
+
 
 
 # National League Players
@@ -384,6 +404,26 @@ San Diego Padres #23
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
     <img src="/images/tatis_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Fernando Tatis Jr. Batting Ranks">
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
+  </div>
+</div>
+
+Designated Hitter - Shohei Ohtani 
+---
+Los Angeles Dodgers #17
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 50%; margin-right: 10px;">
+    <img src="/images/ohtani_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Shohei Ohtani>
+    <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
+      <li>HT/WT: 6' 4", 210 lbs</li>
+      <li>BIRTHDATE: 7/5/1994 (29)</li>
+      <li>BAT/THR: Left/Right</li>
+      <li>BIRTHPLACE: Oshu, Japan</li>
+    </ul>
+  </div>
+  <div style="flex: 1; max-width: 50%; margin-left: 10px;">
+    <img src="/images/ohtani_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Shohei Ohtani Batting Ranks">
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 20 other qualified designated hitters in at-bats.</p>
   </div>
 </div>
 
