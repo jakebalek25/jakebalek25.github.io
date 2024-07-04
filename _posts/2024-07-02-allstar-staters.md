@@ -219,7 +219,7 @@ Houston Astros #44
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
-    <img src="/images/yordan_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Yordan Alvarez>
+    <img src="/images/yordan_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Yordan Alvarez">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
       <li>HT/WT: 6' 5", 237 lbs</li>
       <li>BIRTHDATE: 6/27/1997 (27)</li>
@@ -420,7 +420,7 @@ Los Angeles Dodgers #17
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
-    <img src="/images/shohei_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Shohei Ohtani>
+    <img src="/images/shohei_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Shohei Ohtani">
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
       <li>HT/WT: 6' 4", 210 lbs</li>
       <li>BIRTHDATE: 7/5/1994 (29)</li>
@@ -437,6 +437,6 @@ Los Angeles Dodgers #17
 Without having to worry about pitching or playing the field this year, Shohei Ohtani has been the real deal at the plate. He is leading all qualified designated hitters in every single one of our selected statistics including Stolen Bases! He ranks 5th in WAR in the league this year solely from hitting. He has even taken on the role of batting leadoff recently for the Dodgers with Mookie Betts being placed on the IL. He has even excelled in that spot. He sits at 27 home runs so far this season and is pushing to break 60 home runs after a somewhat slow start. He is going to be pursuing another MVP in the 2nd half of the season. 
 
 
-# Sources
+# Source
 ------
 All bio notes and player headshot images courtesy of ESPN.com
