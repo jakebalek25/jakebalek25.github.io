@@ -213,11 +213,10 @@ Cleveland Guardians #38
 Steven Kwan season has been a bit of a surprise as to the magnitude of success he has had at the plate. Despite missing some time with injury, Kwan leads the league in batting average at .362 as of after yesterday. He ranks top 5 among all qualified outfielders in On Base Percentage, Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement and weighted On Base Average. He is doing everything that Cleveland is asking of him in the leadoff spot by getting on base for the heart of the order. Alongside José Ramírez, Kwan has been a vital piece in acheiving first place in the MLB after the halfway mark this season. 
 
 
+
 # National League Players
 ---
-
 ### Catcher - William Contreras
----
 Milwaukee Brewers  #24
 
 <div style="display: flex; justify-content: center;">
