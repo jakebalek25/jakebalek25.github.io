@@ -101,7 +101,7 @@ Houston Astros #27
   </div>
 </div>
 
-The choice of Altuve in this situation was extremely difficult and likely the closest race among all of the other positions. Jordan Westburg slightly outranks Altuve in 4 of our main categories so he should be the starter correct? While he should be an all-star, I believe that Altuve should be the starter due to Altuve being the all around better hitter. Altuve has a much higher batting average and on base percentage than Westburg and has more steals to go with this. Altuve has been the perfect man for the Astros this year while adding some power. He has reached base safely at such a high rate that he has scored the third most runs among second basemen despite the Astros early struggles this season. Altuve shows more discipline at the plate than Westburg by walking more and striking out less than Westburg according to their walk and strikeout rates. Again, this was a tough choice however, I believe Altuve has done a better job in his leadoff role to keep the Astros in the thick of the playoff race. This is no knock to Westburg who has also done his job by driving in guys from the top of the order. 
+The choice of Altuve in this situation was extremely difficult and likely the closest race among all the other positions. Jordan Westburg slightly outranks Altuve in four of our main categories, so he should be the starter, correct? While he should be an all-star, I believe that Altuve should be the starter due to being an all-around better hitter. Altuve has a much higher batting average and on-base percentage than Westburg and has more steals to go with this. Altuve has been the perfect man for the Astros this year, adding some power. He has reached base safely at such a high rate that he has scored the third most runs among second basemen despite the Astros' early struggles this season. Altuve shows more discipline at the plate than Westburg by walking more and striking out less, according to their walk and strikeout rates. Again, this was a tough choice; however, I believe Altuve has done a better job in his leadoff role to keep the Astros in the thick of the playoff race. This is no knock on Westburg, who has also done his job by driving in guys from the top of the order.
 
 Third Baseman - José Ramírez
 ---
@@ -119,11 +119,11 @@ Cleveland Guardians #11
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
     <img src="/images/jram_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of José Ramírez Batting Ranks">
-    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 10 other qualified first basemen in at-bats.</p>
+    <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 20 other qualified third basemen in at-bats.</p>
   </div>
 </div>
 
-The selection of the starting AL third baseman is a tricky one. We could likely see 3 AL third basemen make the all-star team between José Ramírez, Jordan Westburg and Rafael Devers. All 3 have had phenomenal starts to the season however, José Ramírez and Rafael Devers stick out to me as the tier 1 players despite Devers not making the final phase of voting. You really cannot go wrong as to who is picked between these two despite the lack of media around the two players so far this season. For the purpose of selecting a starter, we will stick with José Ramírez due to his lead in WAR by just under half a point and his raw offensive numbers topping Devers. His high number of hits and RBI's have led Cleveland to one of the best offenses in baseball. This along with a stellar bullpen, has guided Cleveland to the best record across the MLB through the first half of the season. 
+The selection of the starting AL third baseman is a tricky one. We could likely see three AL third basemen make the all-star team: José Ramírez, Jordan Westburg, and Rafael Devers. All three have had phenomenal starts to the season; however, José Ramírez and Rafael Devers stand out to me as the tier 1 players, despite Devers not making the final phase of voting. You really cannot go wrong with either of these two players, despite the lack of media attention they have received so far this season. For the purpose of selecting a starter, we will stick with José Ramírez due to his lead in WAR by just under half a point and his raw offensive numbers topping Devers. His high number of hits and RBIs have led Cleveland to one of the best offenses in baseball. This, along with a stellar bullpen, has guided Cleveland to the best record across the MLB through the first half of the season.
 
 Shortstop - Gunnar Henderson
 ---
@@ -145,7 +145,7 @@ Baltimore Orioles #2
   </div>
 </div>
 
-The race for starting shortstop in the AL has been very close between the two best shortstops in the MLB so far this season between Gunnar Henderson and Bobby Witt Jr. Gunnar has had the better overall season so far, trailing only in batting average and stealing numbers. Gunnar leads all qualified shortstops in Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average and Home Runs among our selected statistics. Gunnar has held the position strong despite newcomer Jackson Holliday giving him a run for his money. Gunnar leads Bobby Witt Jr. by over a point in WAR and all other shortstops by over 2 full points! This is good enough to be 2nd in the league just behind Aaron Judge.
+The race for starting shortstop in the AL has been very close between the two best shortstops in the MLB so far this season between Gunnar Henderson and Bobby Witt Jr. So far, Gunnar has had the better overall season, trailing only in batting average and stealing numbers. Gunnar leads all qualified shortstops in Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average and Home Runs among our selected statistics. Gunnar has held the position strong despite newcomer Jackson Holliday giving him a run for his money. Gunnar leads Bobby Witt Jr. by over a point in WAR and all other shortstops by over 2 full points! This is good enough to be 2nd in the league only behind Aaron Judge.
 
 Outfielder #1 - Aaron Judge
 ---
@@ -167,7 +167,7 @@ New York Yankees #99
   </div>
 </div>
 
-Aaron Judge is having another season similar to his MVP season in 2022. Despite his slow start, he leads all qualified outfielders in On Base Percentage, Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average and Home Runs out of our selected stats. He leads the entire MLB in WAR and is third among the outfielders in batting average at .321. He has completely electrified the Yankees offense alongside Juan Soto. There is nothing more that needs to be said about the best player in the league so far this year. He deserves to start the all-star game as he chases another MVP season and he was rightfully voted to start after phase 1. 
+Aaron Judge is having another season similar to his MVP season in 2022. Despite his slow start, he leads all qualified outfielders in on-base percentage, slugging percentage, weighted runs created plus, wins above replacement, weighted on-base average, and home runs among our selected stats. He leads the entire MLB in WAR and is third among outfielders in batting average at .321. He has completely electrified the Yankees' offense alongside Juan Soto. There is nothing more that needs to be said about the best player in the league so far this year. He deserves to start the all-star game as he chases another MVP season and was rightfully voted to start after phase 1.
 
 Outfielder #2 - Juan Soto
 ---
@@ -189,7 +189,7 @@ New York Yankees #22
   </div>
 </div>
 
-Similar to Aaron Judge, Juan Soto has been Mr. Consistent for the Yankees this season by hammering the ball to all parks of the park. At the beginning of the year when the Yankees offense was cold, Soto carried the offense on his back to jumpstart the team. Soto ranks 2nd among qualifying outfielders in On Base Percentage, weighted Runs Created Plus, Wins Above Replacement and weighted On Base Average. He ranks top 5 in Batting Average and Slugging Percentage among qualified outfielders as well. He and Judge have completely torn the cover off the ball and deserve to start side-by-side in the all-star game. 
+Similar to Aaron Judge, Juan Soto has been Mr. Consistent for the Yankees this season, hammering the ball to all parts of the park. At the beginning of the year, when the Yankees' offense was cold, Soto carried the team on his back to jumpstart their season. Soto ranks second among qualifying outfielders in on-base percentage, weighted runs created plus, wins above replacement, and weighted on-base average. He also ranks in the top five in batting average and slugging percentage among qualified outfielders. Soto and Judge have completely torn the cover off the ball and deserve to start side-by-side in the all-star game.
 
 Outfielder #3 - Steven Kwan
 ---
@@ -211,7 +211,7 @@ Cleveland Guardians #38
   </div>
 </div>
 
-Steven Kwan season has been a bit of a surprise as to the magnitude of success he has had at the plate. Despite missing some time with injury, Kwan leads the league in batting average at .362 as of after yesterday. He ranks top 5 among all qualified outfielders in On Base Percentage, Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement and weighted On Base Average. He is doing everything that Cleveland is asking of him in the leadoff spot by getting on base for the heart of the order. Alongside José Ramírez, Kwan has been a vital piece in acheiving first place in the MLB after the halfway mark this season. 
+Steven Kwan's season has been a bit of a surprise given the magnitude of his success at the plate. Despite missing some time due to injury, Kwan leads the league in batting average at .362 as of yesterday. He also ranks in the top five among all qualified outfielders in on-base percentage, slugging percentage, weighted runs created plus, wins above replacement, and weighted on-base average. He is doing everything Cleveland is asking of him in the leadoff spot by getting on base for the heart of the order. Alongside José Ramírez, Kwan has been a vital piece in achieving first place in the MLB after the halfway mark this season.
 
 Designated Hitter - Yordan Alvarez 
 ---
@@ -233,12 +233,13 @@ Houston Astros #44
   </div>
 </div>
 
-Yordan Alvarez has been a machine this year offensively. He ranks top 4 among all qualified designated hitters in Batting Average, On Base Percentage, Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average, Home Runs and even Stolen Bases. He has been getting it done throughout every aspect offensively. He is by far the best AL option at DH and was one of my considerations for an OF as well. 
+Yordan Alvarez has been a machine this year offensively. He ranks top four among all qualified designated hitters in Batting Average, On Base Percentage, Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average, Home Runs and even Stolen Bases. He has been excelling in every aspect offensively. Alvarez is by far the best AL option at DH and was also one of my considerations for an outfield position.
 
 
 # National League Players
 ---
 Team managed by Torey Lovullo of the Arizona Diamondbacks. He managed the National League Pennant winner in 2023.
+
 ## Catcher - William Contreras
 Milwaukee Brewers  #24
 
@@ -258,7 +259,8 @@ Milwaukee Brewers  #24
   </div>
 </div>
 
-William has had an offensive explosion in the first half of the season. He leads all of the qualified catchers in On Base Percentage and Batting Average. He is top 3 in both Wins Above Replacement and weighted Runs Created Plus. Contreras has helped the Brewers young pitching staff have one of the best starts in the league. There is lots of argument to have Will Smith above Contreras in this postition because Will Smith slightly edges Contreras in WAR by just under 0.005 due to a much better start to the year on the defensive side. However, this spot belongs to Contreras who has had the much better offensive start and all-around year so far.
+William Contreras has had an offensive explosion in the first half of the season. He leads all qualified catchers in on-base percentage and batting average, and he is in the top three in both wins above replacement and weighted runs created plus. Contreras has also helped the Brewers' young pitching staff achieve one of the best starts in the league. While there is an argument to start Will Smith above Contreras, as Smith just beats him in WAR, this spot belongs to Contreras, who has had the much better offensive start and all-around year so far. This being based on all other basic offensive stats. 
+
 
 First Baseman - Bryce Harper
 ---
@@ -280,7 +282,7 @@ Philadelphia Phillies #3
   </div>
 </div>
 
-Bryce Harper is a clear cut all-star stater after the season he has gotten off to. He earned his place as a starter early after phase 1 and it was well deserved as he leads all other qualified first basemen in Batting Average, On Base Percentage, Slugging Percentage, weighted Runs Created Plus and Wins Above Replacement. He has been the best at his postion across the league and has helped lead the Phillies to the top spot in the NL throught the first half of the season. The only even remotely close is Freddie Freeman who ranks 2nd in most of the statistics listed above however, due to Bryce Harper's recent time on the IL, Freeman will likely replace Harper as a starter in the all-star game. 
+Bryce Harper is a clear-cut All-Star starter after the season he has had so far. He earned his place as a starter early in phase 1, and it was well deserved as he leads all other qualified first basemen in batting average, on-base percentage, slugging percentage, weighted runs created plus, and wins above replacement. Harper has been the best at his position across the league and has helped lead the Phillies to the top spot in the NL through the first half of the season. The only player even remotely close is Freddie Freeman, who ranks second in most of the statistics listed above. However, due to Harper's recent time on the IL, Freeman will likely replace him as a starter in the All-Star game.
 
 Second Baseman - Ketel Marte
 ---
@@ -302,7 +304,7 @@ Arizona Diamondbacks #4
   </div>
 </div>
 
-The selection of Ketel Marte was an easy one as he is leading all other second basemen in WAR by more than a full point! the next closest NL second baseman is Brice Turang a full 1.2 WAR behind. Marte is having an extrodrordinary season at second base as he leads all others in Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average and Home Runs! He has helped provide the Diamondbacks with an offensive explosion that no one at second base can compare to this season. 
+The selection of Ketel Marte was an easy one as he is leading all other second basemen in WAR by more than a full point. The next closest NL second baseman is a full 1.2 WAR behind. Marte is having an extraordinary season at second base, leading all others in slugging percentage, weighted runs created plus, wins above replacement, weighted on-base average, and home runs. He has helped provide the Diamondbacks with an offensive explosion that no other second baseman can compare to this season.
 
 Third Baseman - Alec Bohm
 ---
@@ -324,7 +326,7 @@ Philadelphia Phillies #28
   </div>
 </div>
 
-This year, there hasn't been a star third baseman in the NL like there has the AL. The two final nominees in Alec Bohm and Manny Machado are... interesting. Machado ranks near the middle or bottom of all qualified third basemen in our offensive categories. Bohm is the best NL third baseman by quite a wide margin. Bohm is top 5 among all third basemen in Batting Average, On Base Percentage and Slugging Percentage. He ranks 6th in WAR as he has locked down the hot corner for the Phillies to begin the year and has the highest Offensive rating so far among all NL third basemen by quite a wide margin. He is very deserving as there is no one else who should really be in the conversation with him. 
+This year, the NL hasn't seen a standout third baseman like those in the AL. The final nominees, Alec Bohm and Manny Machado, present an interesting comparison. Machado ranks near the middle or bottom among all qualified NL third basemen in our offensive categories. Bohm, however, stands out as the premier NL third baseman by a considerable margin. He ranks in the top 5 among all third basemen in batting average, on-base percentage, and slugging percentage. With a 6th place ranking in WAR, Bohm has solidified the hot corner for the Phillies and boasts the highest offensive rating among NL third basemen by a significant margin. His performance makes him highly deserving, leaving little room for debate regarding his place as the top contender.
 
 Shortstop - Mookie Betts
 ---
@@ -346,7 +348,7 @@ Los Angeles Dodgers #50
   </div>
 </div>
 
-Mookie Betts started the year on an absolute tear, torching the league by hitting home runs every other night. He has since slightly cooled off however is still one of the top shortstops in the league so far. His competition resides in Trea Turner however, Turner is not considered to be a qualified hitter due to his time with injury. So, choosing Mookie Betts makes sense as Mookie has doubled Turner in most categories outside of batting average. Mookie has shown great numbers across the board and leads the NL in On Base Percentage which is exactly what the Dodgers have asked for out of their leadoff man. Mookie should be chosen the starter however, due to his recent hand fracture, Turner will likely end up starting the game. 
+Mookie Betts started the year on a tear, smashing home runs nearly every other night and establishing himself as one of the league's top shortstops. Although he has cooled off slightly since then, his main competition, Trea Turner, is not considered a qualified hitter due to his time on the injured list. Therefore, selecting Mookie Betts as the starter makes sense, especially since Betts outperforms Turner by nearly double in most categories except batting average despite having less than double the games. Betts leads the NL in on-base percentage, precisely meeting the Dodgers' expectations for their leadoff hitter. Despite Betts deserving the starting spot, Turner's likely inclusion due to Betts' recent hand fracture may alter the outcome.
 
 Outfielder #1 - Jurickson Profar
 ---
@@ -368,7 +370,7 @@ San Diego Padres #10
   </div>
 </div>
 
-Profar has a top 10 batting average in the league over .300 this year and has been a machine producing offensively so far. He ranks top 5 in Batting Average, On Base Percentage and weighted Runs Created Plus among all qualified outfielders so far this year. He is driving runs in at a great rate in the 2 spot for the Padres. He has helped league the Padres above .500 so far this year. He is seeing career bests in Batting Average and On Base Percentage while limiting the strikeouts. He has clearly been the best offensive outfielder in the NL so far this year. 
+Jurickson Profar has been a standout this season with a batting average exceeding .300, placing him among the top 10 in the league. He ranks in the top 5 among qualified outfielders in batting average, on-base percentage, and weighted Runs Created Plus. Batting in the second spot for the Padres, he has been instrumental in driving runs and helping lead the team above .500 this season. Profar is enjoying career-best numbers in batting average and on-base percentage while also showing improved plate discipline with reduced strikeouts. Undoubtedly, he has been a top offensive outfielder in the NL this year.
 
 Outfielder #2 - Christian Yelich
 ---
@@ -390,7 +392,7 @@ Milwaukee Brewers #22
   </div>
 </div>
 
-Christian Yelich has exploded this year with the Brewers in ways similar to his MVP year in 2018. He has the second highest batting average in the league at .329 among qualified players with over 250 at-bats. Among qualified outfielders, he ranks top 5 in Batting Average, On Base Percentage, weighted On Base Average and Stolen Bases. With an offensive outburst this year, Yelich has helped power the Brewers to a top 3 offense league-wide throught the first half of the season. 
+Christian Yelich has enjoyed a resurgence reminiscent of his MVP-winning 2018 season with the Brewers. His batting average stands at an impressive .329, the second-highest in the league among qualified players with over 250 at-bats. Among qualified outfielders, Yelich ranks in the top 5 in batting average, on-base percentage, weighted on-base average, and stolen bases. His offensive contributions have been pivotal in propelling the Brewers to a top-three ranking in offense league-wide during the first half of the season.
 
 Outfielder #3 - Fernando Tatis Jr. 
 ---
@@ -412,7 +414,7 @@ San Diego Padres #23
   </div>
 </div>
 
-Fernando Tatis Jr. had an interesting first half to the 2024 season. He started quite cold but added a 17-game hit streak to his resume and hitting 3 home runs across 4 games during that streak. He has been great at hitting all different types of pitches to different parks of the ball park allowing him to succeed. Tatis ranked top 10 among qualified outfielders in Batting Average, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average and Home Runs. He and Profar have helped the Padres offense come alive and have led them to a record above .500. 
+Fernando Tatis Jr. had a compelling first half to the 2024 season. Despite a slow start, he ignited with a notable 17-game hit streak that included hitting three home runs across four games. His ability to handle diverse pitches and spray the ball to all parts of the ballpark has been crucial to his success. Tatis ranks in the top 10 among qualified outfielders in batting average, weighted runs created plus, wins above replacement, weighted on-base average, and home runs. Alongside Profar, he has been instrumental in rejuvenating the Padres' offense and steering them to a winning record above .500.
 
 Designated Hitter - Shohei Ohtani 
 ---
@@ -434,7 +436,7 @@ Los Angeles Dodgers #17
   </div>
 </div>
 
-Without having to worry about pitching or playing the field this year, Shohei Ohtani has been the real deal at the plate. He is leading all qualified designated hitters in every single one of our selected statistics including Stolen Bases! He ranks 5th in WAR in the league this year solely from hitting. He has even taken on the role of batting leadoff recently for the Dodgers with Mookie Betts being placed on the IL. He has even excelled in that spot. He sits at 27 home runs so far this season and is pushing to break 60 home runs after a somewhat slow start. He is going to be pursuing another MVP in the 2nd half of the season. 
+Shohei Ohtani has been a force at the plate this year, unburdened by pitching or fielding duties. Leading all qualified designated hitters, he tops our selected statistics, including stolen bases—a testament to his all-around offensive prowess. He ranks 5th in WAR league-wide, driven solely by his hitting performance. Recently taking on the leadoff role for the Dodgers in Mookie Betts' absence, Ohtani has excelled in that spot as well. With 27 home runs already this season, he aims to surpass 60 after overcoming a slow start. His impressive campaign positions him as a strong contender for another MVP title in the second half of the season.
 
 
 # Source
