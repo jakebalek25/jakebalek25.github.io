@@ -9,8 +9,8 @@ tags:
 ---
 
 
-Voting
-------
+# Voting
+---
 Each year, MLB fans vote across multiple weeks to determine who should be starting in the allstar game. This year, the voting process occurs through 2 phases. The first phase allows fans to vote on every position including designated hitters. The top overall vote reciever in both leagues is granted an automatic starting spot at their postion. The rest of the positions advance to the final phase as fans are allowed to vote on the top 2 players at each position to secure a starting spot in the all star game. The same goes for outfielders however there are 3 spots and 6 players advance to phase 2. 
 
 Along with years past, this format of allowing fans to vote for players has led a popularity contest. Today, I want to highlight who the batting starters should be based on WAR and multiple basic/advanced statistics rather than fan voting. Each position was determined based solely on qualified hitters who meet the minimum PA threshold besides the OF position which was set at 250 AB minimum.
@@ -33,12 +33,11 @@ Next, we will get into who I believe should be the all-star starter for each pos
 
 
 
-American League Players
-------
-American League Startting Lineup: C, 1B, 2B, 3B, SS, OF, OF, OF, DH
-
-Catcher - Adley Rutschman
+# American League Players
 ---
+
+### Catcher - Adley Rutschman
+
 Baltimore Orioles #35
 
 <div style="display: flex; justify-content: center;">
@@ -217,9 +216,7 @@ Steven Kwan season has been a bit of a surprise as to the magnitude of success h
 # National League Players
 ---
 
-### National League Starting Lineup: C, 1B, 2B, 3B, SS, OF, OF, OF, DH
-
-#### Catcher - William Contreras
+### Catcher - William Contreras
 ---
 Milwaukee Brewers  #24
 
