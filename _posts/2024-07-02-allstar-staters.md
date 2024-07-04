@@ -390,6 +390,8 @@ Milwaukee Brewers #22
   </div>
 </div>
 
+
+
 Outfielder #3 - Fernando Tatis Jr. 
 ---
 San Diego Padres #23
@@ -410,6 +412,8 @@ San Diego Padres #23
   </div>
 </div>
 
+Fernando Tatis Jr. had an interesting first half to the 2024 season. He started quite cold but added a 17-game hit streak to his resume and hitting 3 home runs across 4 games during that streak. He has been great at hitting all different types of pitches to different parks of the ball park allowing him to succeed. Tatis ranked top 10 among qualified outfielders in Batting Average, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average and Home Runs. He and Profar have helped the Padres offense come alive and have led them to a record above .500. 
+
 Designated Hitter - Shohei Ohtani 
 ---
 Los Angeles Dodgers #17
@@ -429,6 +433,8 @@ Los Angeles Dodgers #17
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 20 other qualified designated hitters in at-bats.</p>
   </div>
 </div>
+
+Without having to worry about pitching or playing the field this year, Shohei Ohtani has been the real deal at the plate. He is leading all qualified designated hitters in every single one of our selected statistics including Stolen Bases! He ranks 5th in WAR in the league this year solely from hitting. He has even taken on the role of batting leadoff recently for the Dodgers with Mookie Betts being placed on the IL. He has even excelled in that spot. He sits at 27 home runs so far this season and is pushing to break 60 home runs after a somewhat slow start. He is going to be pursuing another MVP in the 2nd half of the season. 
 
 
 # Sources
