@@ -420,7 +420,7 @@ Los Angeles Dodgers #17
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
-    <img src="/images/ohtani_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Shohei Ohtani>
+    <img src="/images/shohei_image.png" style="width: 70%; height: auto; display: block;" alt="Illustration of Shohei Ohtani>
     <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 80%;">
       <li>HT/WT: 6' 4", 210 lbs</li>
       <li>BIRTHDATE: 7/5/1994 (29)</li>
@@ -429,7 +429,7 @@ Los Angeles Dodgers #17
     </ul>
   </div>
   <div style="flex: 1; max-width: 50%; margin-left: 10px;">
-    <img src="/images/ohtani_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Shohei Ohtani Batting Ranks">
+    <img src="/images/shohei_ranks.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Shohei Ohtani Batting Ranks">
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 20 other qualified designated hitters in at-bats.</p>
   </div>
 </div>
