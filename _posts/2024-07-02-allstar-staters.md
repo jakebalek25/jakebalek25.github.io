@@ -11,9 +11,9 @@ tags:
 
 # Voting
 ---
-Each year, MLB fans vote across multiple weeks to determine who should be starting in the allstar game. This year, the voting process occurs through 2 phases. The first phase allows fans to vote on every position including designated hitters. The top overall vote reciever in both leagues is granted an automatic starting spot at their postion. The rest of the positions advance to the final phase as fans are allowed to vote on the top 2 players at each position to secure a starting spot in the all star game. The same goes for outfielders however there are 3 spots and 6 players advance to phase 2. 
+Each year, MLB fans vote over multiple weeks to determine who should start in the All-Star Game. This year, the voting process occurs in two phases. In the first phase, fans vote for every position, including designated hitters. The top overall vote-receiver in both leagues is granted an automatic starting spot at their position. The rest of the positions advance to the final phase, where fans vote on the top two players at each position to secure a starting spot in the All-Star Game. For outfielders, there are three spots, so six players advance to phase two.
 
-Along with years past, this format of allowing fans to vote for players has led a popularity contest. Today, I want to highlight who the batting starters should be based on WAR and multiple basic/advanced statistics rather than fan voting. Each position was determined based solely on qualified hitters who meet the minimum PA threshold besides the OF position which was set at 250 AB minimum.
+As in previous years, this format of allowing fans to vote for players has led to a popularity contest. Today, I want to highlight who the batting starters should be based on WAR and various basic and advanced statistics rather than fan voting. Each position was determined based solely on qualified hitters who meet the minimum PA threshold, except for the OF position, which was set at a 250 AB minimum.
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
@@ -29,13 +29,13 @@ Along with years past, this format of allowing fans to vote for players has led 
 </div>
 Above, the images contain players who have qualified for phase 2 of the voting according to MLB.com.
 
-Next, we will get into who I believe should be the all-star starter for each position between the 2 leagues. I made judgements based simply on raw numbers from fangraphs and statcast. The data was then manipulated to determine the rank for each qualified player at the respected postions. The statistics being studied consist of Batting Average (AVG), Stolen Bases (SB), Home Runs (HR), weighted On Base Average (wOBA), Wins Above Replacement (WAR), weighted Runs Created Plus (wRC+), Slugging Percentage (SLG) and On Base Percentage (OBP).
+Next, we will explore who I believe should be the All-Star starter for each position in both leagues. My judgments are based solely on raw numbers from Fangraphs and Statcast. The data was manipulated to determine the rank for each qualified player at their respective positions. The statistics analyzed include Batting Average (AVG), Stolen Bases (SB), Home Runs (HR), weighted On Base Average (wOBA), Wins Above Replacement (WAR), weighted Runs Created Plus (wRC+), Slugging Percentage (SLG), and On Base Percentage (OBP).
 
 
 
 # American League Players
 ---
-Managed by Bruce Bochy of the Texas Rangers. He managed the American League Pennant winner in 2023.
+Team managed by Bruce Bochy of the Texas Rangers. He managed the American League Pennant winner in 2023.
 
 Catcher - Adley Rutschman
 ---
@@ -57,7 +57,7 @@ Baltimore Orioles #35
   </div>
 </div>
 
-Among the 85 catchers who have recorded an official at-bat in the MLB this year, there are only 10 qualified players at this postion. No one is more qualified to be the starter for the AL team as he leads Wins Above Replacement over all other catchers, edging the next closest AL catcher by 0.9 WAR. Among the qualified catchers, he ranks top 3 in Batting Average, weighted Runs Created Plus, Slugging Percentage and On Base Percentage to name a few. Although Salvador Perez is having a great season, no catcher in the AL is having a good enough season to be put into the same conversation as Rutschman. 
+Among the 85 catchers who have recorded an official at-bat in the MLB this year, only 10 are qualified players at this position. No one is more qualified to be the starting catcher for the AL team than Adley Rutschman. He leads in Wins Above Replacement (WAR) over all other catchers, edging the next closest AL catcher by 0.9 WAR. Among the qualified catchers, he ranks in the top 3 for Batting Average (AVG), weighted Runs Created Plus (wRC+), Slugging Percentage (SLG), and On Base Percentage (OBP), to name a few. Although Salvador Perez is having a great season, no catcher in the AL is performing at the level of Rutschman.
 
 First Baseman - Vladimir Guerrero Jr.
 ---
@@ -79,7 +79,7 @@ Toronto Blue Jays #27
   </div>
 </div>
 
-Despite the Blue Jays offensive struggles, Valdimir Guerrero Jr. has quietly had a great start to the year. He is top 3 among first baseman in Batting Average, On Base Percentage and weighted Runs Created Plus. He has seen a slight drop in power however, he has made up for it by getting on base at a career best rate of 0.377 OBP. He ranks 5th among first basemen in WAR behind only Salvador Perez in the AL by a small margin. However, Guerrero has done a much better job getting on base and helping his team create a much higher number of runs than Perez. 
+Despite the Blue Jays' offensive struggles, Vladimir Guerrero Jr. has quietly had a great start to the year. He is top 3 among first basemen in Batting Average (AVG), On Base Percentage (OBP), and weighted Runs Created Plus (wRC+). Although he has seen a slight drop in power, he has compensated by reaching base at a career-best rate of .377 OBP. Guerrero ranks 5th among first basemen in Wins Above Replacement (WAR), just behind Salvador Perez in the AL by a small margin. However, Guerrero has done a much better job getting on base and helping his team create a significantly higher number of runs than Perez.
 
 Second Baseman - Jose Altuve
 ---
@@ -238,7 +238,7 @@ Yordan Alvarez has been a machine this year offensively. He ranks top 4 among al
 
 # National League Players
 ---
-Managed by Torey Lovullo of the Arizona Diamondbacks. He managed the National League Pennant winner in 2023.
+Team managed by Torey Lovullo of the Arizona Diamondbacks. He managed the National League Pennant winner in 2023.
 ## Catcher - William Contreras
 Milwaukee Brewers  #24
 
