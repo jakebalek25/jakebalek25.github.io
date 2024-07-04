@@ -36,8 +36,7 @@ Next, we will get into who I believe should be the all-star starter for each pos
 # American League Players
 ---
 
-### Catcher - Adley Rutschman
-
+## Catcher - Adley Rutschman
 Baltimore Orioles #35
 
 <div style="display: flex; justify-content: center;">
@@ -58,8 +57,7 @@ Baltimore Orioles #35
 
 Among the 85 catchers who have recorded an official at-bat in the MLB this year, there are only 10 qualified players at this postion. No one is more qualified to be the starter for the AL team as he leads Wins Above Replacement over all other catchers, edging the next closest AL catcher by 0.9 WAR. Among the qualified catchers, he ranks top 3 in Batting Average, weighted Runs Created Plus, Slugging Percentage and On Base Percentage to name a few. Although Salvador Perez is having a great season, no catcher in the AL is having a good enough season to be put into the same conversation as Rutschman. 
 
-First Baseman - Vladimir Guerrero Jr.
----
+## First Baseman - Vladimir Guerrero Jr.
 Toronto Blue Jays #27
 
 <div style="display: flex; justify-content: center;">
@@ -80,8 +78,7 @@ Toronto Blue Jays #27
 
 Despite the Blue Jays offensive struggles, Valdimir Guerrero Jr. has quietly had a great start to the year. He is top 3 among first baseman in Batting Average, On Base Percentage and weighted Runs Created Plus. He has seen a slight drop in power however, he has made up for it by getting on base at a career best rate of 0.377 OBP. He ranks 5th among first basemen in WAR behind only Salvador Perez in the AL by a small margin. However, Guerrero has done a much better job getting on base and helping his team create a much higher number of runs than Perez. 
 
-Second Baseman - Jose Altuve
-------
+## Second Baseman - Jose Altuve
 Houston Astros #27
 
 <div style="display: flex; justify-content: center;">
@@ -102,8 +99,7 @@ Houston Astros #27
 
 The choice of Altuve in this situation was extremely difficult and likely the closest race among all of the other positions. Jordan Westburg slightly outranks Altuve in 4 of our main categories so he should be the starter correct? While he should be an all-star, I believe that Altuve should be the starter due to Altuve being the all around better hitter. Altuve has a much higher batting average and on base percentage than Westburg and has more steals to go with this. Altuve has been the perfect man for the Astros this year while adding some power. He has reached base safely at such a high rate that he has scored the third most runs among second basemen despite the Astros early struggles this season. Altuve shows more discipline at the plate than Westburg by walking more and striking out less than Westburg according to their walk and strikeout rates. Again, this was a tough choice however, I believe Altuve has done a better job in his leadoff role to keep the Astros in the thick of the playoff race. This is no knock to Westburg who has also done his job by driving in guys from the top of the order. 
 
-Third Baseman - José Ramírez
----
+## Third Baseman - José Ramírez
 Cleveland Guardians #11
 
 <div style="display: flex; justify-content: center;">
@@ -216,7 +212,7 @@ Steven Kwan season has been a bit of a surprise as to the magnitude of success h
 
 # National League Players
 ---
-### Catcher - William Contreras
+## Catcher - William Contreras
 Milwaukee Brewers  #24
 
 <div style="display: flex; justify-content: center;">
