@@ -390,7 +390,7 @@ Milwaukee Brewers #22
   </div>
 </div>
 
-
+Christian Yelich has exploded this year with the Brewers in ways similar to his MVP year in 2018. He has the second highest batting average in the league at .329 among qualified players with over 250 at-bats. Among qualified outfielders, he ranks top 5 in Batting Average, On Base Percentage, weighted On Base Average and Stolen Bases. With an offensive outburst this year, Yelich has helped power the Brewers to a top 3 offense league-wide throught the first half of the season. 
 
 Outfielder #3 - Fernando Tatis Jr. 
 ---
