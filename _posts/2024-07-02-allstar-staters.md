@@ -215,7 +215,7 @@ Steven Kwan season has been a bit of a surprise as to the magnitude of success h
 
 Designated Hitter - Yordan Alvarez 
 ---
-Houston Astros #17
+Houston Astros #44
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; max-width: 50%; margin-right: 10px;">
