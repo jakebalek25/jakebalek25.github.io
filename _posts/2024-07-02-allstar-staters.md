@@ -1,5 +1,5 @@
 ---
-title: "Selecting MLB All-Stars Based on First-Half Stats"
+title: "Selecting MLB All-Stars Based on First-Half Statistics"
 date: 2024-07-03
 permalink: /posts/2024/07/allstar-game-starters-2024/
 tags:
