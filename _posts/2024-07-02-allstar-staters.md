@@ -233,6 +233,7 @@ Houston Astros #44
   </div>
 </div>
 
+Yordan Alvarez has been a machine this year offensively. He ranks top 4 among all qualified designated hitters in Batting Average, On Base Percentage, Slugging Percentage, weighted Runs Created Plus, Wins Above Replacement, weighted On Base Average, Home Runs and even Stolen Bases. He has been getting it done throughout every aspect offensively. He is by far the best AL option at DH and was one of my considerations for an OF as well. 
 
 
 # National League Players
@@ -366,6 +367,8 @@ San Diego Padres #10
     <p style="text-align: center; font-size: 80%;">MLB hitting rankings among 66 other qualified outfielders with at least 250 at-bats.</p>
   </div>
 </div>
+
+Profar has a top 10 batting average in the league over .300 this year and has been a machine producing offensively so far. He ranks top 5 in Batting Average, On Base Percentage and weighted Runs Created Plus among all qualified outfielders so far this year. He is driving runs in at a great rate in the 2 spot for the Padres. He has helped league the Padres above .500 so far this year. He is seeing career bests in Batting Average and On Base Percentage while limiting the strikeouts. He has clearly been the best offensive outfielder in the NL so far this year. 
 
 Outfielder #2 - Christian Yelich
 ---
