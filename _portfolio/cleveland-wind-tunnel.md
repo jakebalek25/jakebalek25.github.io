@@ -5,6 +5,8 @@ date: "2024-07-09"
 collection: portfolio
 ---
 
+### Exploring Home Run Rates and Comparing Actual vs. Predicted Hit Distances at Progressive Field in 2024
+
 # Recent Cleveland Rennovations
 ---
 During the 2023-2024 offseason, the Cleveland Guardians decided to make multiple renovations to Progressive Field. The renovations took place in 5 different areas throughout the stadium. The locations included beyond right field, down the left field line and directly behind home plate. In right field, they added the 'Right Field Paul Davis Pennant District' which features a new open-air, group outing area with concession stands. Previously, there had been another deck of seats and a wall blocking off any airflow to the concession stands. 
