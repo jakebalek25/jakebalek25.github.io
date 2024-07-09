@@ -1,6 +1,6 @@
 ---
 title: "Atlanta Braves 2023 Offensive Surge"
-excerpt: "Breakdown of 2023 Atlanta Braves Dominant Offense <br/><img src='/images/braves_offense.jpg'>"
+excerpt: "Breakdown of 2023 Atlanta Braves Dominant Offense <br/><img src='/images/braves_offense.jpg' width='925' height='500'>"
 date: "2024-01-11"
 collection: portfolio
 ---
