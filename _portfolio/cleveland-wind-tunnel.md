@@ -30,6 +30,19 @@ IMAGE 1
   <p style="text-align:center; font-size: smaller;">The chart shows the Home Run Rate for all balls in play (BIP) from 2020-2024 with each BIP correlating to the responding year. The Cleveland rate includes all BIP at Progressive Field, while the MLB rate covers all other parks. Both the Guardians' and opposing teams' BIP are included to.</p>
 </div>
 
+Spanning from the 2020 season to the current 2024 season, Cleveland has had two seasons in which the home run rate at Progressive Field was above the league average. In 2021, the home run rate at Progressive Field was nearly 0.5% higher than the league average. After 2021, the rate dropped significantly below the league average until the current 2024 season. Now, Progressive Field is again seeing home run rates soar above the league average, but at an even larger margin. This season, the home run rate at Progressive Field is nearly 1% higher than the league average—double the margin from 2021. These large, linear changes in home run rates at Progressive Field raise the question: Are the home run rates due to the Guardians' performance each year, or is there truly a 'wind-tunnel' effect in Cleveland post-renovations?
+
+
+# Predicting Home Run Rates
+
+
+
+# Comparing Actual Hit Distance to Predicted Hit Distance
+
+
+
+# Conclusions
+
 
 
 Sources
