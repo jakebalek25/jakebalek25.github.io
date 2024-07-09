@@ -1,6 +1,6 @@
 ---
 title: "Progressive Field 'Wind-Tunnel'"
-excerpt: "Modeling Hit Distance Predictions to Detect 'Wind-Tunnel' <br/><img src='/images/progressive_field.png' width='850' height='600'>"
+excerpt: "Modeling Hit Distance Predictions to Detect 'Wind-Tunnel' <br/><img src='/images/progressive_field.png' width='1000' height='500'>"
 date: "2024-07-09"
 collection: portfolio
 ---
