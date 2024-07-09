@@ -5,9 +5,7 @@ date: "2024-07-09"
 collection: portfolio
 ---
 
-<p style="text-align: center;">
-  <h3>Exploring Home Run Rates and Comparing Actual vs. Predicted Hit Distances at Progressive Field in 2024</h3>
-</p>
+<h3 style="text-align: center;">Exploring Home Run Rates and Comparing Actual vs. Predicted Hit Distances at Progressive Field in 2024</h3>
 
 
 # Recent Cleveland Rennovations
