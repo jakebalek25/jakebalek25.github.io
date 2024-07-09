@@ -8,9 +8,6 @@ tags:
   - All Star Starters
 ---
 
-
-# Voting
----
 Each year, MLB fans vote over multiple weeks to determine who should start in the All-Star Game. This year, the voting process occurs in two phases. In the first phase, fans vote for every position, including designated hitters. The top overall vote-receiver in both leagues is granted an automatic starting spot at their position. The rest of the positions advance to the final phase, where fans vote on the top two players at each position to secure a starting spot in the All-Star Game. For outfielders, there are three spots, so six players advance to phase two.
 
 As in previous years, this format of allowing fans to vote for players has led to a popularity contest. Today, I want to highlight who the batting starters should be based on WAR and various basic and advanced statistics rather than fan voting. Each position was determined based solely on qualified hitters who meet the minimum PA threshold, except for the OF position, which was set at a 250 AB minimum.
