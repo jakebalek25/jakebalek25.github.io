@@ -1,6 +1,6 @@
 ---
 title: "Reds 2024 Hack-a-thon"
-excerpt: "Grouping Bullpen Pitcher Archetypes <br/><img src='/images/reliefPitchers.jpg'>"
+excerpt: "Grouping Bullpen Pitcher Archetypes <br/><img src='/images/reliefPitchers.jpg' width='925' height='500'>"
 date: "2024-04-22"
 collection: portfolio
 ---
