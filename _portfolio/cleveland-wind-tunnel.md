@@ -1,7 +1,7 @@
 ---
 title: "Progressive Field 'Wind-Tunnel'"
-excerpt: "Modeling Distance Predictions to Detect 'Wind-Tunnel' <br/><img src='/images/progressive_field.png'>"
-date: "2024-07-01"
+excerpt: "Modeling Hit Distance Predictions to Detect 'Wind-Tunnel' <br/><img src='/images/progressive_field.png'>"
+date: "2024-07-09"
 collection: portfolio
 ---
 
@@ -14,18 +14,21 @@ To begin the first half of the 2024 season, the new panoramic angles in right fi
 
 # Determining Whether or Not a 'Wind-Tunnel' Exists
 ---
-Speculation about a 'wind-tunnel' in Cleveland has led to people connecting the increase of offensive production and home runs for the 2024 season.  
+An increase in offensive production and home run numbers at Progressive Field during the 2024 season has sparked speculation about the presence of a ‘wind-tunnel’ effect. To determine whether this phenomenon is occurring or if the changes are simply due to the Guardians' performance, I decided to research further.
 
-To determine whether or not a 'wind-tunnel' has helped the flight of the baseball in Cleveland, we must compare the actual distance of each traveled baseball to the predicted distance of the same hit baseball.
+After reading multiple articles on predicting the distance of a batted baseball by Alan Nathan, Jim Albert, Joe Noga, and another by Cameron Grove, I attempted to replicate some of their ideas and draw my own conclusions.
 
-After reading multiple articles related to predicting the distance of a batted baseball by Alan Nathan, Jim Albert, Joe Noga and another by Cameron Grove, I decided to try and replicate some of their ideas. I decided that 
+Before we dive in, it must be noted that the “actual home run rate” used in each model was slightly higher than it should have been due to a small number of missing values for launch speed and launch angles within our data. This discrepancy caused a slight difference from the actual home run rate in real time.
 
-I used similar play by play data from the 2024 season that I scraped using baseballr. With the data I filtered out only instances in which the ball was hit to the right side of the field, was considered to be a fly ball and traveled more than 120 feet. This ensured that the data relating to Progressive Field and all other ballparks could display the effects of strictly right field's 'Wind-Tunnel'. First, I trained a GAM predictive model on all of the play by play data on fly balls to right field throughout the 29 other ballparks in the MLB during the 2024 season after filtering out all data from within Progressive Field. The model's independent variables consisted of Launch Angle and Launch Speed. These variables were most commonly used among other researchers studies so I wanted to recreate a similar model. 
-Next, I used the model's findings to predict hit distances within Progressive Field on fly balls to right field. After finding my predictions, I compared them to the actual results. Theoretically, a 'Wind-Tunnel' would mean that the actual distances were further than the predicted distances because the predictions were based on other stadiums having no wind tunnels to right. 
+# Comparing Actual Home Run Rates
+---
+Similar to the research conducted by Alan Nathan and Jim Albert, this analysis begins by comparing home run rates across multiple years at Progressive Field. To start, let's examine how the home run rate at Progressive Field has compared to the rest of MLB over the past few years.
 
-Graph showing Predicted Distances
-
-Within our findings, we saw that Progressive Field did indeed see
+IMAGE 1 
+<div style="text-align:center;">
+  <img src="/images/IMAGE1" alt="Home Run Rate Comparison: Cleveland vs. MLB">
+  <p style="text-align:center; font-size: smaller;">The chart shows the Home Run Rate for all balls in play (BIP) from 2020-2024 with each BIP correlating to the responding year. The Cleveland rate includes all BIP at Progressive Field, while the MLB rate covers all other parks. Both the Guardians' and opposing teams' BIP are included to.</p>
+</div>
 
 
 
