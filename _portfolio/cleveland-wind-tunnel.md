@@ -7,6 +7,7 @@ collection: portfolio
 
 <h3 style="text-align: center;">Exploring Home Run Rates and Comparing Actual vs. Predicted Hit Distances at Progressive Field in 2024</h3>
 
+<br/> <!-- Extra line of space -->
 
 # Recent Cleveland Rennovations
 ---
