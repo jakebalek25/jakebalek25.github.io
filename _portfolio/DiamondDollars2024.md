@@ -1,6 +1,6 @@
 ---
 title: "2024 SABR Diamond Dollars Case Competition"
-excerpt: "Determining the Value of a Foul Ball <br/><img src='/images/foulBall.jpg'>"
+excerpt: "Determining the Value of a Foul Ball <br/><img src='/images/foulBall.jpg' width='925' height='500'>"
 date: "2024-04-23"
 collection: portfolio
 ---
