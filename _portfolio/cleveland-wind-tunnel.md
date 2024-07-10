@@ -29,7 +29,7 @@ Before we dive in, it must be noted that the “actual home run rate” used in 
 Similar to the research conducted by Alan Nathan and Jim Albert, this analysis begins by comparing home run rates across multiple years at Progressive Field. To start, let's examine how the home run rate at Progressive Field has compared to the rest of MLB over the past few years.
 
 <div style="text-align:center;">
-  <img src="/images/hrr_comp_cleveland_mlb.png" alt="Home Run Rate Comparison: Cleveland vs. MLB" width="800">
+  <img src="/images/hrr_comp_cleveland_mlb.png" alt="Home Run Rate Comparison: Cleveland vs. MLB" width="950">
   <p style="text-align:center; font-size: smaller;">The chart shows the Home Run Rate for all balls in play (BIP) from 2020-2024 with each BIP correlating to the responding year. The Cleveland rate includes all BIP at Progressive Field, while the MLB rate covers all other parks. Both the Guardians' and opposing teams' BIP are included.</p>
 </div>
 
@@ -43,7 +43,7 @@ The Cleveland Guardians have seen 182 home runs at Progressive Field both on off
 The Cleveland Guardians have seen 182 home runs at Progressive Field both on offense and defense combined through the first 81 games. This translates to a home run rate of just over 5% on balls in play, significantly higher than the rest of the league with an average of 3.7% (excluding Cleveland). This unusually high home run rate is notable, especially since Cleveland was below the league average in the previous two seasons.
 
 <div style="text-align:center;">
-  <img src="/images/comp_real_hrr_CLE.png" alt="Home Run Rate Comparison: Actual vs. Predicted" width="800">
+  <img src="/images/comp_real_hrr_CLE.png" alt="Home Run Rate Comparison: Actual vs. Predicted" width="950">
   <p style="text-align:center; font-size: smaller;">The line chart displays the predicted home run rate compared to the actual home run rate at Progressive Field during each year from 2020 to 2024.</p>
 </div>
 
@@ -57,14 +57,14 @@ Play-by-play data from the 2024 season was scraped from Fangraphs using the base
 A Generalized Additive Predictive Model (GAM) was trained using filtered play-by-play data from all 29 other ballparks in MLB, excluding Progressive Field. The model's independent variables were Launch Angle and Launch Speed, commonly used in similar studies. The goal was to predict hit distances at Progressive Field for fly balls to right field based on the model's findings. Predicted distances were then compared to actual results. Hypothetically, Progressive Field should exhibit higher actual distances on fly balls to right field compared to predicted distances due to the 'wind-tunnel' effect.
 
 <div style="text-align:center;">
-  <img src="/images/pred_hit_dist.png" alt="Predicted Hit Distances at Progressive Field">
+  <img src="/images/pred_hit_dist.png" alt="Predicted Hit Distances at Progressive Field" width="950">
   <p style="text-align:center; font-size: smaller;">The chart displays a heatmap for projected hit distances at Progressive Field during the 2024 season according to the GAM.</p>
 </div>
 
 The Predicted Hit Distance chart illustrates how an increase in Launch Speed correlates with increased hit distance. Additionally, it shows that a Launch Angle between approximately 20 and 35 degrees is optimal for maximizing hit distance. Based on other MLB stadiums, the model predicts that hit distance increases when Launch Angle and Launch Speed increase at highly collinear rates. How does this prediction compare to the actual distances of batted balls across different Launch Speed and Launch Angle intersections?
 
 <div style="text-align:center;">
-  <img src="/images/actual_hit_dist.png" alt="Actual Hit Distances at Progressive Field">
+  <img src="/images/actual_hit_dist.png" alt="Actual Hit Distances at Progressive Field" width="950">
   <p style="text-align:center; font-size: smaller;">The chart displays a heatmap for actual hit distances at Progressive Field during the 2024 season.</p>
 </div>
 
@@ -76,7 +76,7 @@ Continuing with the GAM predictions, the model indicated that actual hit distanc
 
 IMAGE 5
 <div style="text-align:center;">
-  <img src="/images/IMAGE5" alt="Comparing Predicted Hit Distances to Actual Hit Distances in CLE">
+  <img src="/images/IMAGE5" alt="Comparing Predicted Hit Distances to Actual Hit Distances in CLE" width="950">
   <p style="text-align:center; font-size: smaller;">The chart displays a scatterplot comparing the actual hit distance and predicted hit distance of each fly ball meeting the filtered crtieria within the model.</p>
 </div>
 
@@ -84,7 +84,7 @@ During the 2023 season at Progressive Field, out of every fly ball in play, 10% 
 
 IMAGE 6
 <div style="text-align:center;">
-  <img src="/images/IMAGE6" alt="Comparing the Carry on a Fly Ball to Right Field">
+  <img src="/images/IMAGE6" alt="Comparing the Carry on a Fly Ball to Right Field" width="950">
   <p style="text-align:center; font-size: smaller;">The chart displays a scatterplot comparing the carry of a fly ball to the right side of the field with a distance of at least 150 feet. This means that the ball would likely interact with the 'wind-tunnel'.</p>
 </div>
 
