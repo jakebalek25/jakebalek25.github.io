@@ -29,7 +29,7 @@ Before we dive in, it must be noted that the “actual home run rate” used in 
 Similar to the research conducted by Alan Nathan and Jim Albert, this analysis begins by comparing home run rates across multiple years at Progressive Field. To start, let's examine how the home run rate at Progressive Field has compared to the rest of MLB over the past few years.
 
 <div style="text-align:center;">
-  <img src="/images/hrr_comp_cleveland_mlb.png" alt="Home Run Rate Comparison: Cleveland vs. MLB">
+  <img src="/images/hrr_comp_cleveland_mlb.png" alt="Home Run Rate Comparison: Cleveland vs. MLB" width="800">
   <p style="text-align:center; font-size: smaller;">The chart shows the Home Run Rate for all balls in play (BIP) from 2020-2024 with each BIP correlating to the responding year. The Cleveland rate includes all BIP at Progressive Field, while the MLB rate covers all other parks. Both the Guardians' and opposing teams' BIP are included.</p>
 </div>
 
@@ -43,7 +43,7 @@ The Cleveland Guardians have seen 182 home runs at Progressive Field both on off
 The Cleveland Guardians have seen 182 home runs at Progressive Field both on offense and defense combined through the first 81 games. This translates to a home run rate of just over 5% on balls in play, significantly higher than the rest of the league with an average of 3.7% (excluding Cleveland). This unusually high home run rate is notable, especially since Cleveland was below the league average in the previous two seasons.
 
 <div style="text-align:center;">
-  <img src="/images/comp_real_hrr_CLE.png" alt="Home Run Rate Comparison: Actual vs. Predicted">
+  <img src="/images/comp_real_hrr_CLE.png" alt="Home Run Rate Comparison: Actual vs. Predicted" width="800">
   <p style="text-align:center; font-size: smaller;">The line chart displays the predicted home run rate compared to the actual home run rate at Progressive Field during each year from 2020 to 2024.</p>
 </div>
 
