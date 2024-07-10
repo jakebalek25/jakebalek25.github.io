@@ -18,7 +18,7 @@ To begin the first half of the 2024 season, the new panoramic angles in right fi
 
 # Determining Whether or Not a 'Wind-Tunnel' Exists
 ---
-An increase in offensive production and home run numbers at Progressive Field during the 2024 season has sparked speculation about the presence of a ‘wind-tunnel’ effect. To determine whether this phenomenon is occurring or if the changes are simply due to the Guardians' performance, I decided to research further.
+An increase in offensive production and home run numbers at Progressive Field during the 2024 season has sparked speculation about the presence of a ‘wind-tunnel’ effect. To determine whether this phenomenon is occurring or if the changes are simply due to the Guardians' performance, I decided to conduct further research.
 
 After reading multiple articles on predicting the distance of a batted baseball by Alan Nathan, Jim Albert, Joe Noga, and another by Cameron Grove, I attempted to replicate some of their ideas and draw my own conclusions.
 
