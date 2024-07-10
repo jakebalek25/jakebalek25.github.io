@@ -93,7 +93,13 @@ Over the past five years, fly balls to right field in Cleveland have resulted in
 ---
 Overall, an external factor appears to be causing balls to carry much further in Cleveland, primarily right field, compared to previous years. Our GAM analysis indicates this, but we cannot attribute it definitively to a ‘wind-tunnel’. There is a possibility of unusual spin rates at Progressive Field this year contributing to increased carry. This variability could also be related to changes in the baseball, such as the 'deadened ball year' in 2021 or the 'juiced baseballs year' in 2019. Additionally, wind patterns may be accelerating and carrying the ball further to right field due to the open space beyond the wall. Until we have more concrete data, all possibilities remain on the table, and this trend continues to warrant further investigation.
 
+<br/> <!-- Extra line of space -->
+<br/> <!-- Extra line of space -->
 
 Sources
 ------
-Cover image : https://guardians.fanportal-mlb.com/renovations/
+Albert, J., & Nathan, A. M. (2024, June 21). Balls are traveling farther in 2024 in Progressive Field. Baseball Prospectus. https://www.baseballprospectus.com/news/article/91708/balls-are-traveling-farther-in-2024-in-progressive-field/#comment-234269 
+
+Grove, C. (2022, January 3). Predicting hit distances & investigating changes to the ball in 2021. Predicting Hit Distances & Investigating Changes to the Ball in 2021. https://baseballaheadinthecount.blogspot.com/2022/01/predicting-hit-distances-investigating.html 
+
+Progressive Field Renovations. Progressive Field reimagined. (n.d.). https://guardians.fanportal-mlb.com/renovations/pennant-district-groups-space 
