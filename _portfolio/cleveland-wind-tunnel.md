@@ -72,7 +72,26 @@ IMAGE 4
   <p style="text-align:center; font-size: smaller;">The chart displays a heatmap for actual hit distances at Progressive Field during the 2024 season.</p>
 </div>
 
-This chart displays some of the larger hit distances skewed to the left or with smaller Launch Speeds. This suggests that there may be another factor outside of Launch Speed and Launch Angle influencing hit distance within Progressive Field. 
+There are only minor discrepancies between this chart and the predicted hit distance chart. However, each differing point on the heatmap is crucial for determining any outside factors that could be affecting the carry of a baseball. This chart displays some of the larger hit distances skewed slightly to the left or with smaller Launch Speeds. This suggests that there may be another factor, outside of Launch Speed and Launch Angle, influencing hit distance within Progressive Field.
+
+
+# Evaluating the Carry of the Fly Ball in 2024
+Continuing with the GAM predictions, the model indicated that actual hit distances were higher than predicted distances at a rate of slightly over 58%. This means that 8% more often than not, baseballs are traveling further than expected to right field. For a left-handed batter with more pull-side power to right field, this creates a favorable condition, increasing their opportunity for home runs.
+
+IMAGE 5
+<div style="text-align:center;">
+  <img src="/images/IMAGE5" alt="Comparing Predicted Hit Distances to Actual Hit Distances in CLE">
+  <p style="text-align:center; font-size: smaller;">The chart displays a scatterplot comparing the actual hit distance and predicted hit distance of each fly ball meeting the filtered crtieria within the model.</p>
+</div>
+
+During the 2023 season at Progressive Field, out of every fly ball in play, 10% resulted in home runs. During the 2024 season, Progressive Field has seen a 7% increase in home runs on every fly ball in play. With more suggested carry to right field from the alleged 'wind-tunnel', Progressive Field should be showing higher home run percentages on fly balls to right field as a result. Let's take a look at how the carry of the ball on fly balls to right field has changed over the past 5 seasons.
+
+IMAGE 6
+<div style="text-align:center;">
+  <img src="/images/IMAGE6" alt="Comparing the Carry on a Fly Ball to Right Field">
+  <p style="text-align:center; font-size: smaller;">The chart displays a scatterplot comparing the carry of a fly ball to the right side of the field with a distance of at least 150 feet.</p>
+</div>
+
 
 
 
