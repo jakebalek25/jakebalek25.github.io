@@ -56,17 +56,15 @@ Play-by-play data from the 2024 season was scraped from Fangraphs using the base
 
 A Generalized Additive Predictive Model (GAM) was trained using filtered play-by-play data from all 29 other ballparks in MLB, excluding Progressive Field. The model's independent variables were Launch Angle and Launch Speed, commonly used in similar studies. The goal was to predict hit distances at Progressive Field for fly balls to right field based on the model's findings. Predicted distances were then compared to actual results. Hypothetically, Progressive Field should exhibit higher actual distances on fly balls to right field compared to predicted distances due to the 'wind-tunnel' effect.
 
-IMAGE 3
 <div style="text-align:center;">
-  <img src="/images/IMAGE3" alt="Predicted Hit Distances at Progressive Field">
+  <img src="/images/pred_hit_dist.png" alt="Predicted Hit Distances at Progressive Field">
   <p style="text-align:center; font-size: smaller;">The chart displays a heatmap for projected hit distances at Progressive Field during the 2024 season according to the GAM.</p>
 </div>
 
 The Predicted Hit Distance chart illustrates how an increase in Launch Speed correlates with increased hit distance. Additionally, it shows that a Launch Angle between approximately 20 and 35 degrees is optimal for maximizing hit distance. Based on other MLB stadiums, the model predicts that hit distance increases when Launch Angle and Launch Speed increase at highly collinear rates. How does this prediction compare to the actual distances of batted balls across different Launch Speed and Launch Angle intersections?
 
-IMAGE 4
 <div style="text-align:center;">
-  <img src="/images/IMAGE4" alt="Actual Hit Distances at Progressive Field">
+  <img src="/images/actual_hit_dist.png" alt="Actual Hit Distances at Progressive Field">
   <p style="text-align:center; font-size: smaller;">The chart displays a heatmap for actual hit distances at Progressive Field during the 2024 season.</p>
 </div>
 
