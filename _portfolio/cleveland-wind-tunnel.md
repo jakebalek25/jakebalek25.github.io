@@ -40,8 +40,6 @@ Spanning from the 2020 season to the current 2024 season, Cleveland has had two 
 ---
 The Cleveland Guardians have seen 182 home runs at Progressive Field both on offense and defense combined through the first 81 games. This translates to a home run rate of just over 5% on balls in play, significantly higher than the rest of the league with an average of 3.7% (excluding Cleveland). This unusually high home run rate is notable, especially since Cleveland was below the league average in the previous two seasons.
 
-The Cleveland Guardians have seen 182 home runs at Progressive Field both on offense and defense combined through the first 81 games. This translates to a home run rate of just over 5% on balls in play, significantly higher than the rest of the league with an average of 3.7% (excluding Cleveland). This unusually high home run rate is notable, especially since Cleveland was below the league average in the previous two seasons.
-
 <div style="text-align:center;">
   <img src="/images/comp_real_hrr_CLE.png" alt="Home Run Rate Comparison: Actual vs. Predicted" width="950">
   <p style="text-align:center; font-size: smaller;">The line chart displays the predicted home run rate compared to the actual home run rate at Progressive Field during each year from 2020 to 2024.</p>
@@ -54,7 +52,7 @@ The GLM proves to be accurate, with most years closely matching the actual home 
 ---
 Play-by-play data from the 2024 season was scraped from Fangraphs using the baseballr package in R Studio. We filtered the data to include only fly balls hit to the right side of the field that traveled more than 150 feet, ensuring each ball would have enough height to be affected by any wind gusts. This approach allowed us to accurately assess the effects of the right field 'wind-tunnel' at Progressive Field and other ballparks.
 
-A Generalized Additive Predictive Model (GAM) was trained using filtered play-by-play data from all 29 other ballparks in MLB, excluding Progressive Field. The model's independent variables were Launch Angle and Launch Speed, commonly used in similar studies. The goal was to predict hit distances at Progressive Field for fly balls to right field based on the model's findings. Predicted distances were then compared to actual results. Hypothetically, Progressive Field should exhibit higher actual distances on fly balls to right field compared to predicted distances due to the 'wind-tunnel' effect.
+A Generalized Additive Predictive Model (GAM) was trained using the filtered data from all 29 other ballparks in MLB, excluding Progressive Field. The model's independent variables were Launch Angle and Launch Speed, commonly used in similar studies. The goal was to predict hit distances at Progressive Field for fly balls to right field based on the model's findings. Predicted distances were then compared to actual results. Hypothetically, Progressive Field should exhibit higher actual distances on fly balls to right field compared to predicted distances due to the 'wind-tunnel' effect.
 
 <div style="text-align:center;">
   <img src="/images/pred_hit_dist.png" alt="Predicted Hit Distances at Progressive Field" width="950">
@@ -72,7 +70,7 @@ There are only minor discrepancies between this chart and the predicted hit dist
 
 
 # Evaluating the Carry of the Fly Ball in 2024
-Continuing with the GAM predictions, the model indicated that actual hit distances were higher than predicted distances at a rate of slightly over 58%. This means that 8% more often than not, baseballs are traveling further than expected to right field. For a left-handed batter with more pull-side power to right field, this creates a favorable condition, increasing their opportunity for home runs.
+Continuing with the GAM predictions, the model indicated that actual hit distances were higher than predicted distances at a rate of 58% while lower at a rate of 42%. This means that 8% of the time, baseballs are traveling further than expected to right field. For a left-handed batter with more pull-side power to right field, this creates a favorable condition, increasing their opportunity for home runs.
 
 <div style="text-align:center;">
   <img src="/images/scatter_comp.png" alt="Comparing Predicted Hit Distances to Actual Hit Distances in CLE" width="950">
@@ -86,12 +84,12 @@ During the 2023 season at Progressive Field, out of every fly ball in play, 10% 
   <p style="text-align:center; font-size: smaller;">The chart displays a scatterplot comparing the carry of a fly ball to the right side of the field with a distance of at least 150 feet. This means that the ball would likely interact with the 'wind-tunnel'.</p>
 </div>
 
-Over the past five years, fly balls to right field in Cleveland have resulted in home run rates between 16% and 23%. However, during the 2024 season, this rate has surged to 30%. With data from 81 games, it is evident that balls are carrying further in this part of the ballpark, turning hits near the outfield wall into home runs. This phenomenon has provided Cleveland with more home run opportunities due to an unnatural factor. Additionally, the team's improved performance, featuring more power in their offensive lineup, has contributed to the increased home run rate.
+Over the past five years, fly balls to right field in Cleveland have resulted in home run rates between 16% and 23%. However, during the 2024 season, this rate has surged to 30%. With data from 81 games, it is evident that balls are carrying further in this part of the ballpark, turning hits near the outfield wall into home runs. This phenomenon has provided Cleveland with more home run opportunities due to an unnatural factor. Additionally, the team's improved power in their offensive lineup, has contributed to the increased home run rate.
 
 
 # Conclusion
 ---
-Overall, an external factor appears to be causing balls to carry much further in Cleveland, primarily right field, compared to previous years. Our GAM analysis indicates this, but we cannot attribute it definitively to a ‘wind-tunnel’. There is a possibility of unusual spin rates at Progressive Field this year contributing to increased carry. This variability could also be related to changes in the baseball, such as the 'deadened ball year' in 2021 or the 'juiced baseballs year' in 2019. Additionally, wind patterns may be accelerating and carrying the ball further to right field due to the open space beyond the wall. Until we have more concrete data, all possibilities remain on the table, and this trend continues to warrant further investigation.
+Overall, an external factor appears to be causing balls to carry much further in Cleveland, primarily right field, compared to previous years. Our GAM analysis indicates this, but we cannot attribute it definitively to a ‘wind-tunnel’. There is a possibility of unusual spin rates at Progressive Field this year contributing to increased carry. This variability could also be related to changes in the baseball, such as the 'deadened ball year' in 2021 or the 'juiced baseballs year' in 2019. Additionally, wind patterns may be accelerating and carrying the ball further to right field due to the open space beyond the wall. Until we have more concrete and publicly data, all possibilities remain on the table, and this trend continues to warrant further investigation.
 
 <br/> <!-- Extra line of space -->
 <br/> <!-- Extra line of space -->
