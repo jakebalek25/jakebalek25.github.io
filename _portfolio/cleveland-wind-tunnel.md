@@ -29,7 +29,7 @@ Before we dive in, it must be noted that the “actual home run rate” used in 
 Similar to the research conducted by Alan Nathan and Jim Albert, this analysis begins by comparing home run rates across multiple years at Progressive Field. To start, let's examine how the home run rate at Progressive Field has compared to the rest of MLB over the past few years.
 
 <div style="text-align:center;">
-  <img src="/images/hrr_comp_cleveland_mlb.png" alt="Home Run Rate Comparison: Cleveland vs. MLB" style="width: 1100px;">
+  <img src="/images/hrr_comp_cleveland_mlb.png" alt="Home Run Rate Comparison: Cleveland vs. MLB" width="950"">
   <p style="text-align:center; font-size: smaller;">The chart shows the Home Run Rate for all balls in play (BIP) from 2020-2024 with each BIP correlating to the responding year. The Cleveland rate includes all BIP at Progressive Field, while the MLB rate covers all other parks. Both the Guardians' and opposing teams' BIP are included.</p>
 </div>
 
