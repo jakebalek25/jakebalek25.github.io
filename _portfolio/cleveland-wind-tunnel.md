@@ -89,15 +89,15 @@ During the 2023 season at Progressive Field, out of every fly ball in play, 10% 
 IMAGE 6
 <div style="text-align:center;">
   <img src="/images/IMAGE6" alt="Comparing the Carry on a Fly Ball to Right Field">
-  <p style="text-align:center; font-size: smaller;">The chart displays a scatterplot comparing the carry of a fly ball to the right side of the field with a distance of at least 150 feet.</p>
+  <p style="text-align:center; font-size: smaller;">The chart displays a scatterplot comparing the carry of a fly ball to the right side of the field with a distance of at least 150 feet. This means that the ball would likely interact with the 'wind-tunnel'.</p>
 </div>
 
-
+Over the past five years, fly balls to right field in Cleveland have resulted in home run rates between 16% and 23%. However, during the 2024 season, this rate has surged to 30%. With data from 81 games, it is evident that balls are carrying further in this part of the ballpark, turning hits near the outfield wall into home runs. This phenomenon has provided Cleveland with more home run opportunities due to an unnatural factor. Additionally, the team's improved performance, featuring more power in their offensive lineup, has contributed to the increased home run rate.
 
 
 # Conclusion
 ---
-Overall, an external factor is causing balls to carry much further in Cleveland compared to previous years. Our GAM analysis indicates this, but we cannot attribute it definitively to a ‘wind-tunnel’. There is a possibility of unusual spin rates at Progressive Field this year contributing to increased carry. This variability could also be related to changes in the baseball, such as the 'deadened ball year' in 2021 or the 'juiced baseballs year' in 2019. Additionally, wind patterns may be accelerating and carrying the ball further to right field due to the open space beyond the wall. Until we have more concrete data, all possibilities remain on the table, and this trend continues to warrant further investigation.
+Overall, an external factor appears to be causing balls to carry much further in Cleveland, primarily right field, compared to previous years. Our GAM analysis indicates this, but we cannot attribute it definitively to a ‘wind-tunnel’. There is a possibility of unusual spin rates at Progressive Field this year contributing to increased carry. This variability could also be related to changes in the baseball, such as the 'deadened ball year' in 2021 or the 'juiced baseballs year' in 2019. Additionally, wind patterns may be accelerating and carrying the ball further to right field due to the open space beyond the wall. Until we have more concrete data, all possibilities remain on the table, and this trend continues to warrant further investigation.
 
 
 Sources
