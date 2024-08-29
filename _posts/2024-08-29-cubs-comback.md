@@ -71,7 +71,7 @@ This high number of stolen bases shows the confidence the Cubs are playing with 
 If you’re wondering who’s carrying the Cubs right now, look no further than the outfield. Seiya Suzuki, Pete Crow-Armstrong, and Ian Happ are all batting over .400, and they’ve combining for 6 home runs, 25 runs scored, and 22 RBIs in just 7 games! That’s the kind of production that wins games. Not to be outdone, the catchers, Miguel Amaya and Christian Bethancourt, are batting a combined average of .548 and have driven in 25 runs. These guys are all on fire!
 
 <div style="text-align:center;">
-  <img src="/images/cubs_batters_average.png" style="width:85%;" alt="Chicago Cubs display of batting averages">
+  <img src="/images/cubs_batters_average.png" style="width:100%;" alt="Chicago Cubs display of batting averages">
   <p style="text-align:center; font-size:80%;">Illustration courtesy of R Studio displays the batting averages for each Cubs batter with more than 5 at-bats over the past 7 games.</p>
 </div>
 
