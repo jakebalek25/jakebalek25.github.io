@@ -38,7 +38,7 @@ Take a look at this chart showing the Cubs' runs per game average throughout the
 Of course the runs are winning the Cubs games. However, what’s really impressive is that the Cubs aren’t just scoring runs—they’re doing everything right on offense. From hitting for power to effective base running, this team is firing on all cylinders. Over the past week, they’ve ranked first in just about every major offensive category you can think of—Runs Scored, Stolen Bases, Walk Rate, Batting Average, On-Base Percentage, Slugging Percentage, Weighted Runs Created Plus (wRC+), and Wins Above Replacement (WAR) among many other advanced and standard statistics. And get this—they’ve even lowered their strikeout rate by nearly 7%. 
 
 <div style="text-align:center;">
-  <img src="/images/k_pct_pre_game_cubs.png" style="width:75%;" alt="Chicago Cubs strikeout rate per game throughout the season">
+  <img src="/images/k_pct_per_game_cubs.png" style="width:75%;" alt="Chicago Cubs strikeout rate per game throughout the season">
   <p style="text-align:center; font-size:80%;">Illustration courtesy of R Studio displays the Cubs strikeout rate is down from the rest of the season by nearly 7% over the past week from the rest of the 2024 season.</p>
 </div>
 
