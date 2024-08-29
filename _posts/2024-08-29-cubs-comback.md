@@ -13,8 +13,8 @@ tags:
 Not enough people are talking about how hot the Chicago Cubs are right now. The Chicago Cubs are absolutely on fire right now! Over the past week, they’ve been hitting the ball like it’s nobody’s business, and it’s showing in the stats. With a team batting average of .333, they’re averaging more than 10 runs per game. That’s right—10 runs per game! The closest team in terms of runs during this stretch is the Detroit Tigers, but they’re trailing the Cubs by a whopping 29 runs. The Cubs have racked up an incredible 73 runs in just 7 games. 
 
 <div style="text-align:center;">
-  <img src="/images/espn_schedule.png" style="width:83%;" alt="Chicago Cubs last 7 games outcomes.">
-  <p style="text-align:center; font-size:85%;">Illustration courtesy of ESPN.</p>
+  <img src="/images/espn_schedule.png" style="width:75%;" alt="Chicago Cubs last 7 games outcomes.">
+  <p style="text-align:center; font-size:80%;">Illustration courtesy of ESPN.</p>
 </div>
 
 
