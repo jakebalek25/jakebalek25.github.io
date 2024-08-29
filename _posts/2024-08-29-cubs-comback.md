@@ -82,5 +82,9 @@ So, what’s next for the Cubs? The final stretch of the season is looking prett
 
 # Source
 ------
-https://www.tankathon.com/mlb/remaining_schedule_strength 
-all stats pulled from fangraphs and espn
+ESPN Internet Ventures. (2024, August 29). Chicago cubs 2024 2nd half MLB schedule. ESPN. https://www.espn.com/mlb/team/schedule/_/name/chc 
+
+Major League leaders. FanGraphs Baseball. (2024, August 29). 
+
+https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2024&month=0&season1=2024&ind=0&team=0%2Cts&rost=&age=&filter=&players=0 
+MLB remaining Schedule Strength. Tankathon. (2024, August 29). https://www.tankathon.com/mlb/remaining_schedule_strength 
