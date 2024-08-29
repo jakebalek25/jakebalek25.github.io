@@ -31,7 +31,7 @@ So, what’s driving this hot streak? Recently, the Cubs are absolutely crushing
 Take a look at this chart showing the Cubs' runs per game average throughout the season. You’ll see exactly how much they’ve turned things around:
 
 <div style="text-align:center;">
-  <img src="/images/runs_per_game_cubs.png" style="width:75%;" alt="Chicago Cubs runs per game throughout the season">
+  <img src="/images/runs_per_game_cubs.png" style="width:85%;" alt="Chicago Cubs runs per game throughout the season">
   <p style="text-align:center; font-size:80%;">Illustration courtesy of R Studio depicts the average runs scored per game throughout various stretches during the 2024 season.</p>
 </div>
 
