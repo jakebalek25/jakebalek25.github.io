@@ -155,8 +155,25 @@ The F1 score of 58.5% reflects a mild balance between precision and recall. Mean
 Interestingly, the models generally performed better for predicting pitch attributes when the hitter is right-handed. This could be because the shortstop aligns on the same side of the field as the batter in this instance, providing a more straightforward angle for detecting and interpreting the shortstop's pre-pitch movements. This alignment likely facilitates better visibility and a more direct correlation between the shortstop's movements and the pitch attributes, enhancing the model's predictive power.
 
 
+## 5. Shiny App 
+The Shiny App's user interface allows interaction with player tracking data, as shown in Figures 2.2 and 2.3. Users can explore pre-pitch movements for each shortstop at the 4A level, filtered by game, play, and pitch attribute. A second tab provides heatmaps for analyzing player positioning during pre-pitch movements. The figures highlight individual player movement patterns and trends associated with each pitch attribute. Vertical Break was excluded due to poor model performance in identifying trends related to pre-pitch movements.
 
 
+## 6. Conclusion
+Currently, there is a lack of research focused on how fielder pre-pitch movements might signal pitch types to batters. This gap presents a significant opportunity for MLB teams to conduct more in-depth studies with proper data including batter handedness. By analyzing specific pitchers and their pitch repertoires, teams could uncover valuable insights into how these pre-pitch cues might be used to predict pitch types and gain a competitive edge.
+
+The models show that pre-pitch movements of the shortstop position offer subtle yet significant cues about upcoming pitch attributes. While the correlations may be small, they are enough to provide hitters with a potential advantage in anticipating pitch types and locations. These insights highlight the importance of even the most nuanced aspects of fielding positions and their impact on the game.
 
 
+## Acknowledgements
+I would especially like to thank Dr. Meredith Wills for the outstanding support and critique throughout the entire length of this project.
 
+
+## References
+API, S. (2022, July 4). Understanding rapsodo pitching data: Break profile (fastball). Rapsodo. https://rapsodo.com/blogs/baseball/understanding-rapsodo-pitching-data-break-profilefastball
+
+Cooper, J. J. (2023, November 8). The measure of a fastball has changed over the years. College Baseball, MLB Draft, Prospects - Baseball America. https://www.baseballamerica.com/stories/the-measure-of-a-fastball-has-changed-overthe- years/
+
+The importance of Pre-Pitch Movement. GRB Academy. (2020, January 29). https://grbacademy.com/2020/01/29/the-importance-of-pre-pitchmovement/#:~: text=It%20allows%20players%20to%20be,but%20an%20important%20o ne%20nonetheless.
+
+K, C. (n.d.). Dustin Pedroia Ready Position. Colonial Baseball Instruction. Retrieved August 10, 2024, from https://colonialbaseballinstruction.com/3121/coaching-baseball-pre-pitchroutine-defense.
