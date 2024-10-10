@@ -75,10 +75,21 @@ A K-Means Clustering approach was used to predict batter handedness, categorizin
 Generalized Linear Models (GLMs) were then developed to predict pitch attributes based on pre-pitch movements. The data was analyzed separately for right-handed and left-handed hitters, as each group was expected to yield different results. The models predicted pitch location, pitch type (fastball or off-speed), and vertical break (high or low) using pre-pitch movements. Performance was evaluated using Accuracy, Recall, Precision, and F1 Score to assess how well pre-pitch movements can predict pitch attributes and the effectiveness of each model.
 
 
+## 4. Results
+Each model was analyzed using 4 metrics: Accuracy, Recall, Precision and F1 Score. The combination of each metric determines whether the model was successful in predicting the outcome of pitch attributes. Recall measures the proportion of actual positive cases that are identified correctly. Precision measures the proportion of predicted positive cases that are correct. Finally, F1 Score measures the balance of precision and recall.
 
+### 4.1 Model Performance Left-Handed Hitters
+#### 4.1.1 Pitch Location
+The model predicts whether a pitch will be on the left or right side of the plate based on prepitch movements from the shortstop with a lefty batter accumulating a 55.9% success rate.
 
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 4.1</h3>
+  <img src="/images/figure_4_1.jpg" style="width:80%;" alt="Figure 4.1 Heatmap">
+  <p style="text-align:center; font-size:80%;">Higher values in the bottom right indicate a weaker model. The model struggles to predict any True Positives in the top right
+quadrant.</p>
+</div>
 
-
+However, the model has an F1 score of 41%, reflecting a low Recall score. This indicates that while the model is quite precise when it predicts a fastball, it is conservative and only classifies a pitch as a fastball when it is very confident. As a result, the model misses many fastballs, suggesting that although there is a detectable trend, the pre-pitch movements do not consistently predict fastballs with high reliability.
 
 
 
