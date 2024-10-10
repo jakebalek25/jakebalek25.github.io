@@ -39,4 +39,20 @@ For this study, data was obtained from the SMT 2024 Data Challenge, encompassing
 ### 2.1 Data Processing & Analysis
 This study focused on the 4A level to manage the large volume of player positioning data within R Studio’s limits, excluding data from other levels for efficient processing. Additional events were added to the play-by-play data to capture pre-pitch movements, including codes for the ball in the air during the pitch and the phase between plays.
 
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; max-width: 60%; margin-right: 10px;">
+    <h3 style="text-align: center;">Figure 2.1</h3>
+    <img src="/images/figure_2_1.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Shortstop 636">
+    <p style="text-align: center; font-size: 80%;">This figure displays pre-pitch movement player tracking data for shortstop 636 for a single game when there were only lefty batters at the plate. The colors represent the pitch type thrown after each pre-pitch movement.</p>
+  </div>
+  <div style="flex: 1; max-width: 60%; margin-left: 10px;">
+    <h3 style="text-align: center;">Figure 2.2</h3>
+    <img src="/images/figure_2_2.png" style="width: 100%; height: auto; display: block;" alt="Illustration of Shortstop 901">
+    <p style="text-align: center; font-size: 80%;">This figure displays pre-pitch movement player tracking data for shortstop 901 for a single game when there were only lefty batters at the plate. The colors represent the pitch type thrown after each pre-pitch movement.</p>
+  </div>
+</div>
+
+Each shortstop exhibits unique pre-pitch movements: for example, Shortstop 636 moves straight towards home plate with minimal variation, while Shortstop 901 moves back towards the middle of the field. The study analyzes how these movements might predict pitch attributes.
+
+To manage the data, only timestamps related to shortstops were retained. Missing values in IDs and player position tracking data were addressed to ensure the dataset's integrity. The cleaned dataset included 764,760 observations over 10,504 pitches at the 4A level.
 
