@@ -16,6 +16,7 @@ The assessment was done using Generalized Linear Models, with separate analysis 
 
 The findings highlight the need for further research with the proper data into how different fielders’ pre-pitch movements might signal either pitch attributes or pitch types, emphasizing the importance of analyzing detailed fielding routines and coaching practices.
 
+
 ## 1. Introduction
 In baseball, a pre-pitch movement allows fielders to optimize positioning and readiness, significantly impacting their ability to make plays effectively. According to Diamond Dreams Baseball Academy, players develop a strategy for reacting if the ball is put into play. Infielders, especially shortstops, use foot movement and stances to adjust their readiness based on pitch signals.
 
@@ -55,4 +56,32 @@ This study focused on the 4A level to manage the large volume of player position
 Each shortstop exhibits unique pre-pitch movements: for example, Shortstop 636 moves straight towards home plate with minimal variation, while Shortstop 901 moves back towards the middle of the field. The study analyzes how these movements might predict pitch attributes.
 
 To manage the data, only timestamps related to shortstops were retained. Missing values in IDs and player position tracking data were addressed to ensure the dataset's integrity. The cleaned dataset included 764,760 observations over 10,504 pitches at the 4A level.
+
+
+## 3. Methodology
+This study uses a quantitative research design to analyze the correlation between pre-pitch player position tracking and upcoming pitch attributes.
+First, a new variable identified whether each pitch was thrown on the left or right side of the strike zone, measuring the horizontal ball position (x) at the closest point to the plate (y=0). Due to data being recorded every fifty milliseconds, some data points were missing, including instances where the ball crossed the plate. To combat this, the x location was determined at the closest point to the plate in which the ball was recorded. This was the first major attribute towards predicting a pitch.
+
+A new variable was created to calculate pitch speed. Using J.J. Cooper's method from Baseball America, velocity was measured at 50 feet from the plate, as traditionally done in MLB until recently. Due to missing data when the ball is exactly 50 feet from the plate, speed was instead measured at data points between 55 and 45 feet, covering 99% of the pitches. Speed was calculated using the formula Distance/Time in feet per second and then converted to miles per hour (MPH) by multiplying by approximately 0.68.
+
+Based on the speed of each pitch thrown, a binary variable was calculated to classify each pitch as either an off-speed pitch or a fastball variant. A pitch was classified as a fastball if it fell within the top 7% of each pitcher’s velocity range, ensuring that all fastball pitches had a mean speed of 91.6 mph. This is just below the MLB average of around 92 mph, providing a solid benchmark. This binary classification of pitch type is a key attribute in the analysis.
+
+Vertical break for each pitch was calculated by determining when the pitch was in the air and gathering the ball_position_z measurements to measure the change in height. The change in heights was identified as the vertical break. Once this was calculated, the 50th percentile of the vertical break was determined. A new variable was created using percentile-based binarization to classify pitches as having a high vertical break versus a low vertical break at the 50th percentile, which is another key attribute in the analysis.
+
+A new variable was created to label the location where each ball was hit, categorizing it as either the left side, up the middle, or the right side. Based on hit charts from FanGraphs, 15- degree angles were used to split the zones between left center field and right center field, effectively representing the three batting zones. The data was then filtered based on x and y coordinates to determine the zone for each hit.
+
+A K-Means Clustering approach was used to predict batter handedness, categorizing batters as right-handed or left-handed while excluding switch hitters. The model used pitch location, pitch speed, and ball acquisition coordinates to predict handedness, hypothesizing that pitch location influences whether a batter hits to the left or right field. 
+
+Generalized Linear Models (GLMs) were then developed to predict pitch attributes based on pre-pitch movements. The data was analyzed separately for right-handed and left-handed hitters, as each group was expected to yield different results. The models predicted pitch location, pitch type (fastball or off-speed), and vertical break (high or low) using pre-pitch movements. Performance was evaluated using Accuracy, Recall, Precision, and F1 Score to assess how well pre-pitch movements can predict pitch attributes and the effectiveness of each model.
+
+
+
+
+
+
+
+
+
+
+
 
