@@ -84,7 +84,7 @@ The model predicts whether a pitch will be on the left or right side of the plat
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 4.1</h3>
-  <img src="/images/figure_4_1.jpg" style="width:80%;" alt="Figure 4.1 Heatmap">
+  <img src="/images/figure_4_1.png" style="width:80%;" alt="Figure 4.1 Heatmap">
   <p style="text-align:center; font-size:80%;">Higher values in the bottom right indicate a weaker model. The model struggles to predict any True Positives in the top right
 quadrant.</p>
 </div>
