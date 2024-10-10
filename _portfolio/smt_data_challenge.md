@@ -17,13 +17,11 @@ The assessment was done using Generalized Linear Models, with separate analysis 
 The findings highlight the need for further research with the proper data into how different fielders’ pre-pitch movements might signal either pitch attributes or pitch types, emphasizing the importance of analyzing detailed fielding routines and coaching practices.
 
 ## Introduction
-In baseball, a pre-pitch movement allows fielders to optimize positioning and readiness, significantly impacting their ability to make plays effectively. According to Diamond Dreams
-
-Baseball Academy, players develop a strategy for reacting if the ball is put into play. Infielders, especially shortstops, use foot movement and stances to adjust their readiness based on pitch signals.
+In baseball, a pre-pitch movement allows fielders to optimize positioning and readiness, significantly impacting their ability to make plays effectively. According to Diamond Dreams Baseball Academy, players develop a strategy for reacting if the ball is put into play. Infielders, especially shortstops, use foot movement and stances to adjust their readiness based on pitch signals.
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure1.1</h3>
-  <img src="/images/dusitn_pedroia.jpg" style="width:100%;" alt="Dustin Pedroia pre-pitch movement">
+  <img src="/images/dusitn_pedroia.jpg" style="width:80%;" alt="Dustin Pedroia pre-pitch movement">
   <p style="text-align:center; font-size:80%;">Dustin Pedroia with his pre-pitch hop into position. If this tennis-hop were to occur by gravitating in a certain direction
 depending on the pitch, he would be slightly tipping pitches.</p>
 </div>
