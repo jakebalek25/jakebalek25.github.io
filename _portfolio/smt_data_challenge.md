@@ -165,6 +165,10 @@ Currently, there is a lack of research focused on how fielder pre-pitch movement
 The models show that pre-pitch movements of the shortstop position offer subtle yet significant cues about upcoming pitch attributes. While the correlations may be small, they are enough to provide hitters with a potential advantage in anticipating pitch types and locations. These insights highlight the importance of even the most nuanced aspects of fielding positions and their impact on the game.
 
 
+## Shiny Application
+https://jjbalek.shinyapps.io/Final_SMT_app/ 
+
+
 ## Acknowledgements
 I would especially like to thank Dr. Meredith Wills for the outstanding support and critique throughout the entire length of this project.
 
