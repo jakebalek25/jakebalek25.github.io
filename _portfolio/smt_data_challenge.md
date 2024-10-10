@@ -16,7 +16,7 @@ The assessment was done using Generalized Linear Models, with separate analysis 
 
 The findings highlight the need for further research with the proper data into how different fielders’ pre-pitch movements might signal either pitch attributes or pitch types, emphasizing the importance of analyzing detailed fielding routines and coaching practices.
 
-## Introduction
+## 1. Introduction
 In baseball, a pre-pitch movement allows fielders to optimize positioning and readiness, significantly impacting their ability to make plays effectively. According to Diamond Dreams Baseball Academy, players develop a strategy for reacting if the ball is put into play. Infielders, especially shortstops, use foot movement and stances to adjust their readiness based on pitch signals.
 
 <div style="text-align:center;">
@@ -29,7 +29,14 @@ depending on the pitch, he would be slightly tipping pitches.</p>
 However, there is limited research on whether these pre-pitch movements tip pitch tendencies to the batter. This leads us to the question, do pre-pitch movement tendencies by shortstops provide clues about the attributes of an upcoming pitch? Through a detailed analysis of pre pitch movements and pitch type outcomes, this research demonstrates that specific movement patterns can be associated with pitch types and locations, thus offering a predictive advantage for hitters.
 
 
-
-
+## 2. Data
+For this study, data was obtained from the SMT 2024 Data Challenge, encompassing approximately one and a half seasons of gameplay. The dataset was anonymized to obscure overall demographic details, ensuring that the identities of teams and players remained confidential. The dataset comprises several critical components:
+    1. General Game Information: Provides details about each game, including unique identifiers for teams and players.
+    2. Ball Position Tracking: Precise tracking of the ball’s position was recorded every 50 milliseconds. It features x, y, and z (height) coordinates, with x and y coordinates relative to the back point of home plate.
+    3. Player Position Tracking: Player positions are recorded every 50 milliseconds. This includes x and y coordinates, allowing for detailed analysis of player movements.
+    4. Game Play Events: This records key events like pitch throws and ball catches, organized chronologically. It excludes minor events such as hits or outs.
+    
+   ### 2.1 Data Processing & Analysis
+This study focused on the 4A level to manage the large volume of player positioning data within R Studio’s limits, excluding data from other levels for efficient processing. Additional events were added to the play-by-play data to capture pre-pitch movements, including codes for the ball in the air during the pitch and the phase between plays.
 
 
