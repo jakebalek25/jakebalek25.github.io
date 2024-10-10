@@ -78,7 +78,7 @@ Generalized Linear Models (GLMs) were then developed to predict pitch attributes
 ## 4. Results
 Each model was analyzed using 4 metrics: Accuracy, Recall, Precision and F1 Score. The combination of each metric determines whether the model was successful in predicting the outcome of pitch attributes. Recall measures the proportion of actual positive cases that are identified correctly. Precision measures the proportion of predicted positive cases that are correct. Finally, F1 Score measures the balance of precision and recall.
 
-### 4.1 Model Performance Left-Handed Hitters
+### 4.1 Model Performance: Left-Handed Hitters
 #### 4.1.1 Pitch Location
 The model predicts whether a pitch will be on the left or right side of the plate based on prepitch movements from the shortstop with a lefty batter accumulating a 55.9% success rate.
 
@@ -90,6 +90,70 @@ quadrant.</p>
 </div>
 
 However, the model has an F1 score of 41%, reflecting a low Recall score. This indicates that while the model is quite precise when it predicts a fastball, it is conservative and only classifies a pitch as a fastball when it is very confident. As a result, the model misses many fastballs, suggesting that although there is a detectable trend, the pre-pitch movements do not consistently predict fastballs with high reliability.
+
+#### 4.1.2 Pitch Type
+The objective of this model is to predict pitch types—either fastball or off-speed—based on pre-pitch movements recorded from the shortstop's position when the batter is left-handed. The model achieves a prediction accuracy of 57.7%, which indicates a slight edge over random guessing and offers the hitter a competitive advantage indicating slight pitch tipping.
+
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 4.2</h3>
+  <img src="/images/figure_4_2.png" style="width:80%;" alt="Figure 4.2 Heatmap">
+  <p style="text-align:center; font-size:80%;">Higher values in the top right indicate a stronger model. The model has lots of success predicting fastballs as a result there
+are many True Positives in the top right quadrant.</p>
+</div>
+
+With an F1 score of 71%, the model demonstrates a strong balance between the ability to correctly identify pitches which is due to a high recall score with a small number of false positives. The model provides valuable predictions about upcoming pitch attributes based on shortstop movements, making it a useful tool for anticipating pitch types.
+
+#### 4.1.3 Vertical Pitch Break
+The goal of this model is to predict whether a pitch will exhibit a high vertical break based on pre-pitch movements from the shortstop’s position when there is a lefty batter. The model achieves an accuracy of 51.2%, indicating a model similar to randomly guessing.
+
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 4.3</h3>
+  <img src="/images/figure_4_3.png" style="width:80%;" alt="Figure 4.3 Heatmap">
+  <p style="text-align:center; font-size:80%;">Higher values in the bottom right indicate a weaker model. The model struggles to predict a High Vertical Break. The
+smallest quadrant is the True Positives in the top right.</p>
+</div>
+
+With an F1 score of 41.6%, the model shows it can predict a high vertical break with a recall of 64.8%. However, the model struggles in detecting when it should predict them due to precision. The overall lower performance of the model shows that it is difficult to predict the vertical break of an upcoming pitch based solely upon the shortstop’s pre-pitch movement.
+
+### 4.2 Model Performance: Right-Handed Hitters
+#### 4.2.1 Pitch Location
+The goal of this model is to predict whether an upcoming pitch will be on the left or right side of home plate based on the shortstop’s pre-pitch movement when the batter is a right-handed hitter. With an accuracy of 55.9%, the model suggests that shortstops offer some level of hinting towards pitch location and an advantage to the hitter.
+
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 4.4</h3>
+  <img src="/images/figure_4_4.png" style="width:80%;" alt="Figure 4.4 Heatmap">
+  <p style="text-align:center; font-size:80%;">Higher values in the top right indicate a stronger model. The model has lots of success predicting fastballs and many True
+Positives in the top right as a result.</p>
+</div>
+
+When the model predicts a pitch location it will be accurate 56.2% of the time according to the precision. With a recall score of 69.4% the model indicates success in identifying pitches that fall into the predicted location. The results imply that while the model may not be perfect, it provides a solid foundation for predicting pitch location.
+
+#### 4.2.2 Pitch Type
+The objective of this model was to predict pitch types—either fastball or off-speed—based on pre-pitch movements recorded from the shortstop's position when the batter is right-handed. The model achieves an accuracy of 61%, indicating pre-pitch movements from the shortstop offer meaningful insights into the pitch type.
+
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 4.5</h3>
+  <img src="/images/figure_4_5.png" style="width:80%;" alt="Figure 4.5 Heatmap">
+  <p style="text-align:center; font-size:80%;">Higher values in the top right indicate a much stronger model. The model has lots of success predicting fastballs with many
+True Positives in the top right quadrant.</p>
+</div>
+
+A high recall of 92% indicates that the model is very effective correctly identifying the pitch type when it is called upon by the precision to make a prediction. The model demonstrates a strong performance identifying the pitch type to be a fastball.
+
+#### 4.2.3 Vertical Pitch Break
+The goal of this model is to predict whether the vertical break on an upcoming pitch will be high or low based upon the pre-pitch movement of the shortstop. The model demonstrates an accuracy of 52.2%, offering insight into what type of vertical break is expected based on the shortstop movement.
+
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 4.6</h3>
+  <img src="/images/figure_4_6.png" style="width:80%;" alt="Figure 4.6 Heatmap">
+  <p style="text-align:center; font-size:80%;">This heatmap demonstrates a large number of true positives in the top right quadrant. This means the model has success
+predicting a Hight Vertical Break.</p>
+</div>
+
+The F1 score of 58.5% reflects a mild balance between precision and recall. Meaning when the model predicts a high vertical break, it is correct only 52.3% of the time due to precision. The high recall compared to precision indicates a large number of false positives within the predictions. In summary, the model provides a moderate prediction of vertical pitch break based on pre-pitch movements. 
+
+Interestingly, the models generally performed better for predicting pitch attributes when the hitter is right-handed. This could be because the shortstop aligns on the same side of the field as the batter in this instance, providing a more straightforward angle for detecting and interpreting the shortstop's pre-pitch movements. This alignment likely facilitates better visibility and a more direct correlation between the shortstop's movements and the pitch attributes, enhancing the model's predictive power.
+
 
 
 
