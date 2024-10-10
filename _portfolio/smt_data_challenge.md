@@ -38,7 +38,7 @@ Baseball Academy, players develop a strategy for reacting if the ball is put int
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure1.1</h3>
-  <img src="/images/dustin_pedroia.png" style="width:100%;" alt="Dustin Pedroia pre-pitch movement">
+  <img src="/images/dustin_pedroia.jpg" style="width:100%;" alt="Dustin Pedroia pre-pitch movement">
   <p style="text-align:center; font-size:80%;">Dustin Pedroia with his pre-pitch hop into position. If this tennis-hop were to occur by gravitating in a certain direction
 depending on the pitch, he would be slightly tipping pitches.</p>
 </div>
