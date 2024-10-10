@@ -32,9 +32,9 @@ However, there is limited research on whether these pre-pitch movements tip pitc
 ## 2. Data
 For this study, data was obtained from the SMT 2024 Data Challenge, encompassing approximately one and a half seasons of gameplay. The dataset was anonymized to obscure overall demographic details, ensuring that the identities of teams and players remained confidential. The dataset comprises several critical components:
    1. General Game Information: Provides details about each game, including unique identifiers for teams and players.
-    2. Ball Position Tracking: Precise tracking of the ball’s position was recorded every 50 milliseconds. It features x, y, and z (height) coordinates, with x and y coordinates relative to the back point of home plate.
-    3. Player Position Tracking: Player positions are recorded every 50 milliseconds. This includes x and y coordinates, allowing for detailed analysis of player movements.
-    4. Game Play Events: This records key events like pitch throws and ball catches, organized chronologically. It excludes minor events such as hits or outs.
+   2. Ball Position Tracking: Precise tracking of the ball’s position was recorded every 50 milliseconds. It features x, y, and z (height) coordinates, with x and y coordinates relative to the back point of home plate.
+   3. Player Position Tracking: Player positions are recorded every 50 milliseconds. This includes x and y coordinates, allowing for detailed analysis of player movements.
+   4. Game Play Events: This records key events like pitch throws and ball catches, organized chronologically. It excludes minor events such as hits or outs.
     
 ### 2.1 Data Processing & Analysis
 This study focused on the 4A level to manage the large volume of player positioning data within R Studio’s limits, excluding data from other levels for efficient processing. Additional events were added to the play-by-play data to capture pre-pitch movements, including codes for the ball in the air during the pitch and the phase between plays.
