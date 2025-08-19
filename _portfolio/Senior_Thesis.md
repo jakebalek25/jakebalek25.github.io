@@ -1,6 +1,6 @@
 ---
 title: "Evaluating the Relationship Between Pitch Location and Batted Ball Directional Success at the MLB Level"
-excerpt: "Are MLB Hitters Pulling the Ball too Often? <br/><img src='/images/wOBA_Differences_in_Pull_Oppo.png' width='925' height='500'>"
+excerpt: "Are MLB Hitters Pulling the Ball too Often? <br/><img src='/images/wOBA_Differences_in_Pull_Oppo.png' width='800' height='400'>"
 date: "2025-07-14"
 collection: portfolio
 ---
