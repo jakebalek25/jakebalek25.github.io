@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of myself at the Washington Nationals Ballpark](/images/nationals_pic.jpeg){: .align-right width="300px"}
-Currently in my senior year as an undergraduate student at Syracuse University.
+![Illustration of myself at the Washington Nationals Ballpark](/images/grad_photo.jpg){: .align-right width="300px"}
+Graduated Cum Laude from Syracuse University in May 2025 with a Bachelor of Science from the David B. Falk College of Sport and Human Dynamics. Majored in Sports Analytics and minored in Data Analytics. 
 
-Pursuing a Bachelor of Science degree with a major in Sports Analytics and a minor in Data Analytics.
+Finished senior year while working in Lakeland, FL with the Detroit Tigers International Scouting department where I'll be the rest of the year!
 
-Previously worked with data across all major sports and their derivation through predictive modeling. 
+Continuously learning new tricks in data, scouting and all of baseball to bring to my next opportunity.
 
-My favorite sport data is baseball. 
-
-Check out my Portfolio tab for some of the bigger projects I have worked on recently or my Blog tab for some of the smaller ideas I've recently thought about. 
+Check out my Portfolio tab for some of the bigger projects I have worked on! 
