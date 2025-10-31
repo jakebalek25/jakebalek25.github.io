@@ -128,7 +128,11 @@ Pitch locations were binned into categorical zones within the strike zone of Ins
 
 Next, to replicate a “spray direction”, a new variable of Batted Ball Direction, was created by translating batted ball locations into three slope-based directional bins: Pull, Middle, and Opposite field. Using the tangent function, slopes were defined to assign each batted ball to one of the three directional zones relative to batter handedness. This allowed for consistent directional classification across thousands of observations. The spray zones for right-handed hitters can be seen in Figure 2.
 
-# FIGURE 2
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 2 – Right-Handed Batters in 2024 Spray Chart</h3>
+  <img src="/images/figuretwothesis.png" style="width:80%;" alt="Thesis - Figure 2">
+  <p style="text-align:center; font-size:80%;">The figure displays the distribution of all batted balls from RHH during the 2024 season categorized into “Pull”, “Middle”, and “Opposite”.  </p>
+</div>
 
 Next, a Chi-Square test of independence was conducted using the dummy-coded location and zone variables to assess relationships between pitch location and spray direction. This test determined whether the horizontal pitch location (Inside, Middle, Outside) was statistically associated with the spray direction (Pull, Middle, Opposite) of each batted ball.
 
@@ -147,10 +151,20 @@ To investigate the relationship between overall pull percentage and xwOBA, a lin
 ## 4. Results
 The analysis of spray direction for both left and right-handed hitters on outside pitches revealed insights that challenge traditional baseball narratives. First, Figure 3 examines whether hitters hit outside pitches to the opposite field. Contrary to this expectation, the data shows that left-handed hitters pull the ball on outside pitches 6.6% more frequently than they hit it to the opposite field on outside pitches. This highlights a strong intent to pull the ball. Right-handed hitters, on the other hand, tend to hit outside pitches to the opposite field more often than pulling an outside pitch, doing so 1.6% more often. While this trend aligns with the narrative to a slight extent, it still indicates a preference for pulling the ball.
 
-# FIGURE 3
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 3  – Spray Direction on Outside Pitches 2015-2024</h3>
+  <img src="/images/figurethreethesis.png" style="width:80%;" alt="Thesis - Figure 3">
+  <p style="text-align:center; font-size:80%;">This chart displays the ‘Batted Ball Direction in which the ball is hit to. This only displays the trend when an outside pitch is thrown. T  </p>
+</div>
+
 Continuing, Figure 4 shows the trend in pull percentages across the league from 2017 to 2024 were inputted into a line graph as can be seen in Figure 4 below.  In 2017, the league-wide pull percentage was 33.7%, and it experienced a slight increase over the following years. In 2020 and 2021, there was slight regression in pull percentage however, since 2017 there has been an increase of 3.1% in pull percentage on all batted balls. 
  
-# FIGURE 4 
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 4  – Yearly Pull Percentage Rates 2017 to 2024</h3>
+  <img src="/images/figurefourthesis.png" style="width:80%;" alt="Thesis - Figure 4">
+  <p style="text-align:center; font-size:80%;">This chart displays the uptick in the percentage of batted balls being hit to the pull side by both right and left handedright- and left-handed hitters.   </p>
+</div>
+
 Next, to examine how pitch location causes batters to pull the ball, correlations were plotted  between different pitch types for the percentage of inside pitches and the pull percentage. To match the narrative of hitters hitting the ball the way it came would suggest that, the percentage of inside pitches would match the percentage of those pitches being pulled, but the data suggests another narrativetells another story. The chart shows that all pitches thrown in 2024 were pulled at a higher rate than they were thrown in the inside part of the strike zone. This excludes Sinkers which are thrown inside 40.6% of the time and only pulled 40% of the time as well as Four -Seam Fastballs which are pulled slightly less than they are thrown inside. However, Four -Seam Fastballs and Sinkers are nearly identical in the percentage of pitches thrown inside and the pull percentage of all pitches likely because of the higher velocities. All other pitches are pulled at rates of nearly 20% more than they are thrown inside as can be seen in Figure 5. 
 
 # FIGURE 5
