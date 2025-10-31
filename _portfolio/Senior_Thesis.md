@@ -120,7 +120,11 @@ Next, the dataset was adjusted to match standard field coordinates for visualiza
 
 Pitch locations were binned into categorical zones within the strike zone of Inside, Middle, and Outside, batter’s handedness was accounted for. Each zone measured an equal 0.48-feet, with additional padding to account for pitches just off the plate. This allowed for better analysis of how pitch location influences batted ball direction throughout visualizations rather than modeling. Modeling used the actual x-coordinates rather than the binned zones to ensure more clarity. Figure 1 displays the three zones that were formed using Javier Baez’s pitch chart as a hitter in 2024. 
 
-# Figure 1
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 1 – Pitch Location Variable, Batter’s View</h3>
+  <img src="/images/figureonethesis.png" style="width:80%;" alt="Thesis - Figure 1">
+  <p style="text-align:center; font-size:80%;">This chart displays what the pitch location bins consist of for each hitter. This example shows the zone of batted balls for Javier Baez during the 2024 season. </p>
+</div>
 
 Next, to replicate a “spray direction”, a new variable of Batted Ball Direction, was created by translating batted ball locations into three slope-based directional bins: Pull, Middle, and Opposite field. Using the tangent function, slopes were defined to assign each batted ball to one of the three directional zones relative to batter handedness. This allowed for consistent directional classification across thousands of observations. The spray zones for right-handed hitters can be seen in Figure 2.
 
