@@ -167,23 +167,43 @@ Continuing, Figure 4 shows the trend in pull percentages across the league from 
 
 Next, to examine how pitch location causes batters to pull the ball, correlations were plotted  between different pitch types for the percentage of inside pitches and the pull percentage. To match the narrative of hitters hitting the ball the way it came would suggest that, the percentage of inside pitches would match the percentage of those pitches being pulled, but the data suggests another narrativetells another story. The chart shows that all pitches thrown in 2024 were pulled at a higher rate than they were thrown in the inside part of the strike zone. This excludes Sinkers which are thrown inside 40.6% of the time and only pulled 40% of the time as well as Four -Seam Fastballs which are pulled slightly less than they are thrown inside. However, Four -Seam Fastballs and Sinkers are nearly identical in the percentage of pitches thrown inside and the pull percentage of all pitches likely because of the higher velocities. All other pitches are pulled at rates of nearly 20% more than they are thrown inside as can be seen in Figure 5. 
 
-# FIGURE 5
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 5 – Percentage of Pitches by Pitch Type vs Pull Pct of Each Pitch </h3>
+  <img src="/images/figurefivethesis.png" style="width:80%;" alt="Thesis - Figure 5">
+  <p style="text-align:center; font-size:80%;">The two charts above display the percentage of inside pitches by each pitch type thrown in 2024 and the percentage that each pitch type is pulled during the 2024 season.  
+</p>
+</div>
 
 Next, these results imply that hitters are pulling the ball more often than would be expected based on the pitch location. The question that arises is whether pulling the ball in these instances results in success.  
 
-# FIGURE 6
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 6 – Batted Ball Direction by Pitch Location 2024</h3>
+  <img src="/images/figuresixthesis.png" style="width:80%;" alt="Thesis - Figure 6">
+  <p style="text-align:center; font-size:80%;">This displays each batted ball by both left and right handed hitters d   uring 2024. It displays a strike zone with the pitch coordinates and is colored based on the direction in which the ball was hit. 
+</p>
+</div>
 
 Figure 6 visualizes batted ball direction for both left and right-handed hitters in 2024, based on pitch location. The strike zone is shown with color codeding indicating bythe direction of the batted ball. The chart is densely populated with data points, making it hard to conclude whether or not hitters are pulling the ball more than they should be.  
 
 To assess the relationship between pitch location and batted ball direction, a chi-squared test was performed. The results of the test indicated a highly significant relationship between the two variables with a p-value < 2.2e-16. The extremely low p-value allows a rejection of the null hypothesis, supportsing the conclusion that pitch location and batted ball direction are not independent. This suggests that pitch location plays a crucial role in determining whether a batter pulls the ball or hits it to the opposite field. 
 
-# FIGURE 7
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 7 – GAM Predicted Batted Ball Direction </h3>
+  <img src="/images/figureseventhesis.png" style="width:80%;" alt="Thesis - Figure 7">
+  <p style="text-align:center; font-size:80%;">The chart displays the Predicted Batted Ball Direction by Pitch Location for both right-handed and left-handed hitters. The predictions come from the GAM. 
+</p>
+</div>
 
 Next, the two models for both RHH and LHH predicted the batted ball direction based on the pitch location. The results showed that the predicted batted ball directions closely follow the narrative, with the difference between right and left-handed hitters being minimal. Both are nearly identical to perfect mirror images of each other, although they are flipped of course in Figure 7 above. Right-handed hitters tend to hit high and outside pitches to right field while left-handed hitters hit low and inside balls to left field. 
 
 To explore this relationship further, a separate GAM was run to investigate the correlation between predicted batted ball location and pitch type. The results can be seen in Figure 8. 
 
-# FIGURE 8
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 8 – Predicted Hit Location vs. Pitch Type (Right-handed Hitters</h3>
+  <img src="/images/figureeightthesis.png" style="width:80%;" alt="Thesis - Figure 8">
+  <p style="text-align:center; font-size:80%;">This chart displays the predicted hit location results from the GAM. It displays the predicted hit location of each Type of Pitch. 
+</p>
+</div>
 
 The GAM results for right-handed hitters indicate that almost all pitches are pulled, with the exception of four-seam fastballs and sinkers, which tend to be hit to the opposite field. This suggests that right-handed hitters are more inclined to pull nearly every pitch , which is why the average batted ball location for each pitch type leans toward the pull side. This is similar to Figure 5 which suggests the same. 
 
@@ -191,25 +211,46 @@ Now that we know hitters tend to pull the ball more often, this begs the questio
 
 Within the dataset, there was no solidified There was no xwOBA metric provided in the dataset, so the goal was to replicate this statistic by building an XGBoost model. The first XGBoost model was used to create the xwOBA metric, which was then compared to actual wOBA for the 2024 season to measure accuracy. The results demonstrated that the xwOBA values closely aligned with actual wOBA, confirming the model’s predictive accuracy.
 
-# FIGURE 9
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 9 – Distribution of xwOBA minus wOBA during the 2024 season</h3>
+  <img src="/images/figureninethesis.png" style="width:80%;" alt="Thesis - Figure 9">
+  <p style="text-align:center; font-size:80%;">The chart displays the Distribution of xwOBA minus wOBA during the 2024 season.
+</p>
+</div>
 
 Figure 9 illustrates that the predicted xwOBA values are very close to the actual wOBA, but the model does not achieve perfect alignment, which is expected. xwOBA is designed to be a prediction of a hitter’s performance that is not entirely outcome-based but still incorporates outcome data.
 
-# FIGURE 10
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 10 – xwOBA vs Spray Angle by Pitch Location</h3>
+  <img src="/images/figuretenthesis.png" style="width:80%;" alt="Thesis - Figure 10">
+  <p style="text-align:center; font-size:80%;">This chart examines the correlation between xwOBA and the Spray Angle for each pitch location bin. The correlation can be seen on the trend line or with the slope at the top of each graph. 
+</div>
 
 Figure 10 explores the relationship between xwOBA and the horizontal direction of batted balls, by pitch location for only right-handed hitters. The model indicates that on inside pitches, pulled batted balls tend to yield the highest xwOBA when pulled more dramaticallyvalues. Pitches in the middle of the strike zone also show a strongly positive correlation with increased xwOBA as they are pulled. 
 
 Interestingly, outside pitches show a minor positive correlation with pulling the ball, suggesting that hitting outside pitches to the pull side may not be as detrimental as previously thought. The next step is to figure out where the xwOBA drops in success rate the further into the outside part of the zone the pitch location goes.  
 
-# FIGURE 11
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 11 – Areas of Predicted xwOBA Over .320 for Pulled Batted Balls as a Right-Handed Hitter</h3>
+  <img src="/images/figureeleventhesis.png" style="width:80%;" alt="Thesis - Figure 11">
+  <p style="text-align:center; font-size:80%;">This chart displays the strike zone for right-handed hitters. The shaded areas are areas in which the ball should be pulled because there is an xwOBA over .320 meaning that it is above average in success levels.  
+</div>
 
 Next, the XGBoost model visualizes the predicted xwOBA for pulled batted balls, highlighting areas where it is greater than or equal to 0.320 . These shaded areas represent locations in the strike zone where pulling the ball is expected to result in above-average performance. The inside and middle zones, as well as some of the outside zone, are shaded, indicating that pulling the ball in these areas leads to higher expected performance. The xwOBA grows higher the closer the pitch is to the middle of the zone and near the top of the zone. This show that pulling the ball more often results in high xwOBA. Does this mean hitters should never hit the ball to opposite field even where the zones are shaded?
 
-# FIGURE 12
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 12 – Areas of Predicted xwOBA Over .320 for Balls Hit to the Opposite Field as a Right-Handed Hitter</h3>
+  <img src="/images/figuretwelvethesis.png" style="width:80%;" alt="Thesis - Figure 12">
+  <p style="text-align:center; font-size:80%;">This chart displays the strike zone for right-handed hitters. The shaded areas are areas in which the ball should be hit to opposite field because there is an xwOBA over .320 meaning that it is above average in success levels.  
+</div>
 
 As can be seen in Figure 12, the answer is no.: Iit does still makes sense to hit the ball to the opposite field when seeing for certain pitch locations. This chart displays where the XGBoost model where suggests balls should be hit to the opposite field because of an xwOBA over .320. The shaded regions suggest above-average performance when hitting to the opposite field, but this zone is much smaller than the pull zone., Notably, it excludesing the inside part of the plate, which supports the notion that pulling the ball inside pitches tends to yield better results. However, just because the xwOBA is over .320 doesn’t mean that it would make the most sense to hit it to opposite field. Determining the way to hit the ball would come by comparing the two predicted outcomes. 
 
-# FIGURE 13
+<div style="text-align:center;">
+  <h3 style="text-align: center;">Figure 13 – xwOBA Differences  in Pulled vs. Opposite Field Hits for Right-Handed Hitters</h3>
+  <img src="/images/figurethirteenthesis.png" style="width:80%;" alt="Thesis - Figure 13">
+  <p style="text-align:center; font-size:80%;">The red areas indicate zones where pulling the ball is most advantageous, while the blue areas highlight where hitting to the opposite field is the better option for maximizing expected performance.
+</div>
 
 Finally, Figure 13 models shows the difference between pulled vs. opposite field hitting based on xwOBA and pitch location. It  is calculated by subtracting the pull xwOBA success from the opposite field success at every x and y coordinate. This displays that pulling the ball in most of the zone other than all but the furthest outside part of the zone makes sense for the highest xwOBA. 
 
