@@ -23,7 +23,7 @@ By examining correlations through visualization, generalized additive models and
 ## 2. Literature Review
 In the past, there has been research dedicated to understanding at what point hitters should make contact with the ball in terms of success, but there hasn’t been much research on where a ball should be hit based on where it was pitched in the zone. To understand what this article examines, let’s take a step back to understand what has already been researched. 
 
-# 2.1 Similar Baseball Modeling Techniques
+### 2.1 Similar Baseball Modeling Techniques
 To better understand how hitters hit the ball a certain way, we must first understand how researchers understand the game and have gone about this topic in the past. Analytics in baseball force teams to ask better questions and push old narratives that have been around in baseball for decades. For example, what if we could predict a batted ball’s outcome based on swing mechanics and batted ball metrics. 
 
 Albert (2018) did just that by using Generalized Linear Models (GLM) to forecast hit probability based on launch angle, exit velocity and spray angle. His findings revealed that spray angle was a key contributor when predicting ground ball outcomes and a significant predictor of whether or not it resulted in a hit. The direction of balls hit in the air proved to be less critical. Albert’s study used GLM’s and visualization to display how important spray angle is when determining how successful a hitter will be with a certain batted ball. 
