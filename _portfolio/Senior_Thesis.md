@@ -153,8 +153,8 @@ The analysis of spray direction for both left and right-handed hitters on outsid
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 3  – Spray Direction on Outside Pitches 2015-2024</h3>
-  <img src="/images/figurethreethesis.png" style="width:80%;" alt="Thesis - Figure 3">
-  <p style="text-align:center; font-size:80%;">This chart displays the ‘Batted Ball Direction in which the ball is hit to. This only displays the trend when an outside pitch is thrown. T  </p>
+  <img src="images/figurethreethesis.png" style="width:80%;" alt="Thesis - Figure 3">
+  <p style="text-align:center; font-size:80%;">This chart displays the Batted Ball Direction in which the ball is hit to. This only displays the trend when an outside pitch is thrown. </p>
 </div>
 
 Continuing, Figure 4 shows the trend in pull percentages across the league from 2017 to 2024 were inputted into a line graph as can be seen in Figure 4 below.  In 2017, the league-wide pull percentage was 33.7%, and it experienced a slight increase over the following years. In 2020 and 2021, there was slight regression in pull percentage however, since 2017 there has been an increase of 3.1% in pull percentage on all batted balls. 
