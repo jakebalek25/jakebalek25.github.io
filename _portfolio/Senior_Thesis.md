@@ -153,7 +153,7 @@ The analysis of spray direction for both left and right-handed hitters on outsid
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 3  – Spray Direction on Outside Pitches 2015-2024</h3>
-  <img src="images/figurethreethesis.png" style="width:80%;" alt="Thesis - Figure 3">
+  <img src="/images/figurethreethesis.png" style="width:80%;" alt="Thesis - Figure 3">
   <p style="text-align:center; font-size:80%;">This chart displays the Batted Ball Direction in which the ball is hit to. This only displays the trend when an outside pitch is thrown. </p>
 </div>
 
