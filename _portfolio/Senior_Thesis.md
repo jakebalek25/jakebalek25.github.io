@@ -122,7 +122,7 @@ Pitch locations were binned into categorical zones within the strike zone of Ins
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 1 – Pitch Location Variable, Batter’s View</h3>
-  <img src="/images/figureonethesis.png" style="width:80%;" alt="Thesis - Figure 1">
+  <img src="/images/figureonethesis.png" style="width:100%;" alt="Thesis - Figure 1">
   <p style="text-align:center; font-size:80%;">This chart displays what the pitch location bins consist of for each hitter. This example shows the zone of batted balls for Javier Baez during the 2024 season. </p>
 </div>
 
@@ -130,7 +130,7 @@ Next, to replicate a “spray direction”, a new variable of Batted Ball Direct
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 2 – Right-Handed Batters in 2024 Spray Chart</h3>
-  <img src="/images/figuretwothesis.png" style="width:80%;" alt="Thesis - Figure 2">
+  <img src="/images/figuretwothesis.png" style="width:100%;" alt="Thesis - Figure 2">
   <p style="text-align:center; font-size:80%;">The figure displays the distribution of all batted balls from RHH during the 2024 season categorized into “Pull”, “Middle”, and “Opposite”.  </p>
 </div>
 
