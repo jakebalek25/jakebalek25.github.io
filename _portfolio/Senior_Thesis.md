@@ -153,7 +153,7 @@ The analysis of spray direction for both left and right-handed hitters on outsid
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 3  – Spray Direction on Outside Pitches 2015-2024</h3>
-  <img src="/images/figurethreethesis.png" style="width:80%;" alt="Thesis - Figure 3">
+  <img src="/images/figurethreethesis.png" style="width:100%;" alt="Thesis - Figure 3">
   <p style="text-align:center; font-size:80%;">This chart displays the Batted Ball Direction in which the ball is hit to. This only displays the trend when an outside pitch is thrown. </p>
 </div>
 
@@ -161,7 +161,7 @@ Continuing, Figure 4 shows the trend in pull percentages across the league from 
  
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 4  – Yearly Pull Percentage Rates 2017 to 2024</h3>
-  <img src="/images/figurefourthesis.png" style="width:80%;" alt="Thesis - Figure 4">
+  <img src="/images/figurefourthesis.png" style="width:100%;" alt="Thesis - Figure 4">
   <p style="text-align:center; font-size:80%;">This chart displays the uptick in the percentage of batted balls being hit to the pull side by both right and left handedright- and left-handed hitters.   </p>
 </div>
 
@@ -169,7 +169,7 @@ Next, to examine how pitch location causes batters to pull the ball, correlation
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 5 – Percentage of Pitches by Pitch Type vs Pull Pct of Each Pitch </h3>
-  <img src="/images/figurefivethesis.png" style="width:80%;" alt="Thesis - Figure 5">
+  <img src="/images/figurefivethesis.png" style="width:100%;" alt="Thesis - Figure 5">
   <p style="text-align:center; font-size:80%;">The two charts above display the percentage of inside pitches by each pitch type thrown in 2024 and the percentage that each pitch type is pulled during the 2024 season.  
 </p>
 </div>
@@ -178,7 +178,7 @@ Next, these results imply that hitters are pulling the ball more often than woul
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 6 – Batted Ball Direction by Pitch Location 2024</h3>
-  <img src="/images/figuresixthesis.png" style="width:80%;" alt="Thesis - Figure 6">
+  <img src="/images/figuresixthesis.png" style="width:100%;" alt="Thesis - Figure 6">
   <p style="text-align:center; font-size:80%;">This displays each batted ball by both left and right handed hitters d   uring 2024. It displays a strike zone with the pitch coordinates and is colored based on the direction in which the ball was hit. 
 </p>
 </div>
@@ -189,7 +189,7 @@ To assess the relationship between pitch location and batted ball direction, a c
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 7 – GAM Predicted Batted Ball Direction </h3>
-  <img src="/images/figureseventhesis.png" style="width:80%;" alt="Thesis - Figure 7">
+  <img src="/images/figureseventhesis.png" style="width:100%;" alt="Thesis - Figure 7">
   <p style="text-align:center; font-size:80%;">The chart displays the Predicted Batted Ball Direction by Pitch Location for both right-handed and left-handed hitters. The predictions come from the GAM. 
 </p>
 </div>
@@ -200,7 +200,7 @@ To explore this relationship further, a separate GAM was run to investigate the 
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 8 – Predicted Hit Location vs. Pitch Type (Right-handed Hitters</h3>
-  <img src="/images/figureeightthesis.png" style="width:80%;" alt="Thesis - Figure 8">
+  <img src="/images/figureeightthesis.png" style="width:100%;" alt="Thesis - Figure 8">
   <p style="text-align:center; font-size:80%;">This chart displays the predicted hit location results from the GAM. It displays the predicted hit location of each Type of Pitch. 
 </p>
 </div>
@@ -213,7 +213,7 @@ Within the dataset, there was no solidified There was no xwOBA metric provided i
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 9 – Distribution of xwOBA minus wOBA during the 2024 season</h3>
-  <img src="/images/figureninethesis.png" style="width:80%;" alt="Thesis - Figure 9">
+  <img src="/images/figureninethesis.png" style="width:100%;" alt="Thesis - Figure 9">
   <p style="text-align:center; font-size:80%;">The chart displays the Distribution of xwOBA minus wOBA during the 2024 season.
 </p>
 </div>
@@ -222,7 +222,7 @@ Figure 9 illustrates that the predicted xwOBA values are very close to the actua
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 10 – xwOBA vs Spray Angle by Pitch Location</h3>
-  <img src="/images/figuretenthesis.png" style="width:80%;" alt="Thesis - Figure 10">
+  <img src="/images/figuretenthesis.png" style="width:100%;" alt="Thesis - Figure 10">
   <p style="text-align:center; font-size:80%;">This chart examines the correlation between xwOBA and the Spray Angle for each pitch location bin. The correlation can be seen on the trend line or with the slope at the top of each graph. 
 </div>
 
@@ -232,7 +232,7 @@ Interestingly, outside pitches show a minor positive correlation with pulling th
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 11 – Areas of Predicted xwOBA Over .320 for Pulled Batted Balls as a Right-Handed Hitter</h3>
-  <img src="/images/figureeleventhesis.png" style="width:80%;" alt="Thesis - Figure 11">
+  <img src="/images/figureeleventhesis.png" style="width:100%;" alt="Thesis - Figure 11">
   <p style="text-align:center; font-size:80%;">This chart displays the strike zone for right-handed hitters. The shaded areas are areas in which the ball should be pulled because there is an xwOBA over .320 meaning that it is above average in success levels.  
 </div>
 
@@ -240,7 +240,7 @@ Next, the XGBoost model visualizes the predicted xwOBA for pulled batted balls, 
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 12 – Areas of Predicted xwOBA Over .320 for Balls Hit to the Opposite Field as a Right-Handed Hitter</h3>
-  <img src="/images/figuretwelvethesis.png" style="width:80%;" alt="Thesis - Figure 12">
+  <img src="/images/figuretwelvethesis.png" style="width:100%;" alt="Thesis - Figure 12">
   <p style="text-align:center; font-size:80%;">This chart displays the strike zone for right-handed hitters. The shaded areas are areas in which the ball should be hit to opposite field because there is an xwOBA over .320 meaning that it is above average in success levels.  
 </div>
 
@@ -248,7 +248,7 @@ As can be seen in Figure 12, the answer is no.: Iit does still makes sense to hi
 
 <div style="text-align:center;">
   <h3 style="text-align: center;">Figure 13 – xwOBA Differences  in Pulled vs. Opposite Field Hits for Right-Handed Hitters</h3>
-  <img src="/images/figurethirteenthesis.png" style="width:80%;" alt="Thesis - Figure 13">
+  <img src="/images/figurethirteenthesis.png" style="width:100%;" alt="Thesis - Figure 13">
   <p style="text-align:center; font-size:80%;">The red areas indicate zones where pulling the ball is most advantageous, while the blue areas highlight where hitting to the opposite field is the better option for maximizing expected performance.
 </div>
 
