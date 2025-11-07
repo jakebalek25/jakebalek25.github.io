@@ -267,14 +267,14 @@ Pitch type also played a meaningful role. Fastballs tended to produce more oppos
 
 The chi-squared test results confirmed that pitch location and batted ball direction are strongly linked. When pitchers miss their spots, the likelihood of hard-hit, pulled contact goes up dramatically, which has major implications for both offensive production and defensive planning.
 
-5.1 Implications for Baseball Strategy
+### 5.1 Implications for Baseball Strategy
 The findings of this study reinforce a growing trend in Major League Baseball: hitters are increasingly being coached to attack pitches out in front of the plate to maximize power and consistency, especially on pitches they can pull. Teams should completely move away from traditional approaches that emphasizes "using all fields." Instead, they should encourage players to prioritize early, aggressive contact, particularly against pitches over the inside and middle of the plate. The same thing goes for off-speed pitches. 
 
 From an analytics perspective, these findings should open MLB teams' minds to doing more individualized research into their players' swing profiles and tendencies. Rather than relying solely on general league-wide trends, organizations should be creating specific reports for every hitter that detail where each player has the most success based on spray angle, pitch location, and pitch type. They should also be evaluating how effective a hitter is when they pull the ball, stay up the middle, or go to the opposite field from every area of the strike zone. This could also be done for pitch type. The goal would be to determine which areas of the strike zone a hitter has success hitting the ball certain directions rather than just having a hitters overall pitch splits. They could really dive into where in the zone a hitter has success with each pitch and where the hitter tends to hit the ball. 
 
 A team could eventually do this for all players in the league and tailer defensive shifts to each pitch for different batters throughout each game. This would be tough to implement because there would be so many moving pieces, but it would be quite interesting to see. 
 
-5.2 Limitations
+### 5.2 Limitations
 Despite the strength of the findings, a few limitations are worth mentioning. First, the study only considered pitches that resulted in balls in play, leaving out swings and misses as well as poorly hit balls. This could be leaving out a major underlying issue that doesn’t show up in the data because it isn’t being accounted for originally. Including those might have added even more context about how hitters respond to different locations. 
 
 Another limitation is that the success metric was quite simple. A better metric would have more biometric data about the type of batted ball itself rather than the outcome based data of wOBA. This is why launch angle and exit velocity were included however, there is much more data that could be included to make the metric better. If a team were to take their private biometric data, they could make a much more accurate and less outcome-based metric to evaluate a players success based on the batted ball direction. 
