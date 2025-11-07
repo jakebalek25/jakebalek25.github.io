@@ -235,6 +235,7 @@ Interestingly, outside pitches show a minor positive correlation with pulling th
   <h3 style="text-align: center;">Figure 11 – Areas of Predicted xwOBA Over .320 for Pulled Batted Balls as a Right-Handed Hitter</h3>
   <img src="/images/figureeleventhesis.png" style="width:100%;" alt="Thesis - Figure 11">
   <p style="text-align:center; font-size:80%;">This chart displays the strike zone for right-handed hitters. The shaded areas are areas in which the ball should be pulled because there is an xwOBA over .320 meaning that it is above average in success levels.  
+  </p>
 </div>
 
 Next, the XGBoost model visualizes the predicted xwOBA for pulled batted balls, highlighting areas where it is greater than or equal to 0.320 . These shaded areas represent locations in the strike zone where pulling the ball is expected to result in above-average performance. The inside and middle zones, as well as some of the outside zone, are shaded, indicating that pulling the ball in these areas leads to higher expected performance. The xwOBA grows higher the closer the pitch is to the middle of the zone and near the top of the zone. This show that pulling the ball more often results in high xwOBA. Does this mean hitters should never hit the ball to opposite field even where the zones are shaded?
@@ -243,6 +244,7 @@ Next, the XGBoost model visualizes the predicted xwOBA for pulled batted balls, 
   <h3 style="text-align: center;">Figure 12 – Areas of Predicted xwOBA Over .320 for Balls Hit to the Opposite Field as a Right-Handed Hitter</h3>
   <img src="/images/figuretwelvethesis.png" style="width:100%;" alt="Thesis - Figure 12">
   <p style="text-align:center; font-size:80%;">This chart displays the strike zone for right-handed hitters. The shaded areas are areas in which the ball should be hit to opposite field because there is an xwOBA over .320 meaning that it is above average in success levels.  
+  </p>
 </div>
 
 As can be seen in Figure 12, the answer is no.: Iit does still makes sense to hit the ball to the opposite field when seeing for certain pitch locations. This chart displays where the XGBoost model where suggests balls should be hit to the opposite field because of an xwOBA over .320. The shaded regions suggest above-average performance when hitting to the opposite field, but this zone is much smaller than the pull zone., Notably, it excludesing the inside part of the plate, which supports the notion that pulling the ball inside pitches tends to yield better results. However, just because the xwOBA is over .320 doesn’t mean that it would make the most sense to hit it to opposite field. Determining the way to hit the ball would come by comparing the two predicted outcomes. 
@@ -251,6 +253,7 @@ As can be seen in Figure 12, the answer is no.: Iit does still makes sense to hi
   <h3 style="text-align: center;">Figure 13 – xwOBA Differences  in Pulled vs. Opposite Field Hits for Right-Handed Hitters</h3>
   <img src="/images/figurethirteenthesis.png" style="width:100%;" alt="Thesis - Figure 13">
   <p style="text-align:center; font-size:80%;">The red areas indicate zones where pulling the ball is most advantageous, while the blue areas highlight where hitting to the opposite field is the better option for maximizing expected performance.
+  </p>
 </div>
 
 Finally, Figure 13 models shows the difference between pulled vs. opposite field hitting based on xwOBA and pitch location. It  is calculated by subtracting the pull xwOBA success from the opposite field success at every x and y coordinate. This displays that pulling the ball in most of the zone other than all but the furthest outside part of the zone makes sense for the highest xwOBA. 
