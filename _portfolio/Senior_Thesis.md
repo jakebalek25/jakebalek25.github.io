@@ -224,6 +224,7 @@ Figure 9 illustrates that the predicted xwOBA values are very close to the actua
   <h3 style="text-align: center;">Figure 10 – xwOBA vs Spray Angle by Pitch Location</h3>
   <img src="/images/figuretenthesis.png" style="width:100%;" alt="Thesis - Figure 10">
   <p style="text-align:center; font-size:80%;">This chart examines the correlation between xwOBA and the Spray Angle for each pitch location bin. The correlation can be seen on the trend line or with the slope at the top of each graph. 
+</p>
 </div>
 
 Figure 10 explores the relationship between xwOBA and the horizontal direction of batted balls, by pitch location for only right-handed hitters. The model indicates that on inside pitches, pulled batted balls tend to yield the highest xwOBA when pulled more dramaticallyvalues. Pitches in the middle of the strike zone also show a strongly positive correlation with increased xwOBA as they are pulled. 
