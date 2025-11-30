@@ -5,7 +5,9 @@ date: "2025-07-14"
 collection: portfolio
 ---
 
-![Visual displaying batted ball expected wOBA on piches inside vs. outside and where they should be hit](/images/wOBA_Differences_in_Pull_Oppo.png)
+  <h3 style="text-align: center;"></h3>
+  <img src="/images/wOBA_Differences_in_Pull_Oppo.png" style="width:100%;" alt="Thesis">
+</div>
 
 ## Abstract
 For years, hitters have been taught to “hit the ball where it’s pitched,” but recent trends in the MLB have revealed the advantages of pulling the ball. This study dives into the relationship between pitch location, pitch type and batted ball direction to better understand how hitters achieve the most successful outcomes. Using modeling, machine learning, and visualizations, the results show that pulling the ball on pitches throughout the strike zone, even outside corner, tends to lead to better offensive production. These findings challenge the traditional narrative and suggest that teams should teach hitters to hit the ball out in front of their body to pull the ball for more power. 
